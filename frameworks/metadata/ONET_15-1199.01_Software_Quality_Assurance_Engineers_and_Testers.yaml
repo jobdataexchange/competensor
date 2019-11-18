@@ -1,0 +1,290 @@
+framework_id: "a56bc89c-5da7-5e51-815f-621b9af3f020"
+framework_name: "ONET Software Quality Assurance Engineers and Tester"
+framework_description: "Develop and execute software test plans in order to identify software problems and their causes."
+framework_uri:
+    - "https://www.onetonline.org/link/summary/15-1199.01"
+source_path: "./frameworks/metadata/ONET_15-1199.01_Software_Quality_Assurance_Engineers_and_Testers.yaml"
+provider: "simple"
+text_block: |-
+    Design test plans, scenarios, scripts, or procedures.
+    Document software defects, using a bug tracking system, and report defects to software developers.
+    Identify, analyze, and document problems with program function, output, online screen, or content.
+    Develop testing programs that address areas such as database impacts, software scenarios, regression testing, negative testing, error or bug retests, or usability.
+    Participate in product design reviews to provide input on functional requirements, product designs, schedules, or potential problems.
+    Document test procedures to ensure replicability and compliance with standards.
+    Plan test schedules or strategies in accordance with project scope or delivery dates.
+    Conduct software compatibility tests with programs, hardware, operating systems, or network environments.
+    Test system modifications to prepare for implementation.
+    Monitor bug resolution efforts and track successes.
+    Review software documentation to ensure technical accuracy, compliance, or completeness, or to mitigate risks.
+    Provide feedback and recommendations to developers on software usability and functionality.
+    Update automated test scripts to ensure currency.
+    Create or maintain databases of known test defects.
+    Install, maintain, or use software testing programs.
+    Install and configure recreations of software production environments to allow testing of software performance.
+    Monitor program performance to ensure efficient and problem-free operations.
+    Identify program deviance from standards, and suggest modifications to ensure compliance.
+    Develop or specify standards, methods, or procedures to determine product quality or release readiness.
+    Design or develop automated testing tools.
+    Investigate customer problems referred by technical support.
+    Conduct historical analyses of test results.
+    Perform initial debugging procedures by reviewing configuration files, logs, or code pieces to determine breakdown source.
+    Evaluate or recommend software for testing or bug tracking.
+    Coordinate user or third-party testing.
+    Collaborate with field staff or customers to evaluate or diagnose problems and recommend possible solutions.
+    Access software
+    Accounting software
+    Analytical or scientific software
+    Application server software
+    Business intelligence and data analysis software
+    Communications server software
+    Computer aided design CAD software
+    Configuration management software
+    Content workflow software
+    Customer relationship management CRM software
+    Data base management system software
+    Data base reporting software
+    Data base user interface and query software
+    Data mining software
+    Desktop publishing software
+    Development environment software
+    Document management software
+    Electronic mail software
+    Enterprise application integration software
+    Enterprise resource planning ERP software
+    Enterprise system management software
+    Expert system software
+    File versioning software
+    Financial analysis software
+    Graphics or photo imaging software
+    Human resources software
+    Internet browser software
+    Map creation software
+    Medical software
+    Metadata management software
+    Network monitoring software
+    Network security and virtual private network VPN equipment software
+    Object or component oriented development software
+    Object oriented data base management software
+    Office suite software
+    Operating system software
+    Portal server software
+    Presentation software
+    Program testing software
+    Project management software
+    Requirements analysis and system architecture software
+    Spreadsheet software
+    Transaction security and virus protection software
+    Transaction server software
+    Video creation and editing software
+    Web page creation and editing software
+    Web platform development software
+    Word processing software
+    Citrix
+    Tax software
+    Minitab
+    SAS
+    The MathWorks MATLAB
+    GitHub
+    Oracle WebLogic Server
+    Red Hat WildFly
+    Spring Boot
+    IBM Cognos Impromptu
+    MicroStrategy
+    Qlik Tech QlikView
+    Tableau
+    IBM Domino
+    Autodesk AutoCAD
+    Dassault Systemes CATIA
+    Chef
+    IBM Rational ClearCase
+    Perforce Helix software
+    Puppet
+    Twiki
+    Workflow software
+    Salesforce software
+    Apache Cassandra
+    MongoDB
+    MySQL
+    Teradata Database
+    Microsoft SQL Server Reporting Services
+    SAP Crystal Reports
+    Apache Hive
+    Microsoft Access
+    Oracle JDBC
+    Transact-SQL
+    Google Analytics
+    Adobe Systems Adobe InDesign
+    Apache Maven
+    Common business oriented language COBOL
+    Microsoft PowerShell
+    Ruby
+    Adobe Systems Adobe Acrobat
+    IBM Notes
+    Microsoft Exchange Server
+    Atlassian Bamboo
+    Extensible markup language XML
+    IBM InfoSphere DataStage
+    IBM WebSphere
+    Microsoft Dynamics
+    NetSuite ERP
+    Oracle Fusion Applications
+    SAP
+    IBM Power Systems software
+    Splunk Enterprise
+    Ansible software
+    Apache Subversion SVN
+    Git
+    Delphi Technology
+    Oracle E-Business Suite Financials
+    Adobe Systems Adobe Fireworks
+    Adobe Systems Adobe Illustrator
+    Adobe Systems Adobe Photoshop
+    Microsoft Visio
+    Human resource management software HRMS
+    Apple Safari
+    Microsoft Internet Explorer
+    Mozilla Firefox
+    Web browser software
+    ESRI ArcGIS software
+    Epic Systems
+    CA Erwin Data Modeler
+    Nagios
+    Wireshark
+    Firewall software
+    Network intrusion detection software
+    C++
+    Microsoft ActiveX
+    Oracle Java
+    Python
+    Hibernate ORM
+    PostgreSQL
+    Microsoft Office
+    Apple macOS
+    Microsoft Windows
+    Red Hat Enterprise Linux
+    UNIX
+    Apache HTTP Server
+    Apache Webserver
+    Microsoft PowerPoint
+    Hewlett Packard LoadRunner
+    IBM Rational Robot
+    JUnit
+    TestNG
+    Atlassian JIRA
+    Confluence
+    Microsoft Project
+    Oracle Primavera Enterprise Project Portfolio Management
+    Unified modeling language UML
+    Microsoft Excel
+    Anti-spyware software
+    Antivirus software
+    Symantec
+    Customer information control system CICS
+    Adobe Systems Adobe After Effects
+    Adobe Systems Adobe Dreamweaver
+    AJAX
+    Google AngularJS
+    Microsoft ASP.NET
+    React
+    Microsoft Word
+    Computers and Electronics — Knowledge of circuit boards, processors, chips, electronic equipment, and computer hardware and software, including applications and programming.
+    English Language — Knowledge of the structure and content of the English language including the meaning and spelling of words, rules of composition, and grammar.
+    Engineering and Technology — Knowledge of the practical application of engineering science and technology. This includes applying principles, techniques, procedures, and equipment to the design and production of various goods and services.
+    Mathematics — Knowledge of arithmetic, algebra, geometry, calculus, statistics, and their applications.
+    Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.
+    Reading Comprehension — Understanding written sentences and paragraphs in work related documents.
+    Programming — Writing computer programs for various purposes.
+    Speaking — Talking to others to convey information effectively.
+    Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.
+    Writing — Communicating effectively in writing as appropriate for the needs of the audience.
+    Monitoring — Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action.
+    Active Learning — Understanding the implications of new information for both current and future problem-solving and decision-making.
+    Complex Problem Solving — Identifying complex problems and reviewing related information to develop and evaluate options and implement solutions.
+    Quality Control Analysis — Conducting tests and inspections of products, services, or processes to evaluate quality or performance.
+    Judgment and Decision Making — Considering the relative costs and benefits of potential actions to choose the most appropriate one.
+    Operations Analysis — Analyzing needs and product requirements to create a design.
+    Systems Analysis — Determining how a system should work and how changes in conditions, operations, and the environment will affect outcomes.
+    Science — Using scientific rules and methods to solve problems.
+    Systems Evaluation — Identifying measures or indicators of system performance and the actions needed to improve or correct performance, relative to the goals of the system.
+    Time Management — Managing one's own time and the time of others.
+    Deductive Reasoning — The ability to apply general rules to specific problems to produce answers that make sense.
+    Inductive Reasoning — The ability to combine pieces of information to form general rules or conclusions (includes finding a relationship among seemingly unrelated events).
+    Problem Sensitivity — The ability to tell when something is wrong or is likely to go wrong. It does not involve solving the problem, only recognizing there is a problem.
+    Written Comprehension — The ability to read and understand information and ideas presented in writing.
+    Information Ordering — The ability to arrange things or actions in a certain order or pattern according to a specific rule or set of rules (e.g., patterns of numbers, letters, words, pictures, mathematical operations).
+    Near Vision — The ability to see details at close range (within a few feet of the observer).
+    Oral Comprehension — The ability to listen to and understand information and ideas presented through spoken words and sentences.
+    Oral Expression — The ability to communicate information and ideas in speaking so others will understand.
+    Written Expression — The ability to communicate information and ideas in writing so others will understand.
+    Speech Recognition — The ability to identify and understand the speech of another person.
+    Flexibility of Closure — The ability to identify or detect a known pattern (a figure, object, word, or sound) that is hidden in other distracting material.
+    Fluency of Ideas — The ability to come up with a number of ideas about a topic (the number of ideas is important, not their quality, correctness, or creativity).
+    Category Flexibility — The ability to generate or use different sets of rules for combining or grouping things in different ways.
+    Originality — The ability to come up with unusual or clever ideas about a given topic or situation, or to develop creative ways to solve a problem.
+    Selective Attention — The ability to concentrate on a task over a period of time without being distracted.
+    Speech Clarity — The ability to speak clearly so others can understand you.
+    Interacting With Computers — Using computers and computer systems (including hardware and software) to program, write software, set up functions, enter data, or process information.
+    Analyzing Data or Information — Identifying the underlying principles, reasons, or facts of information by breaking down information or data into separate parts.
+    Getting Information — Observing, receiving, and otherwise obtaining information from all relevant sources.
+    Making Decisions and Solving Problems — Analyzing information and evaluating results to choose the best solution and solve problems.
+    Updating and Using Relevant Knowledge — Keeping up-to-date technically and applying new knowledge to your job.
+    Communicating with Supervisors, Peers, or Subordinates — Providing information to supervisors, co-workers, and subordinates by telephone, in written form, e-mail, or in person.
+    Processing Information — Compiling, coding, categorizing, calculating, tabulating, auditing, or verifying information or data.
+    Documenting/Recording Information — Entering, transcribing, recording, storing, or maintaining information in written or electronic/magnetic form.
+    Identifying Objects, Actions, and Events — Identifying information by categorizing, estimating, recognizing differences or similarities, and detecting changes in circumstances or events.
+    Thinking Creatively — Developing, designing, or creating new applications, ideas, relationships, systems, or products, including artistic contributions.
+    Establishing and Maintaining Interpersonal Relationships — Developing constructive and cooperative working relationships with others, and maintaining them over time.
+    Organizing, Planning, and Prioritizing Work — Developing specific goals and plans to prioritize, organize, and accomplish your work.
+    Evaluating Information to Determine Compliance with Standards — Using relevant information and individual judgment to determine whether events or processes comply with laws, regulations, or standards.
+    Developing and Building Teams — Encouraging and building mutual trust, respect, and cooperation among team members.
+    Interpreting the Meaning of Information for Others — Translating or explaining what information means and how it can be used.
+    Monitor Processes, Materials, or Surroundings — Monitoring and reviewing information from materials, events, or the environment, to detect or assess problems.
+    Developing Objectives and Strategies — Establishing long-range objectives and specifying the strategies and actions to achieve them.
+    Scheduling Work and Activities — Scheduling events, programs, and activities, as well as the work of others.
+    Judging the Qualities of Things, Services, or People — Assessing the value, importance, or quality of things or people.
+    Coordinating the Work and Activities of Others — Getting members of a group to work together to accomplish tasks.
+    Develop testing routines or procedures.
+    Document operational activities.
+    Analyze data to identify or resolve operational problems.
+    Troubleshoot issues with computer applications or systems.
+    Collaborate with others to determine design specifications or details.
+    Document design or development procedures.
+    Develop detailed project plans.
+    Test software performance.
+    Test computer system operations to ensure proper functioning.
+    Monitor computer system performance to ensure proper operation.
+    Manage documentation to ensure organization or accuracy.
+    Recommend changes to improve computer or information systems.
+    Create databases to store electronic data.
+    Install computer software.
+    Develop performance metrics or standards related to information technology.
+    Provide customer service to clients or users.
+    Analyze data to identify trends or relationships among variables.
+    Read documents to gather technical information.
+    Evaluate utility of software or hardware technologies.
+    Collaborate with others to resolve information technology issues.
+    Provide technical support for software maintenance or use.
+    Investigative — Investigative occupations frequently involve working with ideas, and require an extensive amount of thinking. These occupations can involve searching for facts and figuring out problems mentally.
+    Conventional — Conventional occupations frequently involve following set procedures and routines. These occupations can include working with data and details more than with ideas. Usually there is a clear line of authority to follow.
+    Realistic — Realistic occupations frequently involve work activities that include practical, hands-on problems and solutions. They often deal with plants, animals, and real-world materials like wood, tools, and machinery. Many of the occupations require working outside, and do not involve a lot of paperwork or working closely with others.
+    Attention to Detail — Job requires being careful about detail and thorough in completing work tasks.
+    Analytical Thinking — Job requires analyzing information and using logic to address work-related issues and problems.
+    Dependability — Job requires being reliable, responsible, and dependable, and fulfilling obligations.
+    Adaptability/Flexibility — Job requires being open to change (positive or negative) and to considerable variety in the workplace.
+    Integrity — Job requires being honest and ethical.
+    Persistence — Job requires persistence in the face of obstacles.
+    Cooperation — Job requires being pleasant with others on the job and displaying a good-natured, cooperative attitude.
+    Initiative — Job requires a willingness to take on responsibilities and challenges.
+    Stress Tolerance — Job requires accepting criticism and dealing calmly and effectively with high stress situations.
+    Achievement/Effort — Job requires establishing and maintaining personally challenging achievement goals and exerting effort toward mastering tasks.
+    Self Control — Job requires maintaining composure, keeping emotions in check, controlling anger, and avoiding aggressive behavior, even in very difficult situations.
+    Independence — Job requires developing one's own ways of doing things, guiding oneself with little or no supervision, and depending on oneself to get things done.
+    Innovation — Job requires creativity and alternative thinking to develop new ideas for and answers to work-related problems.
+    Leadership — Job requires a willingness to lead, take charge, and offer opinions and direction.
+    Concern for Others — Job requires being sensitive to others' needs and feelings and being understanding and helpful on the job.
+    Achievement — Occupations that satisfy this work value are results oriented and allow employees to use their strongest abilities, giving them a feeling of accomplishment. Corresponding needs are Ability Utilization and Achievement.
+    Working Conditions — Occupations that satisfy this work value offer job security and good working conditions. Corresponding needs are Activity, Compensation, Independence, Security, Variety and Working Conditions.
+    Independence — Occupations that satisfy this work value allow employees to work on their own and make decisions. Corresponding needs are Creativity, Responsibility and Autonomy.
+    Recognition	Occupations that satisfy this work value offer advancement, potential for leadership, and are often considered prestigious. Corresponding needs are Advancement, Authority, Recognition and Social Status.
+    Relationships	Occupations that satisfy this work value allow employees to provide service to others and work with co-workers in a friendly non-competitive environment. Corresponding needs are Co-workers, Moral Values and Social Service.

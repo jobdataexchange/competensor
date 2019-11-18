@@ -1,0 +1,24 @@
+version: '3'
+services:
+  competensor:
+    restart: always
+    build: .
+    ports:
+      - "8888:8001"
+      - "5555:5555"
+    depends_on:
+      - rabbitmq
+      - redis
+    environment:
+      - PYTHONUNBUFFERED=0
+  rabbitmq:
+    image: rabbitmq:management
+    restart: always
+    ports:
+      - "5673:5672"
+      - "15672:15672"
+  redis:
+    image: redis
+    restart: always
+    ports:
+      - "6380:6379"

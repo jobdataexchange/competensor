@@ -1,0 +1,8 @@
+FROM python:3.6.8
+WORKDIR /competensor
+RUN apt-get update
+RUN apt-get install -y libpq-dev python-dev build-essential swig wget
+RUN pip install pipenv
+RUN pip install numpy
+RUN pip install auto-sklearn
+RUN pip install spacy

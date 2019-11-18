@@ -1,0 +1,17 @@
+CYBER:
+“The best cyber for the best price.” Junior Cybersecurity Specialist Department ITC - R&D 123 Acme Way New York, NY 1122 www.example.com SOC Code 15-1112.00 Questions? Email info@example.com Posted on 6/12/2021 19:23:01 Internal HRIS ID: #5678-474G ACME is an equal opportunity employer Share this posting Position  Junior Cybersecurity Specialist (ITS - Division R&D) Position Location Herndon, VA Reporting Manager John G. Byte
+
+Position Summary:
+ACME Cyber, inc. is looking for junior level cybersecurity specialist to support corporate and client contracts in our Hernon, VA locations. You will be a critical member of a highly-skilled, adaptive cyber team that carries out defensive vulnerability research. Responsibilities include (but are not restricted to) Deconstructing and analyzing applications and network protocols Ensure appropriate security controls are in place for safeguarding digital files, electronic infrastructure Respond to computer security breaches and viruses Highlighting potential vulnerabilities, attack vectors of all types, on all platforms
+
+Required Competencies:
+Active, current TS/SCI CompTIA Security+ Engineering, Computer Science or a related bachelor's degree (note 4 years of experience may be substituted for each year of degree related experience) 1-2 years of vulnerability analysis Knowledge of Docker, hyper-visors, fuzzing frameworks, anti-virus techniques 1-2 years development experience in C, assembly and/or Python for proof of concept code Strong understanding of OS level internals (Mac, Windows and Linux)
+
+Desired Skills:
+Master’s/PhD in CS. Math or Engineering Mobile operating system experience Positive and professional demeanor Excellent communication skills CySA++, CISSP or SSCP 
+
+About Us:
+About ACME Cyber: We are a world class cyber security firm that does custom reverse engineering and threat assessment for a variety of international clients. We have a special focus on mobile operating systems and exploitation thereof. We support law enforcement, homeland security as well as intelligence clients. Operating at nearly 550 site, across 80 countries, ACME Cyber generated $120 billion in revenue in 2019. As a global business ACME recognizes the need to go above and beyond in operating in a multicultural world -- both in the workplace and the marketplace. We aim to hire individuals who reflect the community in which we live and proactively embrace diversity and inclusion in order to advance the business and client market share.
+
+Disclaimer:
+The selected employee may engage in some or all combinations of the activities and responsibilities while also utilizing some or all of the competencies described above depending upon the role and department they are under. This job description describes the general nature and level of work and is not intended to be an all inclusive, or exhaustive list of responsibilities and competencies required. This job description does not limit the right of supervisors or management to direct, assign or control the work of employees under their supervision.

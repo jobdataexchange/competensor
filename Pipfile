@@ -1,0 +1,46 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[dev-packages]
+"autopep8" = "*"
+pycodestyle = "*"
+expects = "*"
+pylint = "*"
+docker-compose = "*"
+ipython = "*"
+fakeredis = "*"
+pytest-mock = "*"
+requests = "*"
+
+[packages]
+sqlalchemy = "*"
+alembic = "*"
+pandas = "*"
+boto3 = "*"
+requests = "*"
+Flask = "*"
+Flask-SQLAlchemy = "*"
+gunicorn = "*"
+"psycopg2-binary" = "*"
+nameko = "*"
+tensorflow = "*"
+tensorflow-hub = "*"
+seaborn = "*"
+tables = "*"
+pyarrow = "*"
+numpy = "==1.16.1"
+xlrd = "*"
+pytest-bdd = "*"
+nameko-redis = "*"
+nameko-sqlalchemy = "*"
+gensim = "*"
+textacy = "*"
+spacy = "*"
+regex = "*"
+web-pdb = "*"
+jmespath = "*"
+
+[requires]
+python_version = "3.6"

@@ -1,0 +1,145 @@
+framework_id: "c84c563e-f215-5c9f-90f1-64a768aaea80"
+framework_name: "Surgical Technologist Certifying Examination Content"
+framework_description: "The CST examination content is based on tasks performed by CSTs nationwide. Job analysis surveys are conducted to identify specific tasks related to the frequency and importance of Surgical Technologists nationwide. The results of the job analysis are used to develop the content outline for the examination, which is evaluated on a prescribed schedule to ensure that the overall examination content reflects current surgical technology practices.\n "
+framework_uri: "http://www.nbstsa.org/sites/nbstsa/files/pdf/2019_CST_ContentOutlinerev2_0.pdf"
+source_path: "./frameworks/National_Board_of_Surgical_Technology_and_Surgical_Assisting.txt"
+provider: "surgical_board"
+text_block: |-
+    PERIOPERATIVE CARE
+    Preoperative Preparation
+    Review surgeon’s preference card
+    Verify availability of surgery equipment (eg, reserve equipment for surgery)"
+    Don personal protective equipment
+    Utilize preoperative documentation (eg, informed consent, advanced directives, allergies, laboratory results)"
+    Consider patient needs (eg, bariatrics, geriatrics, pediatrics, immunocompromised, patient allergies)"
+    Prepare the operating room environment (eg, temperature, lights, suction, wiping down the room and furniture)"
+    Coordinate additional equipment (eg, bovie pad, pneumatic tourniquet, sequential compression devices, thermoregulatory devices, positioning devices)"
+    Obtain instruments and supplies needed for surgery
+    Perform medical hand wash
+    Check package integrity of sterile supplies
+    Open sterile supplies/instruments while maintaining aseptic techniqueSection FiveContent OutlineNational Board of Surgical Technology and Surgical Assisting
+    Perform surgical scrub (eg, initial, waterless)"
+    Don gown and gloves
+    Assemble and set up sterile instruments and supplies for surgical procedures
+    Transport the patient to and from operating room
+    Transfer patient to operating room table
+    Apply patient safety devices (eg, bovie pad, safety strap, protective padding, x-ray safety)"
+    Apply patient monitoring devices as directed
+    Participate in positioning the patient
+    Prepare surgical site (eg, hair removal, surgical preparation)"
+    Gown and glove sterile team members
+    Participate in draping the patient
+    Secure cords/tubing to drapes and apply light handles
+    Drape specialty equipment (eg, c-arm, Da Vinci, microscope)"
+    Participate in Universal Protocol (Time Out)
+    Intraoperative Procedures
+    Maintain aseptic technique throughout the procedure
+    Follow Standard and Universal Precautions
+    Anticipate the steps of surgical procedures
+    Perform counts with circulator at appropriate intervals
+    Verify, receive, mix, and label all medications and solutions"
+    Provide intraoperative assistance under the direction of the surgeon
+    Identify different types of operative incisions
+    functionb applicationc classification
+    microscopesb computer navigation systemsc thermal technologyd laser technology (eg, helium, argon, CO beam coagulators)e ultrasound technology (eg, harmonic scalpel, phacoemulsification)f endoscopic technologyg power equipment"
+    Assemble and maintain retractors
+    Pass instruments and supplies
+    Identify appropriate usage of sutures/needles and stapling devices
+    Prepare, pass, and cut suture material as directed"
+    Provide assistance with stapling devices
+    Differentiate among the various methods and applications of hemostasis (eg, mechanical, thermal, chemical)"
+    Irrigate, suction, and sponge operative site"
+    Monitor medication and solution use
+    Verify with surgeon the correct type and/or size of specialty specific implantable items
+    Prepare bone and tissue grafts (eg, allograft, autograft, synthetic)"
+    Verify, prepare, and label specimen(s)"
+    Prepare drains, catheters, and tubing for insertion"
+    Observe patient’s intraoperative status (eg, monitor color of blood, blood loss, patient position)"
+    Perform appropriate actions during an emergency
+    Initiate preventative actions in potentially harmful situations
+    Connect and activate drains to suction apparatus
+    Prepare dressings and wound site
+    Assist in the application of casts, splints, braces, and similar devices"
+    Postoperative Procedures
+    Report medication and solution amount used
+    Participate in case debrief
+    Remove drapes and other equipment (eg, suction, cautery, instrumentation,nondisposable items) from patient"
+    Report abnormal postoperative findings (eg, bleeding at surgical site,hematoma, rash)"
+    Dispose of contaminated waste and drapes after surgery incompliance with Standard Precautions
+    Transfer patient from operating table to stretcher
+    Dispose of contaminated sharps after surgery in compliance with Standard Precautions
+    Perform room clean up and restock supplies
+    ANCILLARY DUTIES
+    Administrative and Personnel
+    Revise surgeon’s preference card as necessary
+    Follow proper cost containment processes
+    surgeon’s preference cardsb interdepartmental communicationc continuing educationd research
+    Follow hospital and national disaster plan protocol
+    Recognize safety and environmental hazards (eg, fire, chemical spill, laser, smoke)"
+    Understand basic principles of electricity and electrical safety
+    Apply ethical and legal practices related to surgical patient care
+    Use interpersonal skills (eg, listening, diplomacy, responsiveness) and group dynamics"
+    Understand the importance of cultural diversity
+    Understand concepts of death and dying
+    Participate in organ and tissue procurement
+    Serve as preceptor to perioperative personnel
+    Equipment Sterilization and Maintenance
+    Troubleshoot equipment malfunctions
+    Decontaminate and clean instruments and equipment
+    Inspect, test, and assemble instruments and equipment"
+    Sterilize instruments for immediate use (eg, short cycle)"
+    Package and sterilize instruments and equipment
+    BASIC SCIENCE
+      Anatomy and Physiology
+    Use appropriate medical terminology and abbreviations
+    cardiovascular
+    endocrine
+    gastrointestinal
+    genitourinary
+    integumentary
+    lymphatic
+    muscular
+    neurological
+    ophthalmic
+    otorhinolaryngology
+    peripheral vascular
+    pulmonary
+    reproductive
+    skeletal
+    Demonstrate knowledge of human physiology as they relate to the surgical procedure:
+    cardiovascular
+    endocrine
+    gastrointestinal
+    genitourinary
+    integumentary
+    lymphatic
+    muscular
+    neurological
+    ophthalmic
+    otorhinolaryngology
+    peripheral vascular
+    pulmonary
+    reproductive
+    skeletal
+    Identify the following surgical pathologies:
+    abnormal anatomy
+    disease processes
+    malignancies
+    traumatic injuries
+    Microbiology
+    Apply principles of surgical microbiology to operative practice:
+    classification and pathogenesis of microorganisms (eg, cultures)"
+    infection control procedures (eg, aseptic technique)"
+    principles of tissue handling (eg, Halsted principles, tissue manipulation methods, traction/counter traction)"
+    stages of, and factors influencing wound healing (eg, condition of patient, wound type)"
+    surgical wound classification
+    Identify and address factors that can influence an infectious process
+    Surgical Pharmacology ( items)
+    Apply principles of surgical pharmacology to operative practice:
+    anesthesia related agents and medications
+    blood and fluid replacement
+    complications from drug interactions (eg, malignant hyperthermia)"
+    methods of anesthesia administration (eg, general, local, block)"
+    types, uses, action, and interactions of drugs and solution (eg, hemostaticagents, antibiotics, IV solutions)"
+    weights, measures, and conversions"
+    Maintain awareness of maximum dosage

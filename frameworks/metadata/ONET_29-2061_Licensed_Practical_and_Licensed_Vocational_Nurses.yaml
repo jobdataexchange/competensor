@@ -1,0 +1,186 @@
+framework_id: "e958001a-e1fd-536a-a4ee-3fbcda1f5bd2"
+framework_name: "O*NET Licensed Practical and Licensed Vocational Nurses"
+framework_description: "Care for ill, injured, or convalescing patients or persons with disabilities in hospitals, nursing homes, clinics, private homes, group homes, and similar institutions. May work under the supervision of a registered nurse. Licensing required."
+framework_uri:
+    - "https://www.onetonline.org/link/summary/29-2061.00"
+source_path: "./frameworks/metadata/ONET_29-2061_Licensed_Practical_and_Licensed_Vocational_Nurses.yaml"
+provider: "simple"
+text_block: |-
+    Administer prescribed medications or start intravenous fluids, noting times and amounts on patients' charts.
+    Observe patients, charting and reporting changes in patients' conditions, such as adverse reactions to medication or treatment, and taking any necessary action.
+    Answer patients' calls and determine how to assist them.
+    Measure and record patients' vital signs, such as height, weight, temperature, blood pressure, pulse, or respiration.
+    Provide basic patient care or treatments, such as taking temperatures or blood pressures, dressing wounds, treating bedsores, giving enemas or douches, rubbing with alcohol, massaging, or performing catheterizations.
+    Work as part of a healthcare team to assess patient needs, plan and modify care, and implement interventions.
+    Supervise nurses' aides or assistants.
+    Evaluate nursing intervention outcomes, conferring with other healthcare team members as necessary.
+    Assemble and use equipment, such as catheters, tracheotomy tubes, or oxygen suppliers.
+    Record food and fluid intake and output.
+    Collect samples, such as blood, urine, or sputum from patients, and perform routine laboratory tests on samples.
+    Prepare patients for examinations, tests, or treatments and explain procedures.
+    Help patients with bathing, dressing, maintaining personal hygiene, moving in bed, or standing and walking.
+    Apply compresses, ice bags, or hot water bottles.
+    Sterilize equipment and supplies, using germicides, sterilizer, or autoclave.
+    Make appointments, keep records, or perform other clerical duties in doctors' offices or clinics.
+    Provide medical treatment or personal care to patients in private home settings, such as cooking, keeping rooms orderly, seeing that patients are comfortable and in good spirits, or instructing family members in simple nursing tasks.
+    Set up equipment and prepare medical treatment rooms.
+    Prepare or examine food trays for conformance to prescribed diet.
+    Wash and dress bodies of deceased persons.
+    Inventory and requisition supplies and instruments.
+    Clean rooms and make beds.
+    Assist in delivery, care, or feeding of infants.
+    Scheduling software
+    Diagnostic and procedural coding software
+    Microsoft Outlook
+    Web browser software
+    Inventory tracking software
+    Electronic medical record EMR software
+    Epic Systems
+    Healthcare common procedure coding system HCPCS
+    Infusion management software
+    Medical condition coding software
+    Medical procedure coding software
+    MedicWare EMR
+    MEDITECH software
+    PointClickCare
+    Prescription processing software
+    Telephone triage software
+    Microsoft Office
+    Microsoft Excel
+    Microsoft Word
+    Knowledge of the information and techniques needed to diagnose and treat human injuries, diseases, and deformities. This includes symptoms, treatment alternatives, drug properties and interactions, and preventive health-care measures.
+    Knowledge of principles and processes for providing customer and personal services. This includes customer needs assessment, meeting quality standards for services, and evaluation of customer satisfaction.
+    Knowledge of human behavior and performance; individual differences in ability, personality, and interests; learning and motivation; psychological research methods; and the assessment and treatment of behavioral and affective disorders.
+    Knowledge of the structure and content of the English language including the meaning and spelling of words, rules of composition, and grammar.
+    Knowledge of principles, methods, and procedures for diagnosis, treatment, and rehabilitation of physical and mental dysfunctions, and for career counseling and guidance.
+    Knowledge of arithmetic, algebra, geometry, calculus, statistics, and their applications.
+    Knowledge of principles and methods for curriculum and training design, teaching and instruction for individuals and groups, and the measurement of training effects.
+    Knowledge of business and management principles involved in strategic planning, resource allocation, human resources modeling, leadership technique, production methods, and coordination of people and resources.
+    Knowledge of the chemical composition, structure, and properties of substances and of the chemical processes and transformations that they undergo. This includes uses of chemicals and their interactions, danger signs, production techniques, and disposal methods.
+    Knowledge of relevant equipment, policies, procedures, and strategies to promote effective local, state, or national security operations for the protection of people, data, property, and institutions.
+    Knowledge of laws, legal codes, court procedures, precedents, government regulations, executive orders, agency rules, and the democratic political process.
+    Knowledge of group behavior and dynamics, societal trends and influences, human migrations, ethnicity, cultures and their history and origins.
+    Knowledge of administrative and clerical procedures and systems such as word processing, managing files and records, stenography and transcription, designing forms, and other office procedures and terminology.
+    Service Orientation-	Actively looking for ways to help people.
+    Reading Comprehension-	Understanding written sentences and paragraphs in work related documents.
+    Active Listening-	Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.
+    Speaking-	Talking to others to convey information effectively.
+    Monitoring-	Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action.
+    Social Perceptiveness-	Being aware of others' reactions and understanding why they react as they do.
+    Coordination-	Adjusting actions in relation to others' actions.
+    Time Management-	Managing one's own time and the time of others.
+    Critical Thinking-	Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.
+    Judgment and Decision Making-	Considering the relative costs and benefits of potential actions to choose the most appropriate one.
+    Active Learning-	Understanding the implications of new information for both current and future problem-solving and decision-making.
+    Writing-	Communicating effectively in writing as appropriate for the needs of the audience.
+    Instructing-	Teaching others how to do something.
+    Complex Problem Solving-	Identifying complex problems and reviewing related information to develop and evaluate options and implement solutions.
+    Learning Strategies-	Selecting and using training/instructional methods and procedures appropriate for the situation when learning or teaching new things.
+    Persuasion-	Persuading others to change their minds or behavior.
+    Negotiation-	Bringing others together and trying to reconcile differences.
+    Management of Personnel Resources-	Motivating, developing, and directing people as they work, identifying the best people for the job.
+    Oral Comprehension	The ability to listen to and understand information and ideas presented through spoken words and sentences.
+    Written Comprehension	The ability to read and understand information and ideas presented in writing.
+    Oral Expression	The ability to communicate information and ideas in speaking so others will understand.
+    Problem Sensitivity	The ability to tell when something is wrong or is likely to go wrong. It does not involve solving the problem, only recognizing there is a problem.
+    Speech Clarity	The ability to speak clearly so others can understand you.
+    Deductive Reasoning	The ability to apply general rules to specific problems to produce answers that make sense.
+    Speech Recognition	The ability to identify and understand the speech of another person.
+    Near Vision	The ability to see details at close range (within a few feet of the observer).
+    Inductive Reasoning	The ability to combine pieces of information to form general rules or conclusions (includes finding a relationship among seemingly unrelated events).
+    Written Expression	The ability to communicate information and ideas in writing so others will understand.
+    Information Ordering	The ability to arrange things or actions in a certain order or pattern according to a specific rule or set of rules (e.g., patterns of numbers, letters, words, pictures, mathematical operations).
+    Arm-Hand Steadiness	The ability to keep your hand and arm steady while moving your arm or while holding your arm and hand in one position.
+    Category Flexibility	The ability to generate or use different sets of rules for combining or grouping things in different ways.
+    Selective Attention	The ability to concentrate on a task over a period of time without being distracted.
+    Time Sharing	The ability to shift back and forth between two or more activities or sources of information (such as speech, sounds, touch, or other sources).
+    Static Strength	The ability to exert maximum muscle force to lift, push, pull, or carry objects.
+    Fluency of Ideas	The ability to come up with a number of ideas about a topic (the number of ideas is important, not their quality, correctness, or creativity).
+    Speed of Closure	The ability to quickly make sense of, combine, and organize information into meaningful patterns.
+    Flexibility of Closure	The ability to identify or detect a known pattern (a figure, object, word, or sound) that is hidden in other distracting material.
+    Finger Dexterity	The ability to make precisely coordinated movements of the fingers of one or both hands to grasp, manipulate, or assemble very small objects.
+    Trunk Strength	The ability to use your abdominal and lower back muscles to support part of the body repeatedly or continuously over time without 'giving out' or fatiguing.
+    Visual Color Discrimination	The ability to match or detect differences between colors, including shades of color and brightness.
+    Assisting and Caring for Others	Providing personal assistance, medical attention, emotional support, or other personal care to others such as coworkers, customers, or patients.
+    Documenting/Recording Information	Entering, transcribing, recording, storing, or maintaining information in written or electronic/magnetic form.
+    Communicating with Supervisors, Peers, or Subordinates	Providing information to supervisors, co-workers, and subordinates by telephone, in written form, e-mail, or in person.
+    Establishing and Maintaining Interpersonal Relationships	Developing constructive and cooperative working relationships with others, and maintaining them over time.
+    Getting Information	Observing, receiving, and otherwise obtaining information from all relevant sources.
+    Making Decisions and Solving Problems	Analyzing information and evaluating results to choose the best solution and solve problems.
+    Organizing, Planning, and Prioritizing Work	Developing specific goals and plans to prioritize, organize, and accomplish your work.
+    Evaluating Information to Determine Compliance with Standards	Using relevant information and individual judgment to determine whether events or processes comply with laws, regulations, or standards.
+    Updating and Using Relevant Knowledge	Keeping up-to-date technically and applying new knowledge to your job.
+    Monitor Processes, Materials, or Surroundings	Monitoring and reviewing information from materials, events, or the environment, to detect or assess problems.
+    Identifying Objects, Actions, and Events	Identifying information by categorizing, estimating, recognizing differences or similarities, and detecting changes in circumstances or events.
+    Training and Teaching Others	Identifying the educational needs of others, developing formal educational or training programs or classes, and teaching or instructing others.
+    Coordinating the Work and Activities of Others	Getting members of a group to work together to accomplish tasks.
+    Processing Information	Compiling, coding, categorizing, calculating, tabulating, auditing, or verifying information or data.
+    Performing General Physical Activities	Performing physical activities that require considerable use of your arms and legs and moving your whole body, such as climbing, lifting, balancing, walking, stooping, and handling of materials.
+    Performing for or Working Directly with the Public	Performing for people or dealing directly with the public. This includes serving customers in restaurants and stores, and receiving clients or guests.
+    Developing and Building Teams	Encouraging and building mutual trust, respect, and cooperation among team members.
+    Guiding, Directing, and Motivating Subordinates	Providing guidance and direction to subordinates, including setting performance standards and monitoring performance.
+    Resolving Conflicts and Negotiating with Others	Handling complaints, settling disputes, and resolving grievances and conflicts, or otherwise negotiating with others.
+    Interacting With Computers	Using computers and computer systems (including hardware and software) to program, write software, set up functions, enter data, or process information.
+    Communicating with Persons Outside Organization	Communicating with people outside the organization, representing the organization to customers, the public, government, and other external sources. This information can be exchanged in person, in writing, or by telephone or e-mail.
+    Inspecting Equipment, Structures, or Material	Inspecting equipment, structures, or materials to identify the cause of errors or other problems or defects.
+    Coaching and Developing Others	Identifying the developmental needs of others and coaching, mentoring, or otherwise helping others to improve their knowledge or skills.
+    Handling and Moving Objects	Using hands and arms in handling, installing, positioning, and moving materials, and manipulating things.
+    Scheduling Work and Activities	Scheduling events, programs, and activities, as well as the work of others.
+    Judging the Qualities of Things, Services, or People	Assessing the value, importance, or quality of things or people.
+    Analyzing Data or Information	Identifying the underlying principles, reasons, or facts of information by breaking down information or data into separate parts.
+    Developing Objectives and Strategies	Establishing long-range objectives and specifying the strategies and actions to achieve them.
+    Interpreting the Meaning of Information for Others	Translating or explaining what information means and how it can be used.
+    Provide Consultation and Advice to Others	Providing guidance and expert advice to management or other groups on technical, systems-, or process-related topics.
+    Performing Administrative Activities	Performing day-to-day administrative tasks such as maintaining information files and processing paperwork.
+    Thinking Creatively	Developing, designing, or creating new applications, ideas, relationships, systems, or products, including artistic contributions.
+    Record patient medical histories.
+    Administer intravenous medications.
+    Monitor patient conditions during treatments, procedures, or activities.
+    Administer basic health care or medical treatments.
+    Apply bandages, dressings, or splints.
+    Measure the physical or physiological attributes of patients.
+    Collaborate with healthcare professionals to plan or provide treatment.
+    Supervise patient care personnel.
+    Analyze quantitative data to determine effectiveness of treatments or therapies.
+    Sterilize medical equipment or instruments.
+    Assist patients with hygiene or daily living activities.
+    Maintain medical facility records.
+    Perform clerical work in medical settings.
+    Schedule patient procedures or appointments.
+    Train patients, family members, or caregivers in techniques for managing disabilities or illnesses.
+    Prepare medical supplies or equipment for use.
+    Operate diagnostic or therapeutic medical instruments or equipment.
+    Collect biological specimens from patients.
+    Explain medical procedures or test results to patients or family members.
+    Prepare patients physically for medical procedures.
+    Test biological specimens to gather information about patient conditions.
+    Maintain inventory of medical supplies or equipment.
+    Manage preparation of special meals or diets.
+    Order medical supplies or equipment.
+    Clean medical equipment or facilities.
+    Assist healthcare practitioners during examinations or treatments.
+    Treat patients using physical therapy techniques.
+    Social	Social occupations frequently involve working with, communicating with, and teaching people. These occupations often involve helping or providing service to others.
+    Realistic	Realistic occupations frequently involve work activities that include practical, hands-on problems and solutions. They often deal with plants, animals, and real-world materials like wood, tools, and machinery. Many of the occupations require working outside, and do not involve a lot of paperwork or working closely with others.
+    Dependability	Job requires being reliable, responsible, and dependable, and fulfilling obligations.
+    Attention to Detail	Job requires being careful about detail and thorough in completing work tasks.
+    Self Control	Job requires maintaining composure, keeping emotions in check, controlling anger, and avoiding aggressive behavior, even in very difficult situations.
+    Stress Tolerance	Job requires accepting criticism and dealing calmly and effectively with high stress situations.
+    Integrity	Job requires being honest and ethical.
+    Concern for Others	Job requires being sensitive to others' needs and feelings and being understanding and helpful on the job.
+    Cooperation	Job requires being pleasant with others on the job and displaying a good-natured, cooperative attitude.
+    Adaptability/Flexibility	Job requires being open to change (positive or negative) and to considerable variety in the workplace.
+    Initiative	Job requires a willingness to take on responsibilities and challenges.
+    Social Orientation	Job requires preferring to work with others rather than alone, and being personally connected with others on the job.
+    Persistence	Job requires persistence in the face of obstacles.
+    Independence	Job requires developing one's own ways of doing things, guiding oneself with little or no supervision, and depending on oneself to get things done.
+    Analytical Thinking	Job requires analyzing information and using logic to address work-related issues and problems.
+    Achievement/Effort	Job requires establishing and maintaining personally challenging achievement goals and exerting effort toward mastering tasks.
+    Leadership	Job requires a willingness to lead, take charge, and offer opinions and direction.
+    Innovation	Job requires creativity and alternative thinking to develop new ideas for and answers to work-related problems.
+    Relationships	Occupations that satisfy this work value allow employees to provide service to others and work with co-workers in a friendly non-competitive environment. Corresponding needs are Co-workers, Moral Values and Social Service.
+    Support	Occupations that satisfy this work value offer supportive management that stands behind employees. Corresponding needs are Company Policies, Supervision Human Relations and Supervision Technical.
+    Achievement	Occupations that satisfy this work value are results oriented and allow employees to use their strongest abilities, giving them a feeling of accomplishment. Corresponding needs are Ability Utilization and Achievement.
+    Independence	Occupations that satisfy this work value allow employees to work on their own and make decisions. Corresponding needs are Creativity, Responsibility and Autonomy.
+    Working Conditions	Occupations that satisfy this work value offer job security and good working conditions. Corresponding needs are Activity, Compensation, Independence, Security, Variety and Working Conditions.
+    Recognition	Occupations that satisfy this work value offer advancement, potential for leadership, and are often considered prestigious. Corresponding needs are Advancement, Authority, Recognition and Social Status.

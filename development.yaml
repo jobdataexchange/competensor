@@ -1,0 +1,17 @@
+AMQP_URI: 'pyamqp://guest:guest@rabbitmq'
+JDX_DB_URI: "postgresql+psycopg2://postgres:password@jdx-postgres:5432/jdx_reference_backend_application"
+WEB_SERVER_ADDRESS: '0.0.0.0:8001'
+frameworks:
+  directories:
+    - ./frameworks/metadata
+model_path: ./linear_5_19.joblib
+REDIS_URIS:
+  frameworks: 'redis://redis:6379/0'
+  embeddings: 'redis://redis:6379/1'
+  sentences: 'redis://redis:6379/2'
+  match_table: 'redis://redis:6379/3'
+check_if_framework_exists_on_build_competensor: True
+ONET_COMPETENCIES:
+  skills: https://jdx-data-model.s3.us-east-2.amazonaws.com/Skills.xlsx
+  abilities: https://jdx-data-model.s3.us-east-2.amazonaws.com/Abilities.xlsx
+knowledge: https://jdx-data-model.s3.us-east-2.amazonaws.com/Knowledge.xlsx  

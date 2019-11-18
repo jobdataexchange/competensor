@@ -1,0 +1,159 @@
+framework_id: "d63bc6a8-7a07-5126-a422-43960fe906bf"
+framework_name: "O*NET Construction and Building Inspectors"
+framework_description: "Inspect structures using engineering skills to determine structural soundness and compliance with specifications, building codes, and other regulations."
+framework_uri: "https://www.onetonline.org/link/summary/47-4011.00"
+source_path: "./frameworks/metadata/ONET_47-4011.00_Construction_and_Building_Inspectors.yaml"
+provider: "simple"
+text_block: |-
+    Inspect bridges, dams, highways, buildings, wiring, plumbing, electrical circuits, sewers, heating systems, or foundations during and after construction for structural quality, general safety, or conformance to specifications and codes.
+    Inspect facilities or installations to determine their environmental impact.
+    Monitor installation of plumbing, wiring, equipment, or appliances to ensure that installation is performed properly and is in compliance with applicable regulations.
+    Measure dimensions and verify level, alignment, or elevation of structures or fixtures to ensure compliance to building plans and codes.
+    Maintain daily logs and supplement inspection records with photographs.
+    Review and interpret plans, blueprints, site layouts, specifications, or construction methods to ensure compliance to legal requirements and safety regulations.
+    Evaluate project details to ensure adherence to environmental regulations.
+    Conduct inspections, using survey instruments, metering devices, tape measures, or test equipment.
+    Inspect and monitor construction sites to ensure adherence to safety standards, building codes, or specifications.
+    Monitor construction activities to ensure that environmental regulations are not violated.
+    Confer with owners, violators, or authorities to explain regulations or recommend remedial actions.
+    Train, direct, or supervise other construction inspectors.
+    Issue permits for construction, relocation, demolition, or occupancy.
+    Approve building plans that meet required specifications.
+    Conduct environmental hazard inspections to identify or quantify problems such as asbestos, poor air quality, water contamination, or other environmental hazards.
+    Examine lifting or conveying devices, such as elevators, escalators, moving sidewalks, hoists, inclined railways, ski lifts, or amusement rides to ensure safety and proper functioning.
+    Sample and test air to identify gasses, such as bromine, ozone, or sulfur dioxide, or particulates, such as mold, dust, or allergens.
+    Accounting software	Intuit QuickBooks
+    Accounting software	Intuit Quicken
+    Calendar and scheduling software
+    Compliance software	Automated permit system software
+    Compliance software	NorthWest Builders Network Plan Analyst
+    Compliance software	OptaSoft Commercial Building Inspector
+    Computer aided design CAD software	Arc Second PocketCAD
+    Computer aided design CAD software	Autodesk AutoCAD
+    Data base reporting software	Mobile building inspection software
+    Data base user interface and query software	Database software
+    Data base user interface and query software	Real estate and tax software
+    Electronic mail software	Email software
+    Electronic mail software	Microsoft Outlook
+    Enterprise resource planning ERP software	Municipal geographic management software
+    Enterprise resource planning ERP software	SAP
+    Internet browser software	Microsoft Internet Explorer
+    Map creation software	ESRI ArcView
+    Map creation software	Trimble Digital Fieldbook
+    Office suite software	Microsoft Office
+    Presentation software	Microsoft PowerPoint
+    Procurement software	Vision Software
+    Project management software	Microsoft Project
+    Project management software	Oracle Primavera Enterprise Project Portfolio Management
+    Project management software	Oracle Primavera Systems
+    Spreadsheet software	Microsoft Excel
+    Word processing software	Inspection Depot Home Guide System
+    Word processing software	Microsoft Word
+    Word processing software	New construction inspection form software
+    Word processing software	Residential home inspection form software
+    Building and Construction	Knowledge of materials, methods, and the tools involved in the construction or repair of houses, buildings, or other structures such as highways and roads.
+    English Language	Knowledge of the structure and content of the English language including the meaning and spelling of words, rules of composition, and grammar.
+    Customer and Personal Service	Knowledge of principles and processes for providing customer and personal services. This includes customer needs assessment, meeting quality standards for services, and evaluation of customer satisfaction.
+    Engineering and Technology	Knowledge of the practical application of engineering science and technology. This includes applying principles, techniques, procedures, and equipment to the design and production of various goods and services.
+    Law and Government	Knowledge of laws, legal codes, court procedures, precedents, government regulations, executive orders, agency rules, and the democratic political process.
+    Public Safety and Security	Knowledge of relevant equipment, policies, procedures, and strategies to promote effective local, state, or national security operations for the protection of people, data, property, and institutions.
+    Mathematics	Knowledge of arithmetic, algebra, geometry, calculus, statistics, and their applications.
+    Design	Knowledge of design techniques, tools, and principles involved in production of precision technical plans, blueprints, drawings, and models.
+    Mechanical	Knowledge of machines and tools, including their designs, uses, repair, and maintenance.
+    Reading Comprehension	Understanding written sentences and paragraphs in work related documents.
+    Active Listening	Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.
+    Critical Thinking	Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.
+    Speaking	Talking to others to convey information effectively.
+    Complex Problem Solving	Identifying complex problems and reviewing related information to develop and evaluate options and implement solutions.
+    Writing	Communicating effectively in writing as appropriate for the needs of the audience.
+    Quality Control Analysis	Conducting tests and inspections of products, services, or processes to evaluate quality or performance.
+    Judgment and Decision Making	Considering the relative costs and benefits of potential actions to choose the most appropriate one.
+    Active Learning	Understanding the implications of new information for both current and future problem-solving and decision-making.
+    Monitoring	Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action.
+    Mathematics	Using mathematics to solve problems.
+    Coordination	Adjusting actions in relation to others' actions.
+    Systems Analysis	Determining how a system should work and how changes in conditions, operations, and the environment will affect outcomes.
+    Systems Evaluation	Identifying measures or indicators of system performance and the actions needed to improve or correct performance, relative to the goals of the system.
+    Time Management	Managing one's own time and the time of others.
+    Problem Sensitivity	The ability to tell when something is wrong or is likely to go wrong. It does not involve solving the problem, only recognizing there is a problem.
+    Inductive Reasoning	The ability to combine pieces of information to form general rules or conclusions (includes finding a relationship among seemingly unrelated events).
+    Deductive Reasoning	The ability to apply general rules to specific problems to produce answers that make sense.
+    Oral Comprehension	The ability to listen to and understand information and ideas presented through spoken words and sentences.
+    Written Comprehension	The ability to read and understand information and ideas presented in writing.
+    Oral Expression	The ability to communicate information and ideas in speaking so others will understand.
+    Written Expression	The ability to communicate information and ideas in writing so others will understand.
+    Near Vision	The ability to see details at close range (within a few feet of the observer).
+    Information Ordering	The ability to arrange things or actions in a certain order or pattern according to a specific rule or set of rules (e.g., patterns of numbers, letters, words, pictures, mathematical operations).
+    Category Flexibility	The ability to generate or use different sets of rules for combining or grouping things in different ways.
+    Flexibility of Closure	The ability to identify or detect a known pattern (a figure, object, word, or sound) that is hidden in other distracting material.
+    Perceptual Speed	The ability to quickly and accurately compare similarities and differences among sets of letters, numbers, objects, pictures, or patterns. The things to be compared may be presented at the same time or one after the other. This ability also includes comparing a presented object with a remembered object.
+    Visualization	The ability to imagine how something will look after it is moved around or when its parts are moved or rearranged.
+    Speech Clarity	The ability to speak clearly so others can understand you.
+    Far Vision	The ability to see details at a distance.
+    Speech Recognition	The ability to identify and understand the speech of another person.
+    Mathematical Reasoning	The ability to choose the right mathematical methods or formulas to solve a problem.
+    Selective Attention	The ability to concentrate on a task over a period of time without being distracted.
+    Getting Information	Observing, receiving, and otherwise obtaining information from all relevant sources.
+    Inspecting Equipment, Structures, or Material	Inspecting equipment, structures, or materials to identify the cause of errors or other problems or defects.
+    Evaluating Information to Determine Compliance with Standards	Using relevant information and individual judgment to determine whether events or processes comply with laws, regulations, or standards.
+    Documenting/Recording Information	Entering, transcribing, recording, storing, or maintaining information in written or electronic/magnetic form.
+    Updating and Using Relevant Knowledge	Keeping up-to-date technically and applying new knowledge to your job.
+    Interpreting the Meaning of Information for Others	Translating or explaining what information means and how it can be used.
+    Communicating with Supervisors, Peers, or Subordinates	Providing information to supervisors, co-workers, and subordinates by telephone, in written form, e-mail, or in person.
+    Communicating with Persons Outside Organization	Communicating with people outside the organization, representing the organization to customers, the public, government, and other external sources. This information can be exchanged in person, in writing, or by telephone or e-mail.
+    Identifying Objects, Actions, and Events	Identifying information by categorizing, estimating, recognizing differences or similarities, and detecting changes in circumstances or events.
+    Making Decisions and Solving Problems	Analyzing information and evaluating results to choose the best solution and solve problems.
+    Performing for or Working Directly with the Public	Performing for people or dealing directly with the public. This includes serving customers in restaurants and stores, and receiving clients or guests.
+    Processing Information	Compiling, coding, categorizing, calculating, tabulating, auditing, or verifying information or data.
+    Organizing, Planning, and Prioritizing Work	Developing specific goals and plans to prioritize, organize, and accomplish your work.
+    Interacting With Computers	Using computers and computer systems (including hardware and software) to program, write software, set up functions, enter data, or process information.
+    Establishing and Maintaining Interpersonal Relationships	Developing constructive and cooperative working relationships with others, and maintaining them over time.
+    Analyzing Data or Information	Identifying the underlying principles, reasons, or facts of information by breaking down information or data into separate parts.
+    Resolving Conflicts and Negotiating with Others	Handling complaints, settling disputes, and resolving grievances and conflicts, or otherwise negotiating with others.
+    Scheduling Work and Activities	Scheduling events, programs, and activities, as well as the work of others.
+    Performing General Physical Activities	Performing physical activities that require considerable use of your arms and legs and moving your whole body, such as climbing, lifting, balancing, walking, stooping, and handling of materials.
+    Performing Administrative Activities	Performing day-to-day administrative tasks such as maintaining information files and processing paperwork.
+    Judging the Qualities of Things, Services, or People	Assessing the value, importance, or quality of things or people.
+    Monitor Processes, Materials, or Surroundings	Monitoring and reviewing information from materials, events, or the environment, to detect or assess problems.
+    Operating Vehicles, Mechanized Devices, or Equipment	Running, maneuvering, navigating, or driving vehicles or mechanized equipment, such as forklifts, passenger vehicles, aircraft, or water craft.
+    Inspect work sites to identify potential environmental or safety hazards.
+    Inspect plumbing systems or fixtures.
+    Test electrical equipment or systems to ensure proper functioning.
+    Authorize construction activities.
+    Monitor construction operations.
+    Evaluate projects to determine compliance with technical specifications.
+    Measure work site dimensions.
+    Verify alignment of structures or equipment.
+    Evaluate construction projects to determine compliance with external standards or regulations.
+    Record operational or environmental data.
+    Review blueprints or specifications to determine work requirements.
+    Inspect completed work to ensure proper installation.
+    Communicate with clients about products, procedures, and policies.
+    Inspect industrial or commercial equipment to ensure proper operation.
+    Direct construction or extraction personnel.
+    Train construction or extraction personnel.
+    Test air quality at work sites.
+    Estimate construction project costs.
+    Realistic — Realistic occupations frequently involve work activities that include practical, hands-on problems and solutions. They often deal with plants, animals, and real-world materials like wood, tools, and machinery. Many of the occupations require working outside, and do not involve a lot of paperwork or working closely with others.See more occupations related to this interest.
+    Conventional — Conventional occupations frequently involve following set procedures and routines. These occupations can include working with data and details more than with ideas. Usually there is a clear line of authority to follow.See more occupations related to this interest.   	
+    Investigative — Investigative occupations frequently involve working with ideas, and require an extensive amount of thinking. These occupations can involve searching for facts and figuring out problems mentally.
+    Integrity	Job requires being honest and ethical.
+    Dependability	Job requires being reliable, responsible, and dependable, and fulfilling obligations.
+    Attention to Detail	Job requires being careful about detail and thorough in completing work tasks.
+    Independence	Job requires developing one's own ways of doing things, guiding oneself with little or no supervision, and depending on oneself to get things done.
+    Analytical Thinking	Job requires analyzing information and using logic to address work-related issues and problems.
+    Self Control	Job requires maintaining composure, keeping emotions in check, controlling anger, and avoiding aggressive behavior, even in very difficult situations.
+    Initiative	Job requires a willingness to take on responsibilities and challenges.
+    Persistence	Job requires persistence in the face of obstacles.
+    Stress Tolerance	Job requires accepting criticism and dealing calmly and effectively with high stress situations.
+    Adaptability/Flexibility	Job requires being open to change (positive or negative) and to considerable variety in the workplace.
+    Cooperation	Job requires being pleasant with others on the job and displaying a good-natured, cooperative attitude.
+    Achievement/Effort	Job requires establishing and maintaining personally challenging achievement goals and exerting effort toward mastering tasks.
+    Concern for Others	Job requires being sensitive to others' needs and feelings and being understanding and helpful on the job.
+    Leadership	Job requires a willingness to lead, take charge, and offer opinions and direction.
+    Innovation	Job requires creativity and alternative thinking to develop new ideas for and answers to work-related problems.
+    Support	Occupations that satisfy this work value offer supportive management that stands behind employees. Corresponding needs are Company Policies, Supervision Human Relations and Supervision Technical.
+    Independence	Occupations that satisfy this work value allow employees to work on their own and make decisions. Corresponding needs are Creativity, Responsibility and Autonomy.
+    Working Conditions	Occupations that satisfy this work value offer job security and good working conditions. Corresponding needs are Activity, Compensation, Independence, Security, Variety and Working Conditions.
+    Achievement	Occupations that satisfy this work value are results oriented and allow employees to use their strongest abilities, giving them a feeling of accomplishment. Corresponding needs are Ability Utilization and Achievement.
+    Relationships	Occupations that satisfy this work value allow employees to provide service to others and work with co-workers in a friendly non-competitive environment. Corresponding needs are Co-workers, Moral Values and Social Service.

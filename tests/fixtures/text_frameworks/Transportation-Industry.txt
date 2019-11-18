@@ -1,0 +1,905 @@
+"Transportation, Distribution, and Logistics Competency Model "
+Tier 1: Personal Effectiveness Competencies
+1.1 Interpersonal Skills:  Displaying skills to work with others from a range of backgrounds.
+1.1.1    Maintaining Open Communication
+1.1.1.1       Maintains open lines of communication with others
+1.1.1.2       Recognizes and accurately interprets the verbal and nonverbal behavior of others
+1.1.1.3       Establishes a high degree of trust and credibility with others
+1.1.2    Working with Diverse People
+1.1.2.1       Is flexible and open-minded when dealing with a wide range of people
+1.1.2.2       Listens to and consider others’ viewpoints
+1.1.2.3       Works well and develops effective relationships with diverse personalities
+"1.1.2.4       Demonstrates respect for the opinions, perspectives, and individual differences of others"
+1.1.2.5       Values diversity of people and ideas
+1.2 Integrity:  Displaying accepted social and work behaviors.
+1.2.1    Behaving Ethically
+1.2.1.1       Abides by a strict code of ethics and behavior
+"1.2.1.2       Chooses an ethical course of action and does the right thing, even in the face of opposition"
+1.2.1.3       Differentiates between legal and ethical issues
+"1.2.1.4       Performs work-related duties according to laws, regulations, contract provisions, and policies"
+1.2.2    Acting Fairly
+"1.2.2.1       Treats others with honesty, fairness, and respect"
+1.2.2.2       Makes decisions that are objective and reflect the just treatment of others
+1.2.2.3       Is willing to have tough conversations when others need to be corrected
+1.2.3    Taking Responsibility
+1.2.3.1       Takes responsibility for accomplishing work goals within accepted timeframes
+"1.2.3.2       Accepts responsibility for one’s actions and for those of one’s group, team, or department"
+1.2.3.3       Makes an effort to learn from mistakes
+1.2.3.4       Takes personal responsibility and accountability
+1.3 Professionalism:  Maintaining a professional demeanor.
+1.3.1    Demonstrating Self-Control
+1.3.1.1       Demonstrates self-control by maintaining composure and keeping emotions in check even in difficult situations
+1.3.1.2       Deals calmly and effectively with stressful situations
+1.3.1.3       Demonstrates emotional intelligence 
+1.3.2    Maintaining Professional Demeanor
+1.3.2.1       Projects a professional image of oneself and the organization
+1.3.2.2       Dresses appropriately for the occupation and its requirements 
+1.3.2.3       Maintains appropriate personal hygiene
+1.3.2.4       Takes pride in one’s work and the work of the organization
+1.3.2.5       Demonstrates a positive attitude towards work
+1.3.3    Social Responsibility 
+1.3.3.1       Remains free from substance abuse
+1.3.3.2       Maintains a healthy lifestyle
+1.3.4    Self-Development
+"1.3.4.1       Takes charge of personal career development by identifying occupational interests, strengths, options, and opportunities"
+"1.3.4.2       Makes insightful career planning decisions based on integration and consideration of others’ feedback, and seeks out additional training to pursue career goals"
+1.4 Initiative:  Demonstrating a willingness to work.
+1.4.1    Showing Commitment
+"1.4.1.1       Pursues work with energy, drive, and a strong accomplishment orientation"
+1.4.1.2       Expends extra effort to accomplish tasks even when conditions are difficult or deadlines are tight
+"1.4.1.3       Persists at a task or problem despite interruptions, obstacles, or setbacks"
+1.4.1.4       Exerts effort toward task mastery
+1.4.2    Taking Initiative
+1.4.2.1       Takes initiative in seeking out new work challenges and increasing the variety and scope of one’s job
+1.4.2.2       Establishes personally challenging but realistic work goals
+1.4.2.3       Goes beyond the routine demands of the job
+1.4.2.4       Seeks opportunities to influence events and originate action
+1.4.3    Working Independently
+1.4.3.1       Works effectively and efficiently
+1.4.3.2       Is solutions-oriented
+"1.4.3.3       Is able to perform effectively even with minimal direction, support, or approval and without direct supervision"
+1.4.4    Demonstrating Motivation
+1.4.4.1       Is intrinsically driven to succeed and excel
+1.4.4.2       Strives to exceed standards and expectations
+1.4.4.3       Demonstrates confidence in one’s capabilities and an expectation to succeed in future activities
+1.5 Dependability and Reliability:  Displaying responsible behaviors at work.
+1.5.1    Fulfilling Obligations
+"1.5.1.1       Behaves maturely, consistently, and predictably"
+"1.5.1.2       Is reliable, responsible, and dependable in fulfilling obligations"
+1.5.1.3       Diligently follows through on commitments and consistently meets deadlines
+1.5.1.4       Demonstrates regular and punctual attendance; rarely is late for meetings or appointments
+1.5.1.5       Follows written and verbal directions
+"1.5.1.6       Complies with organizational rules, policies, and procedures"
+1.5.2    Attending to Details 
+1.5.2.1       Diligently checks work to ensure that all essential details have been considered
+"1.5.2.2       Notices errors or inconsistencies that others have missed, and takes prompt, thorough action to correct errors"
+1.6 Adaptability and Flexibility:  Being open to change and to considerable variety in the workplace.
+1.6.1    Entertaining New Ideas 
+1.6.1.1       Is open to considering new ways of doing things
+1.6.1.2       Actively seeks out and carefully considers the merits of new approaches to work
+1.6.1.3       Embraces new approaches when appropriate and discards approaches that are no longer working
+1.6.2    Dealing with Ambiguity
+1.6.2.1       Takes proper and effective action when necessary without having to have all the necessary facts in hand
+"1.6.2.2       Easily changes gears in response to unpredictable or unexpected events, pressures, situations, and job demands"
+"1.6.2.3       Effectively changes plans, goals, actions, or priorities to deal with changing situations"
+1.7 Lifelong Learning:  Understanding the importance of learning new information for both current and future problem solving and decision making.
+1.7.1    Demonstrating an Interest in Learning
+1.7.1.1       Demonstrates an interest in personal learning and development
+"1.7.1.2       Seeks feedback from multiple sources about how to improve and develop, and modifies behavior based on feedback or self-analysis of past mistakes"
+1.7.1.3       Treats unexpected circumstances as opportunities to learn
+1.7.2    Participating in Training
+1.7.2.1       Identifies when it is necessary to acquire new knowledge and skills
+"1.7.2.2       Takes steps to develop and maintain knowledge, skills, and expertise necessary to achieve positive results"
+1.7.2.3       Participates fully in relevant training programs and actively pursues other opportunities to develop knowledge and skills
+1.7.3    Integration and Application
+1.7.3.1       Integrates newly learned knowledge and skills with existing knowledge and skills
+1.7.3.2       Uses newly learned knowledge and skills to complete specific tasks
+1.7.3.3       Applies newly learned knowledge and skills in new or unfamiliar situations
+Tier 2: Academic Competencies
+"2.1 Communication – Visual and Verbal:  Listening, speaking, and signaling so others can understand. Communicate in spoken English well enough to be understood by others.  "
+2.1.1    Speaking 
+"2.1.1.1       Expresses information to individuals or groups taking into account the audience and the nature of the information (e.g., technical or controversial)"
+2.1.1.2       Speaks clearly and confidently in a logical manner
+"2.1.1.3       Speaks using common English conventions including proper grammar, tone, and pace"
+2.1.1.4       Effectively uses eye contact and non-verbal expression
+2.1.2    Listening and Following Directions
+"2.1.2.1       Receives, attends to, interprets, understands, and responds to verbal or signaled messages"
+2.1.2.2       Recognizes important information in verbal or signaled messages
+2.1.2.3       Understands and acts upon instructions to complete assignments
+2.1.3    Communicating Effectively 
+"2.1.3.1       Distinguishes when to use personal vs. business, private vs. public communication styles"
+"2.1.3.2       Uses communication tools, such as texting and e-mail, appropriately"
+2.1.3.3       Maintains awareness of the impact of communication
+"2.2 Reading: Understanding written sentences, paragraphs, and figures in work-related documents."
+2.2.1    Comprehension
+2.2.1.1       Understands the purpose of written materials
+2.2.1.2       Comprehends meaning and core ideas
+2.2.2    Integration and Application
+2.2.2.1       Critically evaluates and analyzes information in written materials
+2.2.2.2       Integrates and synthesizes information from multiple written materials
+2.2.2.3       Applies what is learned from written material to follow instructions and complete specific tasks 
+2.2.2.4       Applies what is learned from written material to future situations
+"2.3 Locating and Using Information:  Functional and critical thinking skills related to information, media, and technology."
+2.3.1    Locate and Evaluate Information
+"2.3.1.1       Locates, understands, and interprets written information such as manuals, reports, memos, letters, forms, graphs, charts, tables, calendars, schedules, signs, notices, applications, and directions"
+2.3.1.2       Locates information efficiently (time) and effectively (sources)
+2.3.1.3       Evaluates information critically and competently
+2.3.1.4       Reviews information obtained for relevance and completeness
+2.3.1.5       Recognizes important gaps in existing information
+2.3.1.6       Takes steps to eliminate those gaps
+2.3.2    Use and Manage Information
+2.3.2.1       Uses information accurately and creatively for the issue or problem at hand
+2.3.2.2       Manages the flow of information from a wide variety of sources
+2.3.2.3       Organizes/reorganizes information as appropriate to get a better understanding of a problem
+2.4 Writing:  Using standard English to compile information and prepare written documents.
+2.4.1    Organization and Development
+"2.4.1.1       Creates and formats documents such as letters, directions, manuals, reports, graphs, and flow charts"
+"2.4.1.2       Communicates thoughts, ideas, information, messages, and other written information, which may contain technical terms and concepts, in a logical, organized, and coherent manner"
+2.4.1.3       Develops ideas using supporting information and examples
+2.4.2    Mechanics
+2.4.2.1       Writes in a manner appropriate for business and with language appropriate for the target audience
+"2.4.2.2       Uses appropriate tone and word choice (e.g., writing is professional and courteous)"
+2.4.2.3       Uses standard syntax and sentence structure
+"2.4.2.4       Uses correct spelling, punctuation, and capitalization"
+"2.4.2.5       Uses appropriate grammar (e.g., correct tense, subject-verb agreement, no missing words)"
+"2.5 Science, Technology, Engineering, and Math (STEM):  Applying basic scientific, technological, engineering, and mathematical principles to complete tasks."
+2.5.1    STEM
+2.5.1.1       Understands basic scientific concepts and principles and how to use commonly available technology
+"2.5.1.2       Understands the scientific method (i.e., identifies problems, collects information, forms opinions, and draws conclusions)"
+"2.5.1.3       Has knowledge of the practical application of science, technology, and engineering"
+2.5.1.4       Applies the appropriate technical solution to complete tasks
+2.5.1.5       Solves problems where a variety of mechanical faults could be the cause
+2.5.1.6       Translates practical problems into useful mathematical expressions and uses appropriate mathematical formulas and techniques
+"2.5.1.7       Adds, subtracts, multiplies, and divides with whole numbers, fractions, decimals, and percentages"
+2.5.1.8       Recognizes and interprets the value of numbers and what they mean to the operation
+"2.5.1.9       Calculates averages, ratios, proportions, and rates"
+"2.5.1.10     Takes measurement of weight, time, temperature, distance, length, width, height, etc."
+2.5.1.11     Correctly converts from one measurement to another
+2.5.1.12     Solves simple algebraic equations  
+"2.5.1.13     Reads, tracks, and calculates gauge measurements"
+"2.5.1.14     Uses elementary statistics and laws of probability – mean, median, and mode"
+2.6 Critical and Analytical Thinking:  Possessing sufficient inductive and deductive reasoning ability to perform job successfully.
+2.6.1    Reasoning
+"2.6.1.1       Reviews, analyzes, synthesizes, compares and interprets information "
+2.6.1.2       Draws conclusions from relevant and/or missing information
+2.6.1.3       Applies critical thinking skills to formulate solutions to problems
+2.6.2    Mental Agility
+2.6.2.1       Identifies connections between issues
+"2.6.2.2       Understands, orients to, and learns new assignments"
+2.6.2.3       Demonstrates the ability to multi-task and adjust to changes when working on multiple projects or issues
+2.6.3    Employing Unique Analyses
+"2.6.3.1       Employs unique analyses and generates new, innovative ideas in complex areas"
+2.6.3.2       Integrates seemingly unrelated information to develop creative solutions
+2.6.3.3       Develops innovative methods of obtaining or using resources when insufficient resources are available
+"2.7 Information Technology Fundamentals:  Using a computer, communication devices, and related applications to input, retrieve, and communicate information."
+"2.7.1    General Computer, Software, Information and Communication Technology Knowledge and Skills"
+"2.7.1.1       Demonstrates familiarity with the fundamental capabilities of computers, software, information systems, and communications systems"
+"2.7.1.2       Understands terminology and function of common computer, software, information and communication technology devices, components, and concepts"
+"2.7.1.3       Understands common terminology related to the use of technology by people with disabilities and/or sensory and functional limitations, including accessible IT, assistive technology, and universal design"
+"2.7.1.4       Understands and uses common computer hardware (e.g., desktops, laptops, tablets, PC components, cabling), software (e.g., operating systems; applications; communication, collaboration, and productivity software) and communication devices (e.g., telephony, wireless devices, network and wireless systems) to perform tasks and communicate effectively"
+2.7.1.5       Understands and uses appropriate computer etiquette
+"2.7.1.6       Understands and uses common communications media, including wired and wireless telephones, audio conferences, videoconferences, and online collaboration tools"
+"2.7.1.7       Uses a computer to search for online information and interact with Web sites and Web applications (e.g., enterprise solutions, online stores, blogs, social networks, wikis)"
+2.7.1.8       Understands how to critically evaluate online information and be aware of relevant copyright and data protection issues
+2.7.2    Hardware
+Demonstrates a working knowledge of the following computer terms:
+2.7.2.1       Central processing unit (CPU)
+2.7.2.2       Memory - random-access memory (RAM) and read-only memory (ROM)
+"2.7.2.3       Storage media (e.g., internal hard disk, external hard disk, network drive, CD, DVD, USB, flash drive, memory card)"
+"2.7.2.4       Input/output ports, (e.g., USB, serial, parallel, network port, FireWire)"
+"2.7.2.5       Input devices (e.g., mouse, keyboard, trackball, scanner, touchpad, stylus, joystick, Web camera, digital camera, microphone, voice recognition, remote control, and head, mouth, and eye operated controllers)"
+"2.7.2.6       Output devices (e.g., screens/monitors, printers, speakers, headphones)"
+"2.7.2.7       Assistive technology devices (e.g., voice recognition software, screen reader, screen magnifier, on-screen keyboard, closed captioning, text-to-speech)"
+2.7.3    Common IT Applications Use
+"2.7.3.1       Uses word processing applications to compose, organize, and edit simple documents and other business communications, and produce accurate outputs to print or share electronically"
+"2.7.3.2       Uses standard formulas and functions, format and modify content, and demonstrates competence in creating and formatting spreadsheets, graphs, or charts"
+2.7.3.3       Uses and manages electronic mail to communicate with appropriate etiquette
+2.7.3.4       Uses Internet applications to search for information
+2.7.3.5       Uses presentation software to effectively share information and ideas
+2.7.3.6       Understands and is able to use simple databases
+"2.7.3.7       Uses spreadsheet, database, and presentation software both independently and in an integrated fashion"
+"2.7.3.8       Manages file storage: uses functions to store, retrieve, and sort documents"
+2.7.3.9       Understands social media and their appropriate workplace uses
+"2.7.3.10    Double-checks work carefully to identify and correct typographical, grammatical, and other errors"
+2.7.4    Cyber Safety
+2.7.4.1       Understands the importance of privacy and potential abuses of private information
+"2.7.4.2       Is able to stay safe in an online, networked environment"
+"2.7.4.3       Understands the importance of updating and using the most recent security software, Web browser, and operating system to protect against malware, and other online threats"
+"2.7.4.4       Recognizes and responds appropriately to suspicious vulnerabilities and threats: Web sites, Web links, emails, posts, online advertisements, phishing, virus infections, etc."
+"2.7.4.5       Recognizes secure Web addresses, (e.g., “https://” or “shttp://”) "
+2.7.4.6       Protects and manages personally identifiable information
+2.7.4.7       Understands and uses privacy and security settings on social networking applications to share only appropriate personal information
+"2.7.4.8       Reviews the privacy policy and understands what data (location, access to social networks) an application can access prior to downloading and installing"
+2.7.4.9       Understands the risk of connecting to an unsecured or unprotected network
+"2.7.4.10    Uses strong passwords, passphrases, and basic encryption"
+Tier 3: Workplace Competencies
+3.1 Teamwork:  Working cooperatively with others to complete work assignments.
+3.1.1    Working with Others 
+3.1.1.1       Demonstrates the ability to work responsibly on a team 
+3.1.1.2       Recognizes the importance of teamwork and its contribution to success
+3.1.1.3       Assists others who have less experience or have heavy workloads 
+3.1.1.4       Identifies and draws upon team members’ individual strengths to achieve results
+3.1.1.5       Learns from other team members
+3.1.1.6       Determines when to be a leader and when to be a follower depending on what is needed to achieve the team’s goals and objectives
+3.1.1.7       Uses a group approach to identify problems and develop solutions based on group consensus
+3.1.1.8       Effectively communicates with all members of the group or team to achieve team goals and objectives
+3.1.2    Resolving Conflicts
+"3.1.2.1       Delivers constructive criticism and voices objections to others’ ideas and opinions in a constructive, supportive, and non-accusatory manner"
+3.1.2.2       Handles conflicts maturely by exercising “give and take” to achieve positive results for all parties
+3.1.2.3       Exhibits tact and diplomacy and strives to build consensus
+3.1.2.4       Brings others together to reconcile differences to maintain a smooth workflow
+"3.1.2.5       Reaches formal or informal agreements that promote mutual goals and interests, and obtains commitment to those agreements from individuals or groups"
+3.2 Customer Focus:  Efficiently and effectively addressing the needs of clients/customers.
+3.2.1    Providing Personalized Service
+3.2.1.1       Actively listens to customers to understand customer needs and goals
+"3.2.1.2       Provides prompt, efficient, and personalized assistance to meet the requirements, requests, and concerns of customers"
+"3.2.1.3       Provides thorough, accurate information to answer customers’ questions and informs them of commitment times or performance guarantees"
+3.2.1.4       Actively looks for ways to help customers by identifying and proposing appropriate solutions and/or services
+3.2.2    Acting Professionally 
+"3.2.2.1       Is pleasant, courteous, and professional when dealing with internal or external customers"
+"3.2.2.2       Develops constructive and cooperative working relationships with customers, and displays a good-natured, cooperative attitude"
+3.2.2.3       Is calm and empathetic when dealing with difficult customers
+3.2.3    Keeping Customers Informed
+3.2.3.1       Follows up with both internal and external customers during projects and following project completion
+3.2.3.2       Keeps clients up to date about decisions that affect them
+"3.2.3.3       Seeks the comments, criticisms, and involvement of customers"
+3.2.3.4       Adjusts services based on customer feedback
+3.3 Planning and Organizing:  Planning and prioritizing work to manage time effectively and accomplish assigned tasks.
+3.3.1    Planning
+3.3.1.1       Approaches work in a methodical manner
+3.3.1.2       Plans and schedules tasks so that work is completed on time
+3.3.1.3       Keeps track of details to ensure work is performed accurately and completely
+3.3.2    Prioritizing
+3.3.2.1       Prioritizes various competing tasks and performs them quickly and efficiently according to their urgency
+3.3.2.2       Finds new ways of organizing work area or planning work to accomplish work more efficiently
+3.3.3    Allocating Resources
+3.3.3.1       Estimates resources needed for project completion
+"3.3.3.2       Shows proper technique for forecasting accurately, both short term and long term"
+3.3.3.3       Allocates time and resources effectively and coordinates efforts with all affected parties
+3.3.3.4       Keeps all parties informed of progress and all relevant changes to project timelines
+3.3.4    Anticipating Obstacles
+3.3.4.1       Anticipates obstacles to project completion and develops contingency plans to address them
+3.3.4.2       Takes necessary corrective action when projects go off-track
+3.4 Problem Solving and Decision Making:  Applying critical thinking skills to solve problems encountered on the work site.
+3.4.1    Identifying the Problem
+3.4.1.1       Anticipates or recognizes the existence of a problem
+3.4.1.2       Identifies the true nature of the problem by analyzing its component parts
+3.4.1.3       Recalls previously learned information that is relevant to the problem
+"3.4.2    Locating, Gathering, and Organizing Relevant Information"
+"3.4.2.1       Effectively uses both internal resources (e.g., internal computer networks, company filing systems) and external resources (e.g., internet search engines) to locate and gather information relevant to the problem"
+3.4.2.2       Examines information obtained for relevance and completeness
+3.4.2.3       Recognizes important gaps in existing information and takes steps to eliminate those gaps
+3.4.3    Generating Alternatives
+3.4.3.1       Integrates previously learned and externally obtained information to generate a variety of high-quality alternative approaches to the problem
+"3.4.3.2       Uses logic and analysis to identify the strengths and weaknesses, the costs and benefits, and the short- and long-term consequences of different approaches"
+3.4.4    Choosing a Solution
+3.4.4.1       Decisively chooses the best solution after contemplating and evaluating available approaches to the problem
+3.4.4.2       Makes difficult decisions even in highly ambiguous or ill-defined situations
+3.4.4.3       Quickly chooses an effective solution without assistance when appropriate
+3.4.5    Implementing the Solution
+"3.4.5.1       Commits to a solution in a timely manner, and develops a realistic approach for implementing the chosen solution"
+3.4.5.2       Observes and evaluates the outcomes of implementing the solution to assess the need for alternative approaches and to identify lessons learned
+"3.5 Working with Tools and Technology:  Selecting, using, and maintaining tools and technology to facilitate work activity."
+3.5.1    Selecting and Using Tools
+"3.5.1.1       Identifies, selects, and applies appropriate tools or technological solutions to frequently encountered problems "
+"3.5.1.2       Carefully considers which tools or technological solutions are appropriate for a given job, and consistently chooses the best tool or technological solution for the problem at hand"
+3.5.1.3       Demonstrates appropriate use of tools and technology to complete work functions
+"3.5.1.4       Uses tool, equipment, and machinery safely and appropriately"
+3.5.2    Keeping Current
+3.5.2.1       Demonstrates an interest in learning about new and emerging tools and technologies
+3.5.2.2       Seeks out opportunities to improve knowledge of tools and technologies that may assist in streamlining work and improving productivity
+3.5.2.3       Adapts quickly to changes in process or technology
+3.5.2.4       Accepts help from others
+3.5.3    Troubleshooting 
+3.5.3.1       Learns how to maintain and troubleshoot tools and technologies
+"3.5.3.2       Performs routine maintenance on tools, technology, and equipment "
+3.5.3.3       Determines causes of operating errors and decides what to do about it
+3.5.3.4       Troubleshoots maintenance problems in accordance with established procedures
+3.5.3.5       Develops alternatives to complete a task if desired tool/technology is unavailable 
+3.6 Scheduling and Coordinating:  Making arrangements that fulfill all requirements as efficiently and economically as possible.
+3.6.1    Arranging and Informing
+3.6.1.1       Handles all aspects of arrangements thoroughly and completely with little or no supervision
+"3.6.1.2       Informs others of arrangements, giving them complete, accurate, and timely information"
+3.6.1.3       Responds to the schedules of others affected by arrangements
+3.6.1.4       Takes steps to verify all arrangements
+"3.6.1.5       Recognizes problems, generates effective alternatives, and takes corrective action"
+3.6.2    Coordinating in Distributed Environments
+"3.6.2.1       Coordinates schedules of colleagues, co-workers, and clients in regional locations (i.e., across time zones) to ensure that inconvenience is minimized and productivity is enhanced"
+"3.6.2.2       Leverages technology (e.g., internet, teleconference) to facilitate information sharing in distributed work environments"
+3.6.2.3       Takes advantage of team member availability throughout business hours in multiple time zones to enhance productivity
+3.6.3    Shift Work
+3.6.3.1       Effectively coordinates the transition of employees at the beginning and end of each work shift
+3.6.3.2       Disseminates crucial information in an organized manner to rapidly bring employees up to speed at the start of their shifts
+3.6.3.3       Ensures employees are updated on work completed on past shifts and work that still needs to be completed
+3.6.3.4       Demonstrates willingness to work various shifts and schedules
+"3.7 Checking, Examining, and Recording:  Entering, transcribing, recording, storing, or maintaining information in written or electronic format."
+3.7.1    Completing Forms
+3.7.1.1       Selects and completes appropriate forms quickly and completely
+3.7.1.2       Attends to and follows through on important information in paperwork
+3.7.1.3       Forwards or processes forms in a timely and accurate manner
+"3.7.1.4       Expedites forms, orders, or advances that require immediate attention"
+"3.7.1.5       Obtains appropriate information, signatures, and approvals promptly"
+3.7.2    Maintaining Logs
+"3.7.2.1       Keeps logs, records, and files that are up-to-date and readily accessible (e.g., driver logs, flight records, repair records)"
+"3.7.2.2       Updates logs, files, and records, noting important changes in status"
+3.7.3    Detecting Errors
+3.7.3.1       Verifies that all information is present and accurate before forwarding materials
+"3.7.3.2       Detects and corrects errors, even under time pressure"
+3.7.3.3       Notices errors or inconsistencies
+3.8 Business Fundamentals:  Application of basic business and management principles to connect industry trends with services the company sells and provides to the customer.
+3.8.1    Situational Awareness
+"3.8.1.1       Understands the mission, structure, and functions of the organization"
+"3.8.1.2       Understands the impact of economic, social, and technological changes on the organization"
+3.8.1.3       Recognizes one’s role in the functioning of the company and understands the potential impact one’s own performance can have on the success of the organization
+3.8.1.4       Grasps the potential impact of the company’s well-being on employees
+3.8.1.5       Understands the culture of safety and practices safe work habits.
+3.8.2    Physical Aptitude
+3.8.2.1       Recognizes the physical aptitudes necessary to perform critical work functions
+"3.8.2.2       Demonstrates sufficient stamina to complete critical work functions (e.g., complete full shift, walking, carrying heavy objects for extended periods)"
+3.8.3    Business Ethics
+"3.8.3.1       Demonstrates respect for coworkers, colleagues, and customers"
+"3.8.3.2       Acts in the best interest of the company, the community, and the environment"
+"3.8.3.3       Complies with applicable laws and rules governing work and reports loss, waste, or theft or company property to appropriate personnel"
+3.8.4    Industry Knowledge
+Private Sector
+"3.8.4.1       Understands the industry, industry market trends, and the company’s position in the market"
+"3.8.4.2       Knows who the company’s primary competitors are, their products/services, strengths/weaknesses, and, to the extent possible, organizational strategies "
+"3.8.4.3       Understands the company’s priorities, workforce capabilities, strategic plan, business plan, critical customers, suppliers, and stakeholders"
+3.8.4.4       Understands major competitive challenges faced by the organization
+3.8.5    Public Sector
+3.8.5.1       Understands the industry and the organization’s mission in support of industry success
+"3.8.5.2       Knows the agency’s key stakeholder roles and priorities, and stays current on key organizational strategies "
+"3.8.5.3       Understands major challenges faced by the organization and industry, and key strategies to address challenges"
+Tier 4: Industry-Wide Technical Competencies
+"4.1 Industry Fundamentals:  Knowledge of the fundamentals of the transportation, distribution, and logistics industry, including transportation modes and the industry’s key components."
+Critical Work Functions:
+"4.1.1     Understands the nature and scope of transportation, distribution, and logistics"
+4.1.2     Describes the various modes of transportation and their inter-connectivity
+4.1.3     Explains the role and impact of the transportation of passengers and freight on the economy 
+"4.1.4     Understands the public and private organizations, systems, and infrastructure supporting the transportation, distribution, and logistics industry "
+Technical Content Areas:
+4.1.5    Modes of Transportation 
+4.1.5.1       Air 
+4.1.5.2       Rail
+4.1.5.3       Maritime
+4.1.5.4       Highway
+4.1.5.5       Pipeline
+4.1.5.6       Public Transit and Ground Transportation Systems
+4.1.5.7       Intermodal and Multimodal
+"4.1.5.8       Scenic and Sightseeing Transportation (NAICS 487), the Postal Service (NAICS 491), and Couriers and Messengers (NAICS 492)  "
+4.1.6    Support Providers
+4.1.6.1       Logistics 
+4.1.6.2       Supply Chain Management
+4.1.6.3       Transportation Management
+4.1.6.4       Warehousing Management
+4.1.6.5       Infrastructure Management
+4.1.6.6       Non-Asset Based Third Party Suppliers for activities such as:
+ · Auditing
+ · Customer Service Issue Resolution 
+ · Freight Quoting
+ · Financial Settlement and Invoicing
+ · Packaging and Transportation
+ · Tracking
+"4.2 Design and Development:  Activities related to the research, design, and development of transportation systems capable of moving materials, products, and people to meet customer’s requirements."
+Critical Work Functions:
+4.2.1     Develops plans including routes and schedules for transporting people and goods to meet customer requirements
+4.2.2     Analyzes performance of transportation operations in order to improve quality and service levels and increase efficiency
+"4.2.3     Applies systems analysis to the elements, relationships, and functions in the supply chain"
+4.2.4     Determines customer needs and requirements
+"4.2.5     Ensures that passengers or cargo arrive at the right location, on time, and in the safest and most efficient and economical manner within regulatory guidelines"
+4.2.6     Maintains information on the movement of people and goods according to planned routes and schedules
+4.2.7     Assesses infrastructure conditions and develops plans to maintain and improve transportation infrastructure 
+Technical Content Areas:
+4.2.8    Design and Development
+4.2.8.1       Asset Management
+4.2.8.2       Geometric Design
+4.2.8.3       Intelligent Transportation Systems
+4.2.8.4       Pavements
+4.2.8.5       Roads and Bridges
+4.2.8.6       Traffic Operations and Capacity
+4.2.8.7       Traffic Safety
+4.2.8.8       Transportation Planning Development
+4.2.8.9       User Behavior/Human Factors
+4.2.9    Business Cycle
+4.2.9.1       Contracting
+4.2.9.2       Documentation
+4.2.9.3       Forecasting
+4.2.9.4       Procurement
+4.2.9.5       Scheduling and Monitoring
+4.2.10 Global Impacts
+4.2.10.1    Customs and Export Control (Legal Aspects)
+4.2.10.2    Global Supply Chain Logistics Life Cycle
+4.2.10.3    Intellectual Property
+4.2.10.4    Political Climates
+4.2.10.5    Taxes and Duties
+"4.2.10.6    Shipping, Receiving, and Freight"
+"4.3 Operations and Management: Activities related to the implementation, management, and control of transportation systems."
+Critical Work Functions:
+4.3.1     Drives or operates transportation equipment
+4.3.2     Implements transportation plans and schedules
+4.3.3     Adjusts transportation and distribution processes in response to changing conditions
+"4.3.4     Demonstrates knowledge of roadway  planning, design, and construction, and vehicle dispatching, routing, and tracking"
+"4.3.5     Applies strategies for managing traffic flow at transportation hubs, facilities, and staging areas"
+4.3.6     Applies industry standards to ensure quality service
+4.3.7     Maintains logs and other required documents 
+4.3.8     Monitors processes to ensure they are appropriate and effective
+4.3.9     Ensures equipment is operating to prescribed standards
+4.3.10  Raises and reports quality issues in a timely manner
+4.3.11  Suggests and/or implements continuous improvement actions such as business process reengineering and performance improvement strategies
+4.3.12  Provides ongoing customer service to both internal and external customers
+"4.3.13  Responds to customer problems, complaints, and questions"
+Technical Content Areas:
+4.3.14  Operation
+4.3.14.1    Dispatch
+4.3.14.2    Intermodal Transfers/Synchronization
+4.3.14.3    Impact of Intermodal Operations
+4.3.14.4    Operations Systems
+4.3.14.5    Signaling
+4.3.14.6    Scheduling
+4.3.14.7    Tracking
+4.3.14.8    Traffic Flow
+4.3.14.9    Vehicle Operation 
+4.3.15  Customer Relationship Management
+4.3.15.1    Internal and External Customers 
+4.3.15.2    Company Policies and Procedures 
+4.3.15.3    Confidentiality
+"4.3.15.4    Handling Questions, Problems, Complaints "
+4.3.15.5    Educating the Customer
+4.3.15.6    Customer Satisfaction and Commitment to Product or Service 
+4.3.16  Routes and Schedules
+4.3.16.1    Local 
+4.3.16.2    Long-Distance
+4.3.16.3    Special Handling
+4.3.16.4    Hazardous Materials
+4.3.17  Quality Assurance
+4.3.17.1    Total Quality Management (TQM)
+4.3.17.2    Enterprise Lean
+4.3.17.3    Six Sigma Methodology
+"4.4 Maintenance and Repair:  Activities related to the maintenance and repair of transportation facilities, equipment, infrastructure, and systems."
+Critical Work Functions:
+"4.4.1     Examines or inspects facilities, equipment, infrastructure, and systems to detect malfunctions, damage, or maintenance needed"
+"4.4.2     Maintains and repairs transportation facilities, equipment, infrastructure, and systems"
+4.4.3     Updates maintenance records and logs according to company policies and procedures and government regulations
+Technical Content Functions:
+4.4.4    Maintenance
+4.4.4.1       Equipment Operation and Repair
+4.4.4.2       Equipment/Machinery Maintenance Services 
+4.4.4.3       Maintenance Schedules
+4.4.4.4       Maintenance Logs
+4.4.4.5       Computer Software and Hardware
+4.4.5    Repair
+4.4.5.1       Repair Schedules
+4.4.5.2       Vehicle Diagnostic Systems
+4.4.5.3       Vehicle Monitoring Systems (VMS)
+"4.5 Technology Applications:  Maintaining an awareness of technological advances and applying appropriate technology to transportation, distribution, and logistics processes."
+Critical Work Functions:
+"4.5.1     Applies new and emerging advanced techniques to provide solutions for transportation, distribution, and logistics problems"
+"4.5.2     Stays informed of technological advances and the benefits of applying appropriate technology to transportation, distribution, and logistics processes"
+Technical Content Areas:
+4.5.3    Technology
+"4.5.3.1       Transportation Components and Systems such as vehicular global positioning systems, or vehicle navigation systems"
+4.5.3.2       Transportation Services Equipment such as integrated maintenance information systems
+"4.5.3.3       Communications Devices and Accessories such as mobile phones, or two-way radios"
+"4.5.3.4       Computer Equipment and Accessories such as notebook computers, personal digital assistants (PDAs) or organizers, thin-client computers, desktop computers, personal computers, wearable computing devices, bar code reader equipment, radio frequency identification devices, scanners, touchpads, portable data input terminals"
+"4.5.3.5       Data Voice or Multimedia Network Equipment or Platforms and Accessories such as automatic call distributor (ACD), interactive voice recognition equipment, intercom systems, radio frequency data communication equipment, telegraph sounders, instant messaging platform, location based messaging service platforms, paging controllers"
+4.5.3.6       Robotics
+4.5.3.7       Public Safety and Control Systems
+4.5.3.8       Fire Protection such as fire suppression systems
+"4.5.3.9       Consumer Electronics such as global positioning system receivers, radio frequency scanners, radio frequency transmitters or receivers"
+4.5.4    Systems and Software
+4.5.4.1       Advanced Traveler Information Systems (ATIS)
+4.5.4.2       Compliance
+4.5.4.3       Customer Relationship Management (CRM)
+4.5.4.4       Electronic Data Interchange (EDI)
+4.5.4.5       Electronic Logging Systems
+4.5.4.6       Enterprise Resource Planning (ERP)
+4.5.4.7       Expert Systems
+4.5.4.8       Facilities Management
+4.5.4.9       Geographic Information Systems (GIS)
+4.5.4.10     Global Logistics Systems (GLS)
+4.5.4.11     Industrial Control
+4.5.4.12     Intelligent Transportation Systems (ITS)
+4.5.4.13     Materials Requirements Planning Logistics and Supply Chain
+4.5.4.14     Mobile Location-based Services
+4.5.4.15     Procurement 
+4.5.4.16     Project Management
+4.5.4.17     Route Navigation
+4.5.4.18     Transportation Management Systems (TMS)
+4.5.4.19     Safety and Security Systems
+4.5.4.20     Video Monitoring Systems
+"4.6 Regulations:  Compliance with relevant local, state, federal, and international laws and regulations that impact the transportation, distribution, and logistics industry."
+Critical Work Functions:
+"4.6.1     Understands the roles and functions of government agencies (e.g., Federal Aviation Administration) in regulating and supporting transportation, distribution, and logistics organizations"
+"4.6.2     Complies with local, state, federal, and international laws and regulations"
+"4.6.3     Understands transportation systems’ political, regulatory, and legal issues"
+"4.6.4     Identifies governmental policies and procedures for transportation, distribution and logistics facilities"
+Technical Content Areas:
+4.6.5    Standards and Regulations
+4.6.5.1       International Organization for Standardization (ISO) Standards 
+4.6.5.2       Tariff and Trade Regulations
+4.6.5.3       Labeling Regulations 
+4.6.5.4       Environmental Regulations
+"4.6.5.5       Safety Regulations, Including Occupational Safety and Health Administration (OSHA)"
+"4.6.5.6       Local, State, Federal, and International Laws"
+4.7 Safety and Security:  Assessing and managing risks associated with safety and security.
+Critical Work Functions:
+4.7.1    Maintaining a Healthy and Safe Environment
+"4.7.1.1       Takes actions to ensure the safety of self and others, in accordance with established personal and jobsite safety practices"
+4.7.1.2       Anticipates and prevents work-related injuries and illnesses
+"4.7.1.3       Complies with federal, state, and local regulations, and company health and safety policies"
+"4.7.1.4       Recognizes common hazards and unsafe conditions that occur at work, their risks, and appropriate controls to address them"
+"4.7.1.5       Follows organizational procedures and protocols for workplace emergencies, including safe evacuation, and emergency response"
+4.7.1.6       Maintains a sanitary and clutter-free work environment
+4.7.1.7       Administers first aid or CPR if trained and summons assistance as needed
+"4.7.1.8       Properly identifies, handles, and disposes of hazardous materials in accordance with government regulations and health standards"
+"4.7.1.9       Recognizes universal signs and symbols, such as colors, flags, and stakes, to function safely in the workplace"
+4.7.1.10     Implements security measures to minimize loss and disruption
+"4.7.1.11     Practices sustainability by using processes that are non-polluting, conserving of energy and natural resources, economically efficient, and safe for workers, communities, and consumers"
+4.7.1.12     Stays up to date on environmentally-friendly trends in the industry
+"4.7.1.13     Follows organizational procedures to reduce emissions, increase energy efficiency, and reduce the organization’s carbon footprint"
+"4.7.1.14     Maintains documentation of compliance with health, safety, security, and environmental management systems"
+4.7.2    Safeguarding One’s Person
+4.7.2.1        Uses equipment and tools safely. Completes safety training on pertinent equipment and applies safe operating procedures 
+4.7.2.2        Uses appropriate Personal Protective Equipment (PPE)
+4.7.2.3        Recognizes how workplace risks can affect one’s life and one’s family
+4.7.2.4        Understands and follows the safety and security rules and procedures particular to employee’s mode and occupation
+4.7.2.5        Understands the legal rights of workers regarding workplace safety and protection from hazards
+"4.7.2.6        Reports injuries, incidents, workplace hazards, and safety and security concerns to a supervisor as soon as safely possible"
+"4.7.2.7        Contributes to discussion of safety concerns in the workplace, making suggestions as appropriate"
+Technical Content Areas:
+4.7.3    Rules and Regulations 
+"4.7.3.1       Safety, Health, Environmental, and Operational Regulations"
+4.7.3.2       HAZMAT Regulations
+4.7.3.3       Personal Protective Equipment (PPE)
+"4.7.3.4       Health, Safety, and Environmental Risks"
+4.7.4    Safety
+4.7.4.1       Protective Gear
+4.7.4.2       Safety Practices
+4.7.4.3       Workplace Hazards
+4.7.4.4       Emergency Preparedness
+4.7.4.5       Investigations and Audits
+4.7.4.6       Documentation
+4.7.5    Security
+4.7.5.1       Continuity of Operations
+4.7.5.2       Cybersecurity
+4.7.5.3       Emergency Preparedness 
+4.7.5.4       Infrastructure and Physical Security
+4.7.5.5       Internal Controls
+4.7.5.6       Risk Management 
+4.7.5.7       Vulnerability Assessment
+4.7.6    Environmental
+4.7.6.1       Hazardous Materials
+"4.7.6.2       Green Issues Impacting Transportation, Distribution, and Logistics Industry"
+· Greenhouse Gas Emissions
+· Energy Efficiency
+· Carbon Footprint
+· Fuel-saving Technologies
+· Air/Water Quality
+Tier 5: Transportation Sectors
+5.1 Air Transportation:  The activities required to provide for the air transportation of passengers and/or cargo using aircraft such as airplanes and helicopters.  Includes both scheduled and non-scheduled carriers.
+5.1.1    Types of Civil Aviation
+5.1.1.1         Scheduled Air Transport (all passenger and cargo flights operating on regularly scheduled routes)
+"5.1.1.2         General Aviation (GA) (all other civil flights, private or commercial)"
+5.1.2    Major Components
+5.1.2.1         Air Traffic Management
+"5.1.2.2         Aircraft Design, Development, and Production"
+5.1.2.3         Airport Operations and Management
+5.1.2.4         Airworthiness Certification
+5.1.2.5         Aviation System Planning and Engineering
+5.1.2.6         Economics
+5.1.2.7         Flight Operations
+5.1.2.8         Manufacturers and Suppliers
+5.1.2.9         Medical
+5.1.2.10       Personnel Licensing
+5.1.2.11       Regulation
+5.1.2.12       Repair and Maintenance 
+"5.1.2.13       Safety, Security, and Environmental Impacts"
+5.1.2.14       Training
+5.1.3    Major Workforce Categories
+5.1.3.1         Airline Employees
+5.1.3.2         Airport Employees
+5.1.3.3         Federal Aviation Administration (FAA) Employees
+5.1.3.4         State and Local Government Aviation Employees
+"5.1.3.5         Airport Support Employees (not at airports, but aligned with the U.S. aviation industry)"
+5.1.4    Major Job Types
+5.1.4.1         Pilots 
+5.1.4.2         Other Flight Personnel
+5.1.4.3         Passenger Handling and Services
+5.1.4.4         Maintenance
+5.1.4.5         Air Traffic Handling and Control
+5.1.4.6         Cargo Handling
+5.1.4.7         Professional and Other Transport Related
+5.1.5    Key Trends
+5.1.5.1         Commercial Space Transportation
+5.1.5.2         Next Generation Air Transportation System (NextGen)
+5.1.5.3         Unmanned Aerial Systems
+5.1.6    Occupations
+5.1.6.1         Aerospace Engineering and Operations Technicians
+5.1.6.2         Air Traffic Controllers
+5.1.6.3         Aircraft Cargo Handling Supervisors
+5.1.6.4         Aircraft Mechanics and Service Technicians
+"5.1.6.5         Aircraft Structure, Surfaces, Rigging, and Systems Assemblers"
+5.1.6.6         Airfield Operations Specialists
+"5.1.6.7         Airline Pilots, Copilots, and Flight Engineers"
+5.1.6.8         Aviation Inspectors
+5.1.6.9         Avionics Technicians
+5.1.6.10       Baggage Porters and Bellhops
+5.1.6.11       Cargo and Freight Agents
+5.1.6.12       Commercial Pilots
+5.1.6.13       Customer Service Representatives
+5.1.6.14       Flight Attendants
+"5.1.6.15       Laborers and Freight, Stock, and Material Movers, Hand"
+5.1.6.16       Reservation and Transportation Ticket Agents and Travel Clerks
+5.2 Rail Transportation:  The activities required to provide rail transportation of passengers and/or cargo using railroad rolling stock.
+5.2.1    Types of Rail -- Passenger and Freight
+5.2.1.1         Class I
+5.2.1.2         Regional
+5.2.1.3         Short Line
+5.2.1.4         Intercity Passenger Rail and Commuter Rail
+5.2.2    Major Components
+"5.2.2.1         Rolling Stock (the Locomotives, Passenger Coaches, Freight Cars, etc.) "
+"5.2.2.2         Infrastructure (the Roadbed, Tracks, Switches, Stations, Freight Facilities, Viaducts, Tunnels, etc.)"
+5.2.2.3         Passenger and Freight Operations
+5.2.2.4         Maintenance
+5.2.2.5         Signaling and Communications
+5.2.2.6         Inspection
+5.2.2.7         Safety
+5.2.2.8         Advanced Train Control Systems
+5.2.2.9         Hazardous Materials
+5.2.3    Major Workforce Categories
+"5.2.3.1         Executives, Officials, and Staff Assistants - Positions for the executive and senior management of the firm.  Corporate Officers, and other appointed or elected corporate officials."
+"5.2.3.2         Professionals and Administrative - Positions ranging anywhere from an internal auditor, attorney or secretary, to information technology specialist."
+"5.2.3.3         Maintenance-of-Way and Structures - Provide quality maintenance to the track, train control (signals and communication) systems, bridges, and buildings. "
+"5.2.3.4         Maintenance of Equipment and Stores - Provide a number of support jobs throughout the railroad with different titles, working in different departments.  May work in the yard office, towers, mechanical shops, and other various office locations. "
+"5.2.3.5         Transportation, Train and Engine - Responsible for the safe and efficient operation of trains and the movement of customer freight from one destination to another. "
+"5.2.3.6         Transportation, Other Than Train and Engine - Inspects, repairs, and maintains freight cars and locomotives.  This function is also responsible for clearing derailments involving railroad equipment.  Mechanical experience, additional training is often required on-the-job."
+5.2.4    Key Trends
+5.2.4.1         High-Speed Rail
+5.2.4.2         Positive Train Control (PTC)
+5.2.4.3         Green Rail Initiatives
+5.2.5    Occupations
+5.2.5.1         Locomotive Engineers
+5.2.5.2         Rail Car and Locomotive Repairers
+"5.2.5.3         Rail Transportation Workers, All Other"
+5.2.5.4         Rail Yard Engineers and Hostlers
+5.2.5.5         Railroad Traffic Control Dispatchers
+5.2.5.6         Railroad Conductors and Yardmasters
+"5.2.5.7         Railroad Track/Bridge/Building Maintenance, Inspection, Construction, and Repair Workers"
+"5.2.5.8         Signals and Electronics Installation, Inspection, Testing, and Repair Workers"
+5.2.5.9         Transit and Railroad Police
+5.2.5.10       Laborers
+"5.3 Maritime Transportation:  The activities required to provide for the water transportation of passengers and cargo using watercraft such as ships, barges, and boats. Includes both deep sea and inland waterway."
+5.3.1    Transportation – Freight and Passenger
+5.3.1.1         Deep Sea 
+5.3.1.2         Coastal and Great Lakes 
+5.3.1.3         Inland
+5.3.2    Ship Departments
+5.3.2.1         Deck Department
+5.3.2.2         Engineering Department
+5.3.2.3         Steward's Department
+5.3.2.4         Other Departments
+5.3.3    Support and Infrastructure
+5.3.3.1         Port Management and Logistics
+· Cargo Loading and Unloading
+· Passenger Loading and Unloading
+· Distribution of Cargo (Arrival and Departure from Port)
+· Marine Logistics (Cargo Distribution)
+· Spill Response
+5.3.3.2         Shipbuilding and Repair
+  · New Vessel Construction
+  · Ship Repair
+  · Ship Engineering and Design
+5.3.4    Occupations
+5.3.4.1         Bridge and Lock Tenders
+5.3.4.2         Commercial Divers
+5.3.4.3         Marine Architects
+5.3.4.4         Marine Engineers
+"5.3.4.5         Mates - Ship, Boat, and Barge"
+5.3.4.6         Motorboat Mechanics and Service Technicians
+5.3.4.7         Motorboat Operators
+"5.3.4.8         Pilots, Ship"
+5.3.4.9         Reservation and Transportation Ticket Agents and Travel Clerks
+5.3.4.10       Sailors and Marine Oilers
+5.3.4.11       Ship and Boat Captains
+5.3.4.12       Ship Engineers
+5.4 Highway Transportation: The activities required to provide over-the-road transportation of cargo using motor vehicles such as trucks and tractor-trailers.  Includes both generalized and special freight trucking.
+5.4.1    General Freight
+5.4.1.1         Equipment
+5.4.1.2         Load Carried
+5.4.1.3         Scheduling 
+5.4.1.4         Terminal Services 
+5.4.1.5         Networking Services
+5.4.2    Mode of Commodities
+5.4.2.1         Palletized
+5.4.2.2         Container 
+5.4.2.3         Intermodal
+5.4.2.4         Van Trailer
+5.4.3    Specialized Freight
+5.4.3.1         Size 
+5.4.3.2         Weight 
+5.4.3.3         Shape
+5.4.3.4         Hazardous Materials 
+5.4.4    Support Activities for Road Transportation
+5.4.4.1         Motor Vehicle Towing
+5.4.4.2         Freight Transportation Arrangement
+5.4.4.3         Packing and Crating
+5.4.5    Transportation Performance Management
+5.4.5.1         National Highway Performance Program (NHPP)
+5.4.5.2         Highway Safety Improvement Program (HSIP)
+5.4.5.3         Congestion Mitigation and Air Quality Improvement Program (CMAQ)
+5.4.5.4         Freight Movement
+5.4.6    Technology
+5.4.6.1         Automated Traction Control
+5.4.6.2         Operator Monitoring Systems
+5.4.7    Occupations
+5.4.7.1         Bus and Truck Mechanics and Diesel Engine Specialists
+"5.4.7.2         Dispatchers, Except Police, Fire, and Ambulance"
+5.4.7.3         First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators
+5.4.7.4         Heavy and Tractor-Trailer Truck Drivers
+5.4.7.5         Industrial Truck and Tractor Operators
+"5.4.7.6         Laborers and Freight, Stock, and Material Movers, Hand"
+5.4.7.7         Light Truck or Delivery Services Drivers
+"5.4.7.8         Transportation, Storage, and Distribution Managers"
+"5.5 Public Transit and Ground Transportation: The activities required to provide passenger transportation through a variety of means such as urban transit systems; chartered bus, school bus, and interurban bus transportation; and taxis."
+5.5.1    Systems
+5.5.1.1         Urban Transit Systems (NAICS 4851)
+5.5.1.2         Interurban and Rural Bus Transportation (NAICS 4852)
+5.5.1.3         Taxi and Limousine Service (NAICS 4853)
+5.5.1.4         School and Employee Bus Transportation (NAICS 4854)
+5.5.1.5         Charter Bus Industry (NAICS 4855)
+5.5.1.6         Other Transit and Ground Passenger Transportation (NAICS 4859)
+5.5.2    Modes
+5.5.2.1         Aerial Tramway
+5.5.2.2         Automated Guideway Transit
+5.5.2.3         Bus
+5.5.2.4         Cable Car
+5.5.2.5         Commuter Rail
+5.5.2.6         Ferry Boat
+5.5.2.7         Heavy Rail
+5.5.2.8         Inclined Plane
+5.5.2.9         Light Rail
+5.5.2.10       Monorail
+5.5.2.11       Paratransit
+5.5.2.12       Trolleybus
+5.5.2.13       Vanpool
+5.5.3    Workforce Functional Areas
+5.5.3.1         Vehicle Operations
+5.5.3.2         Vehicle Maintenance
+"5.5.3.3         Facilities, Track, and Road Maintenance"
+"5.5.3.4         Administration, Planning, and Scheduling"
+5.5.4    Focus Areas
+5.5.4.1         Safety
+5.5.4.2         Security
+5.5.4.3         Sustainability
+5.5.5    Occupations
+5.5.5.1         Bus and Truck Mechanics and Diesel Engine Specialists
+"5.5.5.2         Bus Drivers, School or Special Client"
+"5.5.5.3         Bus Drivers, Transit and Intercity"
+5.5.5.4         Cleaners of Vehicles and Equipment
+"5.5.5.5         Dispatchers, Except Police, Fire, and Ambulance"
+5.5.5.6         First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators
+"5.5.5.7         Office Clerks, General"
+5.5.5.8         Reservation and Transportation Ticket Agents and Travel Clerks
+5.5.5.9         Subway and Streetcar Operators
+5.5.5.10       Taxi Drivers and Chauffeurs
+"5.5.5.11       Transportation Attendants, Except Flight Attendants"
+"5.6 Warehousing: The activities required for the operation of warehousing and storage facilities for general merchandise, refrigerated goods, and other warehouse products."
+5.6.1    Storage of Goods
+5.6.1.1         General Warehousing and Storage
+5.6.1.2         Refrigerated Warehousing and Storage
+5.6.1.3         Farm Product Warehousing and Storage
+5.6.1.4         Automated Warehousing and Storage
+5.6.2    Logistics Services
+5.6.2.1         Labeling
+5.6.2.2         Breaking Bulk
+5.6.2.3         Inventory Control and Management
+5.6.2.4         Light Assembly
+5.6.2.5         Order Entry and Fulfillment
+5.6.2.6         Packaging
+5.6.2.7         Pick and Pack
+5.6.2.8         Price Marking and Ticketing
+5.6.2.9         Transportation Arrangement
+5.6.3    Warehouse Operations
+"5.6.3.1         Bar-coding, Racking, Labeling, and Cross-docking"
+5.6.3.2         Distribution and Information Systems
+5.6.3.3         Manual and Automated Material Handling Systems
+5.6.3.4         Packaging
+5.6.3.5         Product Stacking Requirements 
+5.6.3.6         RFID and Other Product Identification Technology 
+5.6.3.7         Security and Loss Prevention Systems
+5.6.3.8         Shipping and Receiving
+5.6.3.9         Warehouse Records and Documentation 
+5.6.4    Supply Chain Logistics
+5.6.4.1         Customs and Export Control 
+5.6.4.2         Inventory Management 
+5.6.4.3         Logistics Outsourcing
+5.6.4.4         Supply Chain Elements
+5.6.5    Technology
+5.6.5.1         Radio Frequency Identification (RFID)
+5.6.5.2         AutoID Technologies
+"5.6.5.3         Materials Handling Technologies (e.g., Voice-directed Order Picking Technology)"
+5.6.6    Software
+5.6.6.1         Inventory Management
+5.6.6.2         Bar Coding
+5.6.6.3         Label Making
+5.6.6.4         Warehouse Management Systems (WMS)
+5.6.7    Occupations
+5.6.7.1         Driver/Sales Workers and Truck Drivers
+"5.6.7.2         First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand"
+5.6.7.3         General and Operations Managers
+5.6.7.4         Heavy and Tractor-Trailer Truck Drivers
+5.6.7.5         Industrial Truck and Tractor Operators
+"5.6.7.6         Laborers and Freight, Stock, and Material Movers, Hand"
+5.6.7.7         Light Truck or Delivery Services Drivers
+"5.6.7.8         Maintenance and Repair Workers, General"
+"5.6.7.9         Packers and Packagers, Hand"
+"5.6.7.10       Shipping, Receiving, and Traffic Clerks"
+5.6.7.11       Stock Clerks and Order Fillers
+"5.6.7.12       Transportation, Storage, and Distribution Managers"
+"5.7 Pipeline: The activities required to construct, operate, and maintain transmission pipelines to transport products such as crude oil, natural gas, refined petroleum products, and slurry."
+5.7.1    Types
+5.7.1.1         Gathering
+5.7.1.2         Transportation
+5.7.1.3         Distribution
+5.7.2    Phases
+5.7.2.1         Design
+5.7.2.2         Right of Way 
+5.7.2.3         Construction
+5.7.2.4         Maintenance
+5.7.2.5         Post Construction Restoration
+5.7.3    Material Transported
+5.7.3.1         Crude Oil
+5.7.3.2         Natural Gas
+5.7.3.3         Refined Petroleum Products
+5.7.3.4         Slurry
+5.7.3.5         Non-hazardous Fluids
+5.7.4    Materials Selection and Design 
+5.7.4.1         Standard Practices (SPs)
+5.7.4.2         Material Requirements (MRs)
+5.7.4.3         Test Methods (TMs) 
+5.7.5    Corrosion
+5.7.5.1         Cathodic Protections
+5.7.5.2         Chemical Inhibitors
+5.7.5.3         Coatings
+5.7.6    Technology
+5.7.6.1         Telecommunications 
+5.7.6.2         Computer Systems 
+5.7.6.3         Remote Control 
+5.7.7    Occupations
+5.7.7.1         Civil Engineers
+"5.7.7.2         Control and Valve Installers and Repairers, Except Mechanical Door"
+5.7.7.3         First-Line Supervisors of Production and Operating Workers
+5.7.7.4         Gas Compressor and Gas Pumping Station Operators
+5.7.7.5         Gas Plant Operators
+5.7.7.6         General and Operations Managers
+5.7.7.7         Heavy and Tractor-Trailer Truck Drivers
+5.7.7.8         Industrial Machinery Mechanics
+5.7.7.9         Laborers
+5.7.7.10       Operating Engineers and Other Construction Equipment Operators
+"5.7.7.11       Petroleum Pump System Operators, Refinery Operators, and Gaugers"
+"5.7.7.12       Plumbers, Pipefitters, and Steamfitters"
+"5.8 Scenic and Sightseeing Transportation (NAICS 487), the Postal Service (NAICS 491), and Couriers and Messengers (NAICS 492)"
+5.8.1    Subsectors
+"5.8.1.1         The Scenic and Sightseeing Transportation subsector utilizes transportation equipment to provide recreation and entertainment.  These activities have a production process distinct from passenger transportation carried out for the purpose of other types of for-hire transportation.  This process does not emphasize efficient transportation; in fact, such activities often use obsolete vehicles, such as steam trains, to provide some extra ambience.  The activity is local in nature, usually involving a same-day return to the point of departure."
+"5.8.1.2         The Postal Service subsector includes the activities of the United States Postal Service and its subcontractors operating under a universal service obligation to provide mail services, and using the infrastructure required to fulfill that obligation.  These services include delivering letters and small parcels."
+"5.8.1.3         The Couriers and Messengers subsector provides intercity, local, and/or international delivery of parcels and documents (including express delivery services) without operating under a universal service obligation.  These articles can be described as those that may be handled by one person without using special equipment"
+5.8.2    Occupations
+"5.8.2.1         Bus Drivers, Transit and Intercity"
+"5.8.2.2         Captains, Mates, and Pilots of Water Vessels"
+5.8.2.3         Cargo and Freight Agents
+5.8.2.4         Couriers and Messengers
+"5.8.2.5         Dispatchers, Except Police, Fire, and Ambulance"
+5.8.2.6         First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators
+5.8.2.7         Heavy and Tractor-Trailer Truck Drivers
+"5.8.2.8         Laborers and Freight, Stock, and Material Movers, Hand"
+5.8.2.9         Light Truck or Delivery Services Drivers
+5.8.2.10       Motorboat Operators
+5.8.2.11       Postal Service Clerks
+5.8.2.12       Postal Service Mail Carriers
+"5.8.2.13       Postal Service Mail Sorters, Processors, and Processing Machine Operators"
+5.8.2.14       Postmasters and Mail Superintendents
+5.8.2.15       Reservation and Transportation Ticket Agents and Travel Clerks
+5.8.2.16       Sailors and Marine Oilers
+"5.8.2.17       Shipping, Receiving, and Traffic Clerks"
+5.8.2.18       Tour Guides and Escorts
+"5.8.2.19       Transportation Attendants, Except Flight Attendants"

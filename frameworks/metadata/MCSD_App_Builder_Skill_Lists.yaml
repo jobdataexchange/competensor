@@ -1,0 +1,184 @@
+framework_id: "af40accf-95fa-5b50-828f-a7e2477e3d07"
+framework_name: "MCSD App Builder Skill lists"
+framework_description: "This certification validates that you have the skills needed to build modern mobile and/or web applications and services."
+framework_uri: "https://drive.google.com/file/d/1ga8sX9a1NDcrad95TKUZBr_lE0neMSJD/view"
+source_path: "/competensor/frameworks/metadata/MCSD_App_Builder_Skill_Lists.yaml"
+provider: "simple"
+text_block: |-
+    Construct a page layout
+    Configure a RelativePanel layout; select the appropriate XAML layout panel based on the UI requirement; configure a grid with appropriate column and row properties; configure alignment, margins, and padding
+    Implement responsive and adaptive UI behaviors
+    Differentiate between responsive and adaptive UI behaviors, create responsive and adaptive UIs by using VisualStateManager and AdaptiveTriggers, implement settings syntax for element properties and attached properties
+    Create and use custom controls within an adaptive UI
+    Evaluate when to create a custom control; create a custom control; implement styles, themes, and resource dictionaries; apply styles to custom controls by using Generic.xaml
+    Optimize a page layout
+    Reduce complexity for performance gains, reduce unnecessary nesting
+    Choose the appropriate navigation structure for an app
+    Evaluate when to implement the Hub, Master/Details, Tabs and Pivot, and Nav Pane navigation patterns; evaluate when to implement a custom navigation pattern
+    Implement Nav Pane navigation
+    Load page content by using Frame.Navigate, implement page navigation by using the Nav Pane pattern; implement a SplitView control for use as a navigation pane; support accessibility requirements within navigation by implementing key based navigation, UI automation, and narrator; handle Back button behavior for different Windows 10 device families
+    Manage app activation
+    Launch an app, activate an app on Startup, implement activation from a deep link, implement activation based on Search integration, implement activation from a secondary tile
+    Manage app suspension and resuming
+    Prepare an app for suspension, resume from suspension or termination, extend execution and monitor suspension errors
+    Access data by using Entity Framework (EF)
+    Access data by using EFCore with SQLite, implement a local SQLite database
+    Implement the {Binding} extension
+    Implement the {x:Bind} extension
+    Implement MVVM classes and class interactions
+    Implement event binding by applying command patterns, implement a Dispatcher to update the UI thread with async return data
+    Implement app-to-app communications
+    Integrate a Share contract to share content with another app, integrate drag-and-drop, launch an app for results, implement app extensions, implement App Services
+    Implement REST Web Services
+    Implement JSON and data serialization, access cloud data and Web APIs by using HttpClient
+    Implement file system access
+    Manage storage by using StorageFile, StorageFolder, and StorageItem; access a file location by using FilePickers; implement data roaming and roaming folders
+    Implement API detection within adaptive code
+    Implement Type detection within adaptive code
+    Implement supported capabilities
+    Implement support for a microphone, implement support for a webcam, implement support for location, implement support for enterprise authentication
+    Implement command bars, flyouts, and dialogs
+    Implement command bars and AppBarButton buttons, implement context menus and menu flyouts, implement content dialogs, display a tooltip by using ToolTipService, display a pop-up menu, implement control over app settings
+    Implement support for traditional and touch input devices
+    Support touch input, support mouse input, support keyboard and virtual keyboard input
+    Implement speech and voice commands
+    Support speech synthesis, support speech recognition, support Cortana integration, support Personal Assistant Launch capability, support voice commands
+    Implement alternative forms of input
+    Implement inking, implement camera input, implement location services and GPS input
+    Implement authentication using Web Authentication Broker
+    Implement web service authentication, implement OAuth, implement Azure Active Directory authentication
+    Manage credentials securely with Credential Locker
+    Implement two-factor authentication
+    Implement two-factor authentication using Microsoft Passport, implement two-factor authentication using Windows Hello
+    Create and consume class libraries and Windows Runtime components
+    Develop Windows Runtime components, develop class libraries, integrate class libraries and Windows Runtime components
+    Implement tile and toast notifications
+    Implement adaptive and interactive toast notifications, implement local tile notifications
+    Create and register a background task
+    Create a background task project and reference the background task within a project, implement background task event triggers and conditions
+    Implement and manage a background task
+    Monitor background task progress and completion, manage task lifecycle, share data and events between an app and its background tasks, call a background task directly
+    Create and consume a Universal Windows Platform (UWP) app service
+    Specify the AppService extension, implement app service as a background task, deploy the app service provider, call app services
+    Design the application architecture 
+    Plan the application layers
+    Plan data access; plan for separation of concerns, appropriate use of models, views, controllers, components, and service dependency injection; choose between client-side and server-side processing; design for scalability; choose between ASP.NET Core and ASP.NET; choose when to use .NET standard libraries
+    Design a distributed application
+    Design a hybrid application; plan for session management in a distributed environment; plan web farms; run Microsoft Azure services on-premises with Azure Pack; enable deferred processing through Azure features including queues, scheduled and on-demand jobs, Azure Functions, and Azure Web Jobs
+    Design and implement the Azure Web Apps life cycle
+    Identify and implement Start, Run, and Stop events; code against application events in applications; configure startup tasks, including IIS, app pool configuration, and third-party tools
+    Configure state management
+    Choose a state management mechanism including in-process, out of process, and Redis-based state management; plan for scalability; use cookies or local storage to maintain state; apply configuration settings in web.config files; implement sessionless state including query strings; configure middleware to enable session and application state in ASP.NET Core
+    Design a caching strategy
+    Implement page output caching and data caching; create cache profiles; implement HTTP caching; implement Azure Redis caching; plan a content delivery network (CDN) strategy, for example, Azure CDN
+    Design and implement a Web Socket strategy
+    Read and write string and binary data asynchronously; choose a connection loss strategy; decide when to use Web Sockets; implement SignalR; enable web socket features in an Azure Web App instance
+    Design a configuration management solution
+    Manage configuration sources, including XML, JSON, and INI files; manage environment variables; implement Option objects; implement multiple environments using files and hierarchical structure; manage sensitive configuration; react to runtime configuration changes; implement a custom configuration source; secure configuration by using Azure Key Vault; use the Secret Manager tool in development to keep secrets out of your code for configuration values
+    Interact with the host environment
+    Work with file system using file providers; work with environment variables; determine hosting environment capabilities; implement native components, including PInvoke and native dependencies for hosts including Linux and Windows; use ASP.NET hosting on an Open Web Interface for .NET (OWIN)-based server
+    Compose an application by using the framework pipeline
+    Add custom request processing modules to the pipeline; add, remove, and configure services used in the application; design and implement middleware; design for kestrel, Http.sys web server and IIS; design and implement startup filters
+    Design a browser artifact build strategy
+    Design a JavaScript build pipeline using Gulp, Grunt, npm and Bower; design an artifact build strategy using Less, Sass and Font Awesome; design and implement a bundling and minification strategy for browser artifacts, including JavaScript, CSS and images
+    Design a server build strategy
+    Manage NuGet dependencies; target runtimes, including the full .NET Framework, .NET core, and .NET standard; manage debug and release configurations, including compilation and optimization options; include or exclude files from build; manage build sources, including content, resources, and shared files; implement metadata for projects, including version, release notes, and descriptions; define other build options, including xmlDoc and warningsAsErrors; work with static files in ASP.NET core
+    Design a publishing strategy
+    Implement application publishing using dotnet.exe; manage publishing options in csproj; implement additional tooling; implement pre-publish and post-publish scripts; implement native compilation; publish to Docker container image
+    Implement an Azure deployment strategy
+    Deploy Azure Web App using supported deployment models including FTP, Kudu, Web Deploy, and Visual Studio Publishing Wizard; provision ARM- based resources while deploying applications; implement deployment environments, including dev, test, and prod in Azure; use deployment slots for staging sites; deploy to Azure Stack
+    Implement a on-premises deployment strategy
+    Deploy application to IIS using Web Deploy, xcopy, and Visual Studio Publishing Wizard; deploy application to Windows Nano Server, deploy application to IIS Hosted Web Core, deploy application to HTTP.sys web server; deploy application to Kestrel on Windows and Linux; implement reverse proxying to Kestrel using IIS and Nginx
+    Create elements of the user interface for a web application
+    Create and apply styles by using CSS; structure and lay out the user interface by using HTML; implement dynamic page content based on a design
+    Design and implement UI behavior
+    Implement client-side validation; use JavaScript to manipulate the DOM; extend objects by using prototypal inheritance; use AJAX to make partial page updates
+    Design the UI layout of an application
+    Implement partial views and view components for reuse in different areas of the application; design and implement pages by using Razor Pages; design and implement layouts to provide visual structure; define and render optional and required page sections; create and use tag and HTML helpers to simplify markup
+    Plan a responsive UI layout
+    Plan for applications that run on multiple devices and screen resolutions; use media queries and Bootstrap’s responsive grid; detect browser features and capabilities; create a web application that runs across multiple browsers and mobile devices; enable consistent cross-browser experiences with polyfills
+    Plan mobile UI strategy
+    Implement mobile specific UI elements such as touch input, low bandwidth situations, and device oritentation changes; define and implement a strategy for working with mobile browsers
+    Plan for search engine optimization and accessibility
+    Use analytical tools to parse HTML; provide an xml sitemap and robots.txt file to improve scraping; write semantic markup for accessibility, for example, screen readers; use rich snippets to increase content visibility
+    Plan and implement globalization and localization
+    Plan a localization strategy; create and apply resources to UI including JavaScript resources; set cultures; implement server side localization and globalization
+    Design and implement MVC controllers and actions
+    Apply authorization attributes, filters including global, authentication, and overriddable filters; choose and implement custom HTTP status codes and responses; implement action results; implement MVC areas; implement Dependency Injection for services in controllers
+    Design and implement routes
+    Define a route to handle a URL pattern; apply route constraints; ignore URL patterns; add custom route parameters; define areas; define routes that interoperate with Single Page Application frameworks such as Angular
+    Control application behavior by using MVC extensibility points
+    Create custom middleware and inject it into the pipeline; implement MVC filters and controller factories; control application behavior by using action results, model binders, and route handlers; inject services into a view
+    Design and implement serialization and model binding
+    Serialize models and data using supported serialization formats, including JSON, XML, protobuf, and WCF/SOAP; implement model and property binding, including custom binding and model validation; implement web socket communication in MVC; implement file uploading and multipart data; use AutoRest to build clients
+    Prevent and troubleshoot runtime issues
+    Troubleshoot performance, security, and errors; implement tracing, logging, and debugging including IntelliTrace; enable and configure health monitoring including Performance Monitor; configure and use App Insights runtime telemetry
+    Design an exception handling strategy
+    Handle exceptions across multiple layers; use MVC middleware to configure error handling; use different exception handling strategies for different environments; create and display custom error pages; configure a custom pipeline for error handling; handle first chance exceptions; configure and use App Insights; log application exceptions
+    Test a web application
+    Create and run unit tests, for example, use the Assert class, create mocks and stubs; create and run web tests including using Browser Link; debug a web application in multiple browsers and mobile emulators; use Azure DevTest Labs; use Visual Studio Team Services
+    Debug an Azure application
+    Collect diagnostic information by using Azure App Insights; choose log types, for example, event logs, performance counters, and crash dumps; stream logs directly to Visual Studio from a deployed site; debug an Azure application by using Visual Studio and remote debugging; interact directly with remote Azure websites using Server Explorer
+    Configure authentication
+    Authenticate users; enforce authentication settings; implement ASP.NET Core Identity; enable Facebook, Google and other external providers; implement account confirmation, password recovery, and multi-factor authentication; perform authentication using Azure Active Directory, Azure Active Directory B2C, Azure Active Directory B2B, and Microsoft Identity manage user session by using cookies; acquire access tokens using the Microsoft Authentication Library (MSAL)
+    Configure and apply authorization
+    Create roles; authorize roles programmatically; configure and work with custom UserStores using middleware; configure controllers and actions to participate in authorization
+    Design and implement claims-based authentication
+    Perform authentication and authorization using tokens including OpenID, OAuth, JWT, SAML, bearer tokens, etc.
+    Manage data integrity
+    Apply encryption to application data; apply encryption to the configuration sections of an application; sign application data to prevent tampering; secure data using Azure Key Vault; implement encryption for data protection using the data protection APIs in transit and at rest
+    Implement a secure site
+    Secure communication by applying SSL certificates; require SSL for all requests; enable SSL hosting in the development environment; implement SSL using Azure Load Balancers; salt and hash passwords for storage; use HTML encoding to prevent cross-site scripting attacks (ANTI-XSS Library); implement deferred validation and handle unvalidated requests, for example, form, querystring, and URL; prevent SQL injection attacks by parameterizing queries; prevent cross-site request forgeries (XSRF); use Azure Security Center to monitor Azure resources; implement Cross Origin Resource Sharing (CORS); implement protection against open redirect attacks
+    Accessing Data 
+    Choose data access technologies
+    Choose a data access technology, including ADO.NET, Entity Framework, WCF Data Services, and Azure Cosmos DB, based on application requirements
+    Implement caching
+    Cache static data, apply cache policies, including policy expirations; use CacheDependency to refresh cache data; query notifications; implement caching using Redis
+    Implement transactions
+    Manage transactions by using the API from System.Transactions namespace; implement distributed transactions including distributed transaction on SQL Azure; specify a transaction isolation level
+    Implement data storage in Microsoft Azure
+    Access data storage in Windows Azure; choose a data storage mechanism in Microsoft Azure. including blobs, tables, queues, Azure SQL, and Cosmos DB; distribute data by using the Content Delivery Network (CDN) and Azure File Sync; handle exceptions by using retries; use Elastic client library with Azure SQL
+    Create and implement a WCF Data Services service
+    Address resources; implement filtering; create a query expression; access payload formats, including JSON; use data service interceptors and service operators; version a data service; implement data services providers; host the dataservice; use actions to implement server-side behavior
+    Query and manipulate data by using the Entity Framework
+    Query, update, and delete data by using DbContext; build a query that uses deferred execution; implement lazy loading and eager loading; create and run compiled queries; query data by using Entity SQL; create global query filters
+    Query and manipulate data by using Data Provider for Entity Framework
+    Query and manipulate data by using Connection, DataReader, and Command objects from the System.Data.EntityClient namespace; perform synchronous and asynchronous operations; manage transactions (API)
+    Query data by using LINQ to Entities
+    Query data by using LINQ operators, including project, skip, aggregate, filter, and join; log queries; implement query boundaries
+    Query and manipulate data by using ADO.NET
+    Query and manipulate data by using Connection, DataReader, and Command objects; perform synchronous and asynchronous operations; manage transactions
+    Create an Entity Framework data model
+    Structure a data model using Table per type, table per class, and table per hierarchy; select and implement an approach to manage a data model, including code first, model first, and database first; implement POCO objects; describe a data model by using conceptual schema definitions, storage schema definitions, and mapping languages, including CSDL, SSDL, and MSL
+    Implement Entity Framework with third party databases
+    Implement Entity Framework using MySQL and SQLite databases; design a strategy to manage differences between database capabilities; leverage database specific technologies, including ON DUPLICATE KEY using Entity Framework
+    Design a Web API
+    Define HTTP resources with HTTP actions; plan appropriate URI space, and map URI space using routing; choose appropriate HTTP method to meet requirements; choose appropriate Web API formats for responses to meet requirements; plan when to make HTTP actions asynchronous
+    Implement a Web API
+    Accept data in JSON format; use content negotiation to deliver different data formats to clients; define actions and parameters to handle data binding; implement dependency injection to create more flexible applications; implement action filters and exception filters to manage controller execution; implement asynchronous and synchronous actions; implement streaming actions; implement middleware
+    Secure a Web API
+    Implement Identity for authentication; implement authorization using roles, claims, and custom authorization; implement Data Protection APIs; enable cross-domain requests (CORS); prevent cross-site request forgery (XSRF); implement and extend authorization filters to control access to applications
+    Host and manage Web API
+    Host Web API in IIS; self-host a Web API in your own process; host Web API in Kestrel; host services in a Windows Azure Web App; host services in Docker containers; configure the host server for streaming; work with a hosting environment
+    Consume Web API web services
+    Consume Web API services by using HttpClient; send and receive requests in different formats; handle retry logic; implement content negotiation; use Swagger to construct Uris and payloads; use AutoRest to build clients
+    Consume a WCF service
+    Generate proxies by using SvcUtil; generate proxies by creating a service reference; create and implement channel factories; configure WCF services by using configuration settings; create and configure bindings for WCF services; relay bindings to Azure using service bus endpoints; integrate with the Azure service bus relay
+    Implement serverless Azure Web Services
+    Host web services using App Services, including Logic Apps and API Apps; design and implement Azure Function based services; design and implement Azure Web Jobs; design and implement Service Fabric based web services; implement schedule-based processing in a serverless environment
+    Implement traffic management in Azure
+    Implement Azure Load Balancer, including scaling; implement Azure Application Gateway; implement Azure Traffic Manager; design for multiple regions; leverage Azure CDN for caching web services; implement Log Analytics
+    Implement Azure API Management
+    Secure Web Services using certificates, Azure Active Directory, and OAuth; define and implement policies, including secrets, caching, external services, monitoring and throttling; define API interface using the Azure Portal and Swagger; manage running services using logging, disaster recovery, and multiple regions
+    Monitor web services
+    Collect logs and metrics using Azure Event Hubs; process logs and metrics using Azure Event Hubs, Stream Analytics, and Machine Learning; use Azure App Insights to monitor and troubleshoot web services
+    Design a deployment strategy
+    Deploy using Web Deploy; deploy using Web Publishing in Visual Studio; deploy a web application by using XCopy; automate a deployment from VSTS or TFS Build Server; deploy a web application to a Docker container; design a continuous deployment pipeline; deploy using cloud sync
+    Choose a deployment strategy for Azure
+    Determine appropriate service; perform an in-place upgrade and deployment slot swap; create staging environments; configure an upgrade domain; create and configure input and internal endpoints; specify operating system configuration; implement ARM templates to customize deployment; deploy to Service Fabric; deploy to Azure Stack
+    Configure a web application for deployment
+    Switch from production or release mode to debug mode; transform configuration files ; configure Azure configuration settings; configure Azure Key Vault for application secrets; configure deployment credentials for Azure App Service
+    Manage packages by using NuGet
+    Create and configure a NuGet package; install and update an existing NuGet package; resolve versioning conflict issues; connect to a local repository cache for NuGet, set up your own package repository; manage NuGet dependencies
+    Share assemblies between multiple applications and servers
+    Prepare the environment for use of assemblies across multiple servers; sign assemblies by using a strong name; deploy assemblies to the global assembly cache; implement assembly versioning; create an assembly manifest; configure assembly binding redirects; target netstandard for cross platform libraries

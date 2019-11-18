@@ -1,0 +1,441 @@
+framework_id: "34224458-ca06-5832-8367-351855408a47"
+framework_name: "Registered Respiratory Therapist"
+framework_description: "The RRT credential is nationally recognized as the “standard of excellence” for respiratory care professionals.\n\nThe examinations for the RRT credential objectively and uniformly measure essential knowledge, skills and abilities required of advanced respiratory therapists. The NBRC evaluates the competency of respiratory therapists and ensures that graduates of accredited respiratory care education programs have every opportunity to earn the RRT credential. It is in high demand nationwide, and we work diligently to help to fill the shortage of qualified respiratory therapists in the field.\n\nThe first examination for earning the RRT is the Therapist Multiple-Choice (TMC) Examination (prior to January 2015, it was known as the Written Registry Examination). The TMC Examination evaluates the abilities required of respiratory therapists at entry into practice and determines eligibility for the Clinical Simulation Examination (CSE). The CRT and/or RRT credentials are used as the basis for the licensure in all 49 states that regulate the practice of respiratory care.\n "
+framework_uri: "https://www.nbrc.org/examinations/rrt/"
+source_path: "./frameworks/Therapist-Multiple-Choice-DCO-NBRC.txt"
+provider: "nbrc"
+text_block: |-
+    PATIENT DATA EVALUATION AND RECOMMENDATIONS
+    Evaluate Data in the Patient Record
+    """Patient history, for example,"
+    admission data
+    progress notes
+    orders
+    DNR status / advance directives
+    medications
+    " social history"""
+    Physical examination relative to the cardio pulmonary system
+    """Drainage and access devices, for example,"
+    chest tube
+    " artificial airway"""
+    """Laboratory results, for example,"
+    CBC
+    culture and sensitivities
+    electrolytes
+    sputum Gram stain
+    coagulation studies
+    " cardiac enzymes"""
+    Blood gas analysis results
+    Pulmonary function testing results
+    ­minute walk test results
+    Cardiopulmonary stress testing results
+    "Imaging study results, for example,"
+    chest radiograph
+    MRI
+    CT
+    PET
+    ultrasonography
+    ventilation / perfusion scan
+    """Maternal and perinatal / neonatal history, for example,"
+    Apgar scores
+    L / S ratio
+    gestational age
+    " social history"""
+    """Metabolic study results, for example,"
+    O  consumption /
+    respiratory quotient
+    CO  production
+    " energy expenditure"""
+    Sleep study results
+    Trends in monitoring results
+    fluid balance
+    vital signs
+    intracranial pressure
+    weaning parameters
+    "pulmonary compliance, airways resistance, work of breathing"
+    """noninvasive, for example,"
+    pulse oximetry
+    " capnography"""
+    transcutaneous O  / CO 
+    """Therapist Multiple-Choice ExaminationDetailed Content Outline"
+    "Items are linked to open cells""		CognitiveLevel"
+    Trends in cardiac monitoring results
+    ECG
+    hemodynamic parameters
+    cardiac catheterization
+    echocardiography
+    Gather Clinical Information
+    Interviewing a patient to assess
+    "level of consciousness and orientation, emotional state, and ability to cooperate"
+    level of pain
+    "presence of dyspnea, sputum production, and exercise tolerance"
+    smoking history
+    environmental exposures
+    activities of daily living
+    """learning needs, for example,"
+    literacy
+    culture
+    preferred learning style
+    Performing inspection to assess
+    general appearance
+    """characteristics of the airway, for example, patency"""
+    "cough, sputum amount and character"
+    """status of a neonate, for example,"
+    Apgar score
+    " gestational age"""
+    Palpating to assess
+    "pulse, rhythm, force"
+    accessory muscle activity
+    "asymmetrical chest movements, tactile fremitus,crepitus, tenderness, secretions in the airway, and tracheal deviation"
+    Performing diagnostic chest percussion
+    Auscultating to assess
+    breath sounds
+    heart sounds and rhythm
+    blood pressure
+    Reviewing lateral neck radiographs
+    Reviewing a chest radiograph to assess
+    """quality of imaging, for example,"
+    patient positioning
+    " penetration"""
+    presence and position of tubes and catheters
+    presence of foreign bodies	eLevel
+    heart size and position
+    "presence of, or change in,"
+    "(i)	""cardiopulmonary abnormalities, for example,"
+    pneumothorax
+    pleural effusion
+    consolidation
+    pulmonary edema
+    "(ii)	hemidiaphragms, mediastinum, or trachea"
+    Perform Procedures to Gather Clinical Information
+    ­lead ECG
+    """Noninvasive monitoring, for example,"
+    pulse oximetry
+    transcutaneous
+    " capnography"""
+    Peak flow
+    "Tidal volume, minute volume, and vital capacity"
+    Screening spirometry
+    Blood gas sample collection
+    Blood gas analysis / hemoximetry
+    ­minute walk test
+    Oxygen titration with exercise
+    """Cardiopulmonary calculations, for example,"
+    P(A­a)O 
+    P / F
+    VD / VT
+    " oxygenation index"""
+    Hemodynamic monitoring
+    Pulmonary compliance and airways resistance
+    Maximum inspiratory and expiratory pressures
+    Plateau pressure
+    Auto­PEEP determination
+    Spontaneous breathing trial
+    Apnea monitoring
+    Overnight pulse oximetry
+    CPAP / NPPV titration during sleep
+    Tracheal tube cuff pressure and / or volume
+    Sputum induction
+    Cardiopulmonary stress testing
+    Pulmonary function testing
+    Evaluate Procedure Results
+    ­lead ECG
+    """Noninvasive monitoring, for example,"
+    pulse oximetry
+    transcutaneous
+    " capnography"""
+    Peak flow
+    "Tidal volume, minute volume, and vital capacity"
+    Screening spirometry
+    """Therapist Multiple-Choice ExaminationDetailed Content Outline"
+    "Items are linked to open cells""	CognitiveLevel"
+    Blood gas analysis / hemoximetry
+    ­minute walk test
+    Oxygen titration with exercise
+    """Cardiopulmonary calculations, for example,"
+    P(A­a)O 
+    P / F
+    VD / VT
+    " oxygenation index"""
+    Hemodynamic monitoring
+    Pulmonary compliance and airways resistance
+    Maximum inspiratory and expiratory pressures
+    Plateau pressure
+    Auto­PEEP determination
+    Spontaneous breathing trial
+    Apnea monitoring
+    Overnight pulse oximetry
+    CPAP / NPPV titration during sleep
+    Tracheal tube cuff pressure and / or volume
+    Sputum induction
+    Cardiopulmonary stress testing
+    Pulmonary function testing
+    Recommend Diagnostic Procedures
+    """Skin testing, for example,"
+    TB
+    " allergy"""
+    """Blood tests, for example,"
+    electrolytes
+    " CBC"""
+    Imaging studies
+    Bronchoscopy
+    Bronchoalveolar lavage (BAL)
+    "Sputum Gram stain, culture and sensitivities"
+    Pulmonary function testing
+    """Noninvasive monitoring, for example,"
+    pulse oximetry
+    transcutaneous
+    " capnography"""
+    Blood gas analysis
+    ECG
+    """Exhaled gas analysis, for example,"
+    CO 
+    NO (FE NO)
+    " CO"""
+    Hemodynamic monitoring
+    Sleep studies
+    Thoracentesis
+    "TROUBLESHOOTING AND QUALITY CONTROL OF EQUIPMENT,AND INFECTION CONTROL"
+    Assemble and Troubleshoot Equipment
+    Oxygen administration devices
+    CPAP devices
+    Humidifiers
+    Nebulizers
+    "Metered-dose inhalers (MDI), spacers, and valved holding chambers"
+    Dry powder inhalers
+    Resuscitation devices
+    Mechanical ventilators
+    Intubation equipment
+    Artificial airways
+    """Suctioning equipment, for example,"
+    regulator
+    tubing
+    canister
+    " catheter"""
+    "Gas delivery, metering, and clinical analyzing devices, for"
+    "example,"
+    concentrator
+    gas cylinder
+    liquid system
+    blender
+    flowmeter
+    air compressor
+    regulator
+    """Blood analyzers, for example,"
+    hemoximetry
+    blood gas
+    " point­of­care"""
+    Patient breathing circuits
+    Incentive breathing devices
+    """Airway clearance devices, for example,"
+    high­frequency chest
+    intrapulmonary percussivewall oscillation ventilation
+    vibratory PEP
+    insufflation/exsufflation device
+    Heliox delivery device
+    Nitric oxide (NO) delivery device
+    Spirometers – hand­held and screening
+    Pleural drainage devices
+    """Noninvasive monitoring devices, for example,"
+    pulse oximeter
+    transcutaneous
+    " capnometer"""
+    Gas analyzers
+    Bronchoscopes and light sources
+    """Therapist Multiple-Choice ExaminationDetailed Content Outline"
+    "Items are linked to open cells""		CognitiveLevel"
+    Hemodynamic monitoring devices
+    pressure transducers
+    """catheters, for example,"
+    arterial
+    " pulmonary artery"""
+    Ensure Infection Control
+    Using high-level disinfection techniques
+    Selection of appropriate agent and technique for surfacedisinfection
+    Monitoring effectiveness of sterilization procedures
+    Proper handling of biohazardous materials
+    """Adhering to infection control policies and procedures, forexample,"
+    Standard Precautions
+    " isolation"""
+    Perform Quality Control Procedures
+    Gas analyzers
+    Blood gas analyzers and hemoximeters
+    Point­of­care analyzers
+    Pulmonary function equipment
+    Mechanical ventilators
+    """Gas metering devices, for example,"
+    " flowmeter"""
+    """Noninvasive monitors, for example,"
+    " transcutaneous"""
+    INITIATION AND MODIFICATION OF INTERVENTIONS
+    Maintain a Patent Airway Including the Care of Artificial Airways
+    Proper positioning of a patient
+    Recognition of a difficult airway
+    Establishing and managing a patient’s airway
+    nasopharyngeal airway
+    oropharyngeal airway
+    laryngeal mask airway
+    """esophageal­ tracheal tubes / supraglottic airways, for example,"
+    Combitube®
+    " King ®"""
+    endotracheal tube
+    tracheostomy tube
+    laryngectomy tube
+    speaking valves
+    Performing tracheostomy care
+    Exchanging artificial airways
+    Maintaining adequate humidification
+    Initiating protocols to prevent ventilator associated pneumonia (VAP)
+    Performing extubation
+    Perform Airway Clearance and Lung Expansion Techniques
+    "Postural drainage, percussion, or vibration"
+    """Suctioning, for example,"
+    nasotracheal
+    oropharyngeal
+    """Mechanical devices, for example,"
+    high ­frequency chest
+    intrapulmonary percussive wall oscillation ventilation
+    vibratory PEP
+    " insufflation / exsufflation device"""
+    """Assisted cough, for example,"
+    huff
+    " quad"""
+    """Hyperinflation, for example,"
+    incentive spirometry
+    " IPPB"""
+    Inspiratory muscle training techniques
+    Support Oxygenation and Ventilation
+    """Initiating and adjusting oxygen therapy, for example,"
+    low­flow
+    " high­flow"""
+    """Minimizing hypoxemia, for example,"
+    patient positioning
+    " suctioning"""
+    Initiating and adjusting mask or nasal CPAP
+    Initiating and adjusting mechanical ventilation settings
+    continuous mechanical ventilation
+    noninvasive ventilation
+    high ­frequency ventilation
+    alarms
+    Correcting patient­ ventilator dyssynchrony
+    """Utilizing ventilator graphics, for example,"
+    waveforms
+    " scales"""
+    Performing lung recruitment maneuvers
+    Liberating patient from mechanical ventilation (weaning)
+    Administer Medications and Specialty Gases
+    """Aerosolized preparations, for example,"
+    MDI
+    " SVN"""
+    Dry powder preparations
+    Endotracheal instillation
+    """Specialty gases, for example,"
+    heliox
+    NO
+    """Therapist Multiple-Choice ExaminationDetailed Content Outline"
+    "Items are linked to open cells""		CognitiveLevel"
+    Ensure Modifications are Made to the Respiratory Care Plan
+    """Treatment termination, for example,"
+    " life-threatening adverse event"""
+    Recommendations
+    starting treatment based on patient response
+    treatment of pneumothorax
+    adjustment of fluid balance
+    adjustment of electrolyte therapy
+    insertion or change of artificial airway
+    liberating from mechanical ventilation
+    extubation
+    discontinuing treatment based on patient response
+    Recommendations for changes
+    patient position
+    oxygen therapy
+    humidification
+    airway clearance
+    hyperinflation
+    mechanical ventilation parameters and settings
+    Recommendations for pharmacologic interventions
+    """pulmonary vasodilators, for example,"
+    sildenafil
+    inhaled NO
+    " prostacyclin"""
+    bronchodilators
+    antiinflammatory drugs
+    mucolytics and proteolytics
+    cardiovascular drugs
+    antimicrobials
+    sedatives and hypnotics
+    analgesics
+    neuromuscular blocking agents
+    diuretics
+    surfactants
+    vaccines
+    "changes to drug, dosage, or concentration"
+    Utilize Evidence­Based Medicine Principles
+    Determination of a patient’s pathophysiological state
+    Recommendations for changes in a therapeutic plan when indicated
+    """Application of evidence­based or clinical practice guidelines, for example,"
+    ARDSNet
+    NAEPP
+    """Therapist Multiple-Choice ExaminationDetailed Content Outline"
+    "Items are linked to open cells""		CognitiveLevel"
+    Provide Respiratory Care Techniques in High-Risk Situations
+    Emergency
+    """cardiopulmonary emergencies, for example,"
+    cardiac arrest
+    obstructed / lost airway
+    " tension pneumothorax"""
+    disaster management
+    medical emergency team (MET) / rapid response team
+    Patient transport
+    land / air between hospitals
+    within a hospital
+    Assist a Physician / Provider in Performing Procedures
+    Intubation
+    Bronchoscopy
+    Thoracentesis
+    Tracheostomy
+    Chest tube insertion
+    Insertion of arterial or venous catheters
+    Moderate (conscious) sedation
+    Cardioversion
+    Cardiopulmonary exercise testing
+    Withdrawal of life support
+    Initiate and Conduct Patient and Family Education
+    Safety and infection control
+    Home care and equipment
+    Smoking cessation
+    Pulmonary rehabilitation
+    Disease management
+    asthma
+    COPD
+    sleep disorders
+    GENERAL
+    COPD
+    ASTHMA
+    HEART FAILURE
+    POST-SURGICAL
+    GERIATRIC
+    CARDIOVASCULAR
+    INFECT DISEASE (infectious disease)
+    PULM HYPERTENSION (pulmonary
+    hypertension
+    TRAUMA
+    IMMUNOCOMPR (immunocompromised)
+    NEUROLOGIC
+    ARDS
+    PEDIATRIC
+    CHRONIC LUNG (chronic lung disease of
+    prematurity)
+    PULM EMBOLISM (pulmonary embolism)
+    SHOCK
+    BARIATRIC
+    NEONATAL
+    BRONCHIOLITIS
+    NEUROMUSCULAR
+    PSYCHIATRIC
+    CON DEFECTS (congenital defects in newborns)
+    CYSTIC FIBROSIS
+    INHALATION (inhalation injuries)
+    LUNG TRANSPLANT (lung transplantation)
+    APNEA
+    BURN (burn injury)

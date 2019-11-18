@@ -1,0 +1,195 @@
+framework_id: "a324dba2-dc47-54d1-95ed-c57392b6976e"
+framework_name: "Entry Level Software or Application Developer"
+framework_description: "Entry level software or application developers (“developers”) perform a wide variety of job functions that apply relevant theories, methods, tools, and interpersonal skills to design, build, operate, monitor, and control a software program, application, or series of software programs or applications. Apprentices should have some existing knowledge of computer basics and pose the ability to learn and apply tools specific to an organization’s unique requirements. Developers contribute to a diverse set of products depending on the architecture and industry needs defined by each organization. Developers utilize their creativity and critical thinking abilities to solve unique problems as they arise, and to serve as a vital support to an organization’s evolving needs."
+framework_uri: "https://www.urban.org/sites/default/files/full_framework_developer_software_and_app_0.pdf"
+source_path: "./frameworks/Application_Developer.jsonld"
+provider: "ctdl"
+text_block: |-
+  Participates in and supports the creation of product, platform, and/or software development life cycles by assisting Principal Developer and team with initial determination of applicable specifications, requirements, systems, and concepts to produce the desired output
+  Supports the Principal Developer and team with mapping out requirement specifications; communicates with other key team members
+  Participates in and supports designing software or platform with the appropriate team
+  Supports the development and assembly of the software, platform, or product
+  Supports testing and debugging; participates in integration and deployment
+  Related technical Instruction
+  Development life cycles
+  Risk mitigation principles
+  Programming languages
+  Application of software tools
+  Goal setting/developing work plans
+  Communication
+  Logic and the ability to think critically about tradeoffs
+  Software to support coding and product development
+  Participates in the implementation of development life cycles and specifications, including supporting of mapping out work plans, under supervision
+  Contributes to the selection of a life cycle process model
+  Installs and uses the appropriate tools for a project’s designated life cycle model
+  Conducts process activities in a life cycle process model script
+  Contributes to the development of a project’s work plan
+  Supports the creation of tools and languages needed per output in the work plan, under supervision
+  Identifies the appropriate tools and programming languages necessary to carry out a work plan
+  Contributes to the development of the tools and programming languages needed to execute a work plan
+  Participates in supporting Principal Developer to establish overall project goals with senior and other key team members primarily, as well as any external project members, as applicable
+  Identifies both long-term goals of a project and the intermediate goals needed to achieve those goals (Optional)
+  Communicates effectively with all team members and external stakeholders
+  Works collaboratively with senior and other key team members as well as appropriate external stakeholders
+  Supports project team members with team consultations that determine end product’s feasibility in economic, operational, and technical areas
+  Uses cost-benefit analysis to determine the economic feasibility of a product
+  Determines the operation feasibility of a product by considering the tools, skills, and processes needed to maintain its application
+  Identifies the potential limitations of the technologies involved in a project and determines viable alternatives
+  Assists with offering and applicating technical and cost-effective approaches for mitigating risks at the end result, under direction from Principal Developer; and communicates any potential questions or concerns based on preliminary assessments
+  Installs and uses appropriate tools for implementing, managing, and measuring software processes
+  Collects data for software process assessments
+  Analyzes process assessment data and implements improvement of software processes
+  Creates and verifies preliminary hazard lists
+  Uses software tools to build safety models
+  Identifies safety requirements
+  Implements design solutions to assure that the hazards are mitigated and the safety requirements are met
+  Implements large code components and their interfaces using safe coding practices
+  Collects safety QM data and reports the project status
+  Related Technical Instruction
+  Internal and external product standards and requirements
+  Understanding of Software Requirement Specifications
+  Quality assurance methods
+  Programming languages
+  Application of software tools
+  Survey writing and requirement elicitation tools
+  Clear written documentation and record keeping
+  Communication with team members and external partners
+  Writing code
+  Listening and interpreting
+  Software to support coding and product development
+  Coordinates with the Project Manager to communicate desired requirements and objectives clearly to other team members such as the UX team, QA testers, etc.
+  Identifies and engages stakeholders, under supervision, to determine needs and requirements
+  Prepares surveys and other requirements elicitation tools
+  Conducts domain analysis and selects the most appropriate domain analysis methods
+  Develops requirements that ensure consistency with internal and external standards
+  Clearly communicates results and suggestions to team members
+  Ensures proper use of desired Software Requirement Specification (SRS), and clearly defines and document the product requirements, under supervision
+  Ensures the appropriate use of the Software Requirement  Specification
+  Develops documentation including descriptions of interfaces and requirements
+  Selects the appropriate notations for describing interfaces and requirements
+  Clearly records the product requirements using the appropriate documentation and notations
+  Supports the team/ QA testers in preliminary quality assurance requirements assessments & potential risk assessments, under supervision
+  Identifies the quality characteristics of a product
+  Ensures that product-quality goals are achieved
+  Collects quality metrics and prepares quality documentation to be distributed to appropriate stakeholders
+  Performs tradeoff analysis of requirements activities
+  Identifies security risks and creates requirements that capture security issues
+  Models threats and associated risks of new systems
+  Related technical Instruction
+  Programming languages
+  Application of software tools
+  Understanding of software design structure
+  Understanding of software data models, system components, and algorithms
+  Understanding of prototype creation and application
+  Clear written documentations and record keeping
+  Collaborative work
+  Problem solving and logic
+  Writing code
+  Listening and interpreting
+  Software to support coding and product development
+  Supports the UX team, or appropriate team members, with software design and structure of the software as it relates to implementation, its data models, interfaces between system components, and if applicable, the algorithms used, under supervision
+  Selects the appropriate design methodology and strategies
+  Applies enabling techniques in the design of software components
+  Evaluates the effectiveness of the application of software design enabling techniques
+  Applies appropriate design techniques in the areas of concurrency, event handling, data persistence, or distributed software
+  Applies exception handling and fault tolerance techniques in the design of software components
+  Uses restructuring and refactoring methods in the design of software components
+  Contributes to architectural design tasks associated with use of standard notations, diagramming techniques, models, and patterns
+  Participates in the identification and development of the best prototype suited for the project, if any; supports identification of appropriate languages, operating systems, and monitoring methods applicable for the final program
+  Develops and uses prototypes to evaluate software design quality
+  Selects appropriate tools and techniques to ensure a software design’s quality
+  Selects appropriate languages and tools for software development
+  Selects appropriate frameworks, platforms, and environments for software development
+  Related Technical Instruction
+  Programming languages
+  Code logic
+  Application of software development tools
+  Source code management and version control
+  Understanding of internal and external coding standards
+  Writing code
+  Logic and problem solving
+  Listening and interpreting
+  Clear written documentations and record keeping
+  Collaborative work
+  Software to support coding and product development
+  Applies best practices to the company-specific source code management processes
+  Ensures source code management adheres to company-specific best practices
+  Uses standard tools and processes for version control and configuration management
+  Continues to support identifying program and project changes or newfound needs as the software or system is formed, apply such project changes or needs effectively under direction from Principal Developer or applicable team members
+  Evaluates the effectiveness of the application of the software design methods
+  Identifies design alternatives and conducts trade-off analysis
+  Facilitates software design reviews
+  Implements static analysis tasks to evaluate design quality
+  Uses result of quality evaluation activities to assess design quality and implement changes as needed
+  Participate in building the program using the appropriate languages and/or applicable development methods
+  Applies the designated strategy and methodology to build a program
+  Develops code to implement detailed design
+  Refactors code as needed
+  Applies project and organization standards to code
+  Uses appropriate design patterns
+  Uses defensive coding techniques to minimize errors and threats
+  Thoroughly comments code to support software maintenance
+  Related Technical Instruction
+  Understanding of CI/CD integration
+  Understanding of prototype application
+  Programming languages
+  Application of software tools
+  Writing code
+  Logic and problem solving
+  Clear written documentation and record keeping
+  Listening and interpreting
+  Clear written documentations and record keeping
+  Collaborative work
+  Customer service
+  Software to support coding and product development
+  Participates in recognizing concepts to determine CI/CD configuration, supports building and applying CI/ CD integrations for manual and/or automated functionalities
+  Determines CI/CD configuration of a product
+  Uses the appropriate concepts to build and apply CI/CD integrations for both manual and automated functionalities
+  Supports application of prototyping methods, if applicable
+  Applies prototyping methods to support testing and debugging
+  Uses the appropriate languages and operating systems when test
+  Captures and clearly communicates the results of testing suing prototyping methods
+  Uses the results of testing to make changes to software as needed
+  Supports close monitoring to identify issues and reports them in a clear and concise way to senior team members
+  After issue is reported, clearly tracks and works with team to fix, and re-test until quality standards are met
+  Gathers measures of code quality and size
+  Creates and conducts unit tests for all code, adhering to project standards
+  Achieves test coverage goals that meet project and organization standards
+  Implements software maintenance processes and plans
+  Monitors and analyzes software maintenance activities
+  Clearly documents and communicates results of tests and monitoring to team members
+  Creates documentation in accordance with the quality management plan
+  Conducts root cause analysis and assessment of review effectiveness
+  Identifies necessary corrections in order to achieve product improvement
+  Collects quality data under statistical control
+  Works collaboratively with team members to implement documentation and improvement processes
+  Makes extensive, detailed notes when any changes are made and/or to clarify why a function must remain the same in a clear way for other team members
+  Develops standards for documentation
+  Clearly documents and tracks changes to software functions or code
+  Effectively communicates the decision-making processes for changes to software functions or code
+  Participates in curating implementation preparation documents and plans
+  Develops the criteria for unit test execution completion (e.g., code coverage, defect intensity)
+  Creates unit test plans using the appropriate techniques
+  Establishes criteria for demonstration readiness
+  Develops demonstration test plan using the appropriate techniques
+  Sets the criteria for test completion (e.g., defect arrival rate, defect intensity)
+  Develops criteria for regression testing (e.g. defect density)
+  Designs the necessary setup for testing and demonstration
+  Creates appropriate documentation standards and uses them to track testing progress and outcomes
+  Supports integration and test phase, properly notes progress relevant to project success
+  Works collaboratively with other team members in development activities
+  Applies problem solving and critical thinking skills to troubleshoot assistance
+  Collects operational data
+  Diagnoses and responds to reported software defects, anomalies, and operational incidents and events
+  Performs operational software configuration management and assurance
+  Updates software technologies to maintain currency
+  Participates in ongoing monitoring of platform, software, or application under project requirements, and supports with providing maintenance, troubleshooting assistance, and applies problem solving capabilities as applicable, under supervision
+  Conducts integration testing as part of the integration process
+  Sets up build-and-install environments for software package integration
+  Installs integration tools
+  Creates code inspection packages
+  Schedules code inspections
+  Performs manual test activities (e.g., data entry, test case execution)
+  Monitors customer feedback for product improvement during demonstrations
+  Collects appropriate data associated with test execution
+  Evaluates test execution results and identifies appropriate improvements

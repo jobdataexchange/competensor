@@ -1,0 +1,4 @@
+FROM brighthive/competensor_base
+RUN wget https://jdx-data-model.s3.us-east-2.amazonaws.com/linear_5_19.joblib
+RUN wget https://jdx-data-model.s3.us-east-2.amazonaws.com/2.tar.gz -P tensorflow_models/universal_sentence_encoder/
+RUN wget https://jdx-data-model.s3.us-east-2.amazonaws.com/en_core_web_sm-2.1.0.tar.gz

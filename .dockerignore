@@ -1,0 +1,23 @@
+# Ignore tensorflow USE cache related items
+./tensorflow_models/universal_sentence_encoder/
+
+# Standard dockerignore
+.dockerignore
+Dockerfile
+db.sqlite3
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+env
+pip-log.txt
+pip-delete-this-directory.txt
+.tox
+.coverage
+.coverage.*
+.cache
+coverage.xml
+*,cover
+*.log
+.git

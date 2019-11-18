@@ -1,0 +1,179 @@
+framework_id: "7b403943-835b-56c9-9561-e9222ebb18c3"
+framework_name: "O*NET Maintenance and Repair Workers, General"
+framework_description: "Perform work involving the skills of two or more maintenance or craft occupations to keep machines, mechanical equipment, or the structure of an establishment in repair."
+framework_uri: "https://www.onetonline.org/link/summary/49-9071.00"
+source_path: "./frameworks/metadata/ONET_49-9071_Maintenance_and_Repair_Workers_General.yaml"
+provider: "simple"
+text_block: |-
+    Inspect, operate, or test machinery or equipment to diagnose machine malfunctions.
+    Dismantle machines, equipment, or devices to access and remove defective parts, using hoists, cranes, hand tools, or power tools.
+    Perform routine maintenance, such as inspecting drives, motors, or belts, checking fluid levels, replacing filters, or doing other preventive maintenance actions.
+    Diagnose mechanical problems and determine how to correct them, checking blueprints, repair manuals, or parts catalogs, as necessary.
+    Repair machines, equipment, or structures, using tools such as hammers, hoists, saws, drills, wrenches, or equipment such as precision measuring instruments or electrical or electronic testing devices.
+    Maintain or repair specialized equipment or machinery located in cafeterias, laundries, hospitals, stores, offices, or factories.
+    Assemble, install, or repair wiring, electrical or electronic components, pipe systems, plumbing, machinery, or equipment.
+    Clean or lubricate shafts, bearings, gears, or other parts of machinery.
+    Adjust functional parts of devices or control instruments, using hand tools, levels, plumb bobs, or straightedges.
+    Order parts, supplies, or equipment from catalogs or suppliers.
+    Plan and lay out repair work, using diagrams, drawings, blueprints, maintenance manuals, or schematic diagrams.
+    Perform general cleaning duties of buildings or properties.
+    Paint or repair roofs, windows, doors, floors, woodwork, plaster, drywall, or other parts of building structures.
+    Operate cutting torches or welding equipment to cut or join metal parts.
+    Record type and cost of maintenance or repair work.
+    Assemble boilers at installation sites, using tools such as levels, plumb bobs, hammers, torches, or other hand tools.
+    Test and treat water supply.
+    Perform routine maintenance on boilers, such as replacing burners or hoses, installing replacement parts, or reinforcing structural weaknesses to ensure optimal boiler efficiency.
+    Install equipment to improve the energy or operational efficiency of residential or commercial buildings.
+    Set up and operate machine tools to repair or fabricate machine parts, jigs, fixtures, or tools.
+    Train or manage maintenance personnel or subcontractors.
+    Align and balance new equipment after installation.
+    Provide groundskeeping services, such as landscaping or snow removal.
+    Inspect used parts to determine changes in dimensional requirements, using rules, calipers, micrometers, or other measuring instruments.
+    Fabricate or repair counters, benches, partitions, or other wooden structures, such as sheds or outbuildings.
+    Position, attach, or blow insulating materials to prevent energy losses from buildings, pipes, or other structures or objects.
+    Estimate costs to repair machinery, equipment, or building structures.
+    Grind and reseat valves, using valve-grinding machines.
+    Calendar and scheduling software - Computerized time management systems
+    Computer aided design CAD software - Autodesk AutoCAD
+    Computer aided design CAD software - Computer aided design and drafting software CADD
+    Computer aided design CAD software - Dassault Systemes CATIA
+    Computer aided design CAD software - PTC Creo Parametric
+    Data base user interface and query software - Data entry software
+    Data base user interface and query software - Yardi
+    Development environment software - National Instruments LabVIEW
+    Electronic mail software - IBM Notes
+    Electronic mail software - Microsoft Exchange Server
+    Electronic mail software - Microsoft Outlook
+    Enterprise resource planning ERP software - SAP
+    Facilities management software - Computerized maintenance management system CMMS
+    Industrial control software - Digital direct control DDC energy management software
+    Industrial control software - Supervisory control and data acquisition SCADA software
+    Internet browser software - Web browser software
+    Office suite software - Microsoft Office
+    Operating system software - Apple macOS
+    Operating system software - Handheld computer device software
+    Operating system software - Microsoft Windows
+    Project management software - Microsoft Project
+    Project management software - Oracle Primavera Enterprise Project Portfolio Management
+    Spreadsheet software - Microsoft Excel
+    Video creation and editing software - YouTube
+    Word processing software - Microsoft Word
+    Mechanical - Knowledge of machines and tools, including their designs, uses, repair, and maintenance.
+    Building and Construction - Knowledge of materials, methods, and the tools involved in the construction or repair of houses, buildings, or other structures such as highways and roads.
+    Customer and Personal Service - Knowledge of principles and processes for providing customer and personal services. This includes customer needs assessment, meeting quality standards for services, and evaluation of customer satisfaction.
+    Public Safety and Security - Knowledge of relevant equipment, policies, procedures, and strategies to promote effective local, state, or national security operations for the protection of people, data, property, and institutions.
+    English Language - Knowledge of the structure and content of the English language including the meaning and spelling of words, rules of composition, and grammar.
+    Equipment Maintenance - Performing routine maintenance on equipment and determining when and what kind of maintenance is needed.
+    Repairing - Repairing machines or systems using the needed tools.
+    Troubleshooting - Determining causes of operating errors and deciding what to do about it.
+    Critical Thinking - Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.
+    Monitoring - Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action.
+    Equipment Selection - Determining the kind of tools and equipment needed to do a job.
+    Operation Monitoring - Watching gauges, dials, or other indicators to make sure a machine is working properly.
+    Operation and Control - Controlling operations of equipment or systems.
+    Reading Comprehension - Understanding written sentences and paragraphs in work related documents.
+    Speaking - Talking to others to convey information effectively.
+    Active Learning - Understanding the implications of new information for both current and future problem-solving and decision-making.
+    Coordination - Adjusting actions in relation to others' actions.
+    Complex Problem Solving - Identifying complex problems and reviewing related information to develop and evaluate options and implement solutions.
+    Installation - Installing equipment, machines, wiring, or programs to meet specifications.
+    Quality Control Analysis - Conducting tests and inspections of products, services, or processes to evaluate quality or performance.
+    Judgment and Decision Making - Considering the relative costs and benefits of potential actions to choose the most appropriate one.
+    Time Management - Managing one's own time and the time of others.
+    Arm-Hand Steadiness - The ability to keep your hand and arm steady while moving your arm or while holding your arm and hand in one position.
+    Manual Dexterity - The ability to quickly move your hand, your hand together with your arm, or your two hands to grasp, manipulate, or assemble objects.
+    Near Vision - The ability to see details at close range (within a few feet of the observer).
+    Problem Sensitivity - The ability to tell when something is wrong or is likely to go wrong. It does not involve solving the problem, only recognizing there is a problem.
+    Information Ordering - The ability to arrange things or actions in a certain order or pattern according to a specific rule or set of rules (e.g., patterns of numbers, letters, words, pictures, mathematical operations).
+    Visualization - The ability to imagine how something will look after it is moved around or when its parts are moved or rearranged.
+    Finger Dexterity - The ability to make precisely coordinated movements of the fingers of one or both hands to grasp, manipulate, or assemble very small objects.
+    Multilimb Coordination - The ability to coordinate two or more limbs (for example, two arms, two legs, or one leg and one arm) while sitting, standing, or lying down. It does not involve performing the activities while the whole body is in motion.
+    Static Strength - The ability to exert maximum muscle force to lift, push, pull, or carry objects.
+    Oral Comprehension - The ability to listen to and understand information and ideas presented through spoken words and sentences.
+    Deductive Reasoning - The ability to apply general rules to specific problems to produce answers that make sense.
+    Inductive Reasoning - The ability to combine pieces of information to form general rules or conclusions (includes finding a relationship among seemingly unrelated events).
+    Flexibility of Closure - The ability to identify or detect a known pattern (a figure, object, word, or sound) that is hidden in other distracting material.
+    Perceptual Speed - The ability to quickly and accurately compare similarities and differences among sets of letters, numbers, objects, pictures, or patterns. The things to be compared may be presented at the same time or one after the other. This ability also includes comparing a presented object with a remembered object.
+    Selective Attention - The ability to concentrate on a task over a period of time without being distracted.
+    Control Precision - The ability to quickly and repeatedly adjust the controls of a machine or a vehicle to exact positions.
+    Trunk Strength - The ability to use your abdominal and lower back muscles to support part of the body repeatedly or continuously over time without 'giving out' or fatiguing.
+    Far Vision - The ability to see details at a distance.
+    Speech Recognition - The ability to identify and understand the speech of another person.
+    Written Comprehension - The ability to read and understand information and ideas presented in writing.
+    Oral Expression - The ability to communicate information and ideas in speaking so others will understand.
+    Category Flexibility - The ability to generate or use different sets of rules for combining or grouping things in different ways.
+    Extent Flexibility - The ability to bend, stretch, twist, or reach with your body, arms, and/or legs.
+    Gross Body Coordination - The ability to coordinate the movement of your arms, legs, and torso together when the whole body is in motion.
+    Visual Color Discrimination - The ability to match or detect differences between colors, including shades of color and brightness.
+    Speech Clarity - The ability to speak clearly so others can understand you.
+    Inspecting Equipment, Structures, or Material - Inspecting equipment, structures, or materials to identify the cause of errors or other problems or defects.
+    Handling and Moving Objects - Using hands and arms in handling, installing, positioning, and moving materials, and manipulating things.
+    Performing General Physical Activities - Performing physical activities that require considerable use of your arms and legs and moving your whole body, such as climbing, lifting, balancing, walking, stooping, and handling of materials.
+    Getting Information - Observing, receiving, and otherwise obtaining information from all relevant sources.
+    Repairing and Maintaining Mechanical Equipment - Servicing, repairing, adjusting, and testing machines, devices, moving parts, and equipment that operate primarily on the basis of mechanical (not electronic) principles.
+    Monitor Processes, Materials, or Surroundings - Monitoring and reviewing information from materials, events, or the environment, to detect or assess problems.
+    Establishing and Maintaining Interpersonal Relationships - Developing constructive and cooperative working relationships with others, and maintaining them over time.
+    Identifying Objects, Actions, and Events - Identifying information by categorizing, estimating, recognizing differences or similarities, and detecting changes in circumstances or events.
+    Making Decisions and Solving Problems - Analyzing information and evaluating results to choose the best solution and solve problems.
+    Communicating with Supervisors, Peers, or Subordinates - Providing information to supervisors, co-workers, and subordinates by telephone, in written form, e-mail, or in person.
+    Controlling Machines and Processes - Using either control mechanisms or direct physical activity to operate machines or processes (not including computers or vehicles).
+    Repairing and Maintaining Electronic Equipment - Servicing, repairing, calibrating, regulating, fine-tuning, or testing machines, devices, and equipment that operate primarily on the basis of electrical or electronic (not mechanical) principles.
+    Assisting and Caring for Others - Providing personal assistance, medical attention, emotional support, or other personal care to others such as coworkers, customers, or patients.
+    Disassemble equipment for maintenance or repair.
+    Inspect mechanical components of vehicles to identify problems.
+    Inspect mechanical equipment to locate damage, defects, or wear.
+    Operate cranes, hoists, or other moving or lifting equipment.
+    Read technical information needed to perform maintenance or repairs.
+    Replace worn, damaged, or defective mechanical parts.
+    Test mechanical equipment to ensure proper functioning.
+    Troubleshoot equipment or systems operation problems.
+    Maintain work equipment or machinery.
+    Assemble mechanical components or machine parts.
+    Assemble electrical components, subsystems, or systems.
+    Install electrical components, equipment, or systems.
+    Repair electrical circuits or wiring.
+    Test fluids to identify contamination or other problems.
+    Adjust equipment to ensure optimal performance.
+    Clean equipment, parts, or tools to repair or maintain them in good working order.
+    Lubricate equipment to allow proper functioning.
+    Order materials, supplies, or equipment.
+    Install machine or equipment replacement parts.
+    Lay out work according to specifications.
+    Plan work procedures.
+    Install energy-efficient heating, ventilation, or air conditioning (HVAC) equipment.
+    Clean work areas.
+    Fabricate parts or components.
+    Paint surfaces or equipment.
+    Supervise employees.
+    Train others in operational procedures.
+    Align equipment or machinery.
+    Operate welding equipment.
+    Record information about parts, materials or repair procedures.
+    Assemble structural components.
+    Measure distances or dimensions.
+    Estimate costs for labor or materials.
+    Install insulation in equipment or structures.
+    Grind parts to required dimensions.
+    Develop equipment or component configurations.
+    Repair structural components.
+    Realistic — Realistic occupations frequently involve work activities that include practical, hands-on problems and solutions. They often deal with plants, animals, and real-world materials like wood, tools, and machinery. Many of the occupations require working outside, and do not involve a lot of paperwork or working closely with others.See more occupations related to this interest.
+    Conventional — Conventional occupations frequently involve following set procedures and routines. These occupations can include working with data and details more than with ideas. Usually there is a clear line of authority to follow.
+    Integrity - Job requires being honest and ethical.
+    Attention to Detail - Job requires being careful about detail and thorough in completing work tasks.
+    Cooperation - Job requires being pleasant with others on the job and displaying a good-natured, cooperative attitude.
+    Dependability - Job requires being reliable, responsible, and dependable, and fulfilling obligations.
+    Self Control - Job requires maintaining composure, keeping emotions in check, controlling anger, and avoiding aggressive behavior, even in very difficult situations.
+    Independence - Job requires developing one's own ways of doing things, guiding oneself with little or no supervision, and depending on oneself to get things done.
+    Concern for Others - Job requires being sensitive to others' needs and feelings and being understanding and helpful on the job.
+    Adaptability/Flexibility - Job requires being open to change (positive or negative) and to considerable variety in the workplace.
+    Initiative - Job requires a willingness to take on responsibilities and challenges.
+    Analytical Thinking - Job requires analyzing information and using logic to address work-related issues and problems.
+    Persistence - Job requires persistence in the face of obstacles.
+    Innovation - Job requires creativity and alternative thinking to develop new ideas for and answers to work-related problems.
+    Stress Tolerance - Job requires accepting criticism and dealing calmly and effectively with high stress situations.
+    Achievement/Effort - Job requires establishing and maintaining personally challenging achievement goals and exerting effort toward mastering tasks.
+    Leadership - Job requires a willingness to lead, take charge, and offer opinions and direction.
+    Social Orientation - Job requires preferring to work with others rather than alone, and being personally connected with others on the job.
+    Support — Occupations that satisfy this work value offer supportive management that stands behind employees. Corresponding needs are Company Policies, Supervision Human Relations and Supervision Technical.
+    Independence — Occupations that satisfy this work value allow employees to work on their own and make decisions. Corresponding needs are Creativity, Responsibility and Autonomy.See more occupations related to this work value.
+    Relationships — Occupations that satisfy this work value allow employees to provide service to others and work with co-workers in a friendly non-competitive environment. Corresponding needs are Co-workers, Moral Values and Social Service.

@@ -1,0 +1,119 @@
+framework_id: "3313cbf0-c3a8-59fa-a567-1c702426a2fa"
+framework_name: "ARDMS Fetal Echocardiography Exam Content Outline"
+framework_description: "​​​​​​​​​​​​​​​​​​The Fetal Echocardiography (FE) examination tests the requisite fetal echocardiography knowledge, skills and abilities essential to Sonography Professionals.​"
+framework_uri: "https://www.ardms.org/wp-content/uploads/pdf/Fetal-Echocardiography-Content-Outline.pdf"
+source_path: "./frameworks/metadata/ARDMS_Fetal_Echocardiography_Exam_Content_Outline.yaml"
+provider: "simple"
+text_block: |-
+    Ability to differentiate between normal and abnormal positioning
+    Ability to measure extracardiac structures such as biparietal diameter (BPD), head circumference (HC), abdominal circumference (AC), and femur length (FL)
+    Ability to perform situs, axis, and position techniques
+    Evaluate aortic arch
+    Evaluate ductal arch (e.g., ductus arteriosus)
+    Evaluate systemic veins and arteries
+    Evaluate valves (e.g., atrioventricular and semilunar valves)
+    Knowledge of fetal aortic arch anatomy, including brachiocephalic artery origins and course
+    Knowledge of normal and abnormal fetal cardiac anatomy
+    Understanding of cardiac embryology and its major components (e.g., ventricular looping, atrioventricular junction development, conal/infundibular development, truncal/semilunar valve development)
+    Understanding of methodology for determining situs, axis, and position
+    Ability to evaluate the number of fetuses
+    Ability to obtain and recognize normal cardiac anatomy in various views
+    Ability to recognize the fetal abdomen, femur, liver, bladder, and other gross anatomy
+    Assess fetal cardiac function
+    Assess fetal heart rhythm 
+    Assess fetal hemodynamics
+    Assess for normal embryologic development (e.g., timing of development, early chamber development, normal septal formation)
+    Assess for signs of fetal distress
+    Correlate indication(s) with the order using existing data (e.g., previous images, imaging reports, lab values, written patient history) to identify risk factors for fetal heart disease
+    Determine fetal position
+    Determine orientation and relationship of the great vessels using various cardiac views
+    Determine the number of fetuses 
+    Determine visceral-atrial situs
+    Evaluate aortic arch anomalies
+    Evaluate cardiac chambers
+    Evaluate ductal arch abnormalities (e.g., ductus arteriosus)
+    Evaluate fetal anatomic structures related to the abdomen/pelvis (e.g., inferior vena cava, ductus venosus, hepatic veins, stomach, bladder, spleen)
+    Evaluate fetal anatomic structures related to the chest/thorax (e.g., lungs, esophagus, trachea)
+    Evaluate for abnormalities related to genetic syndromes (e.g., Down, Noonan, Turner)
+    Evaluate for cardiac malpositioning (e.g., mesocardia, levoposition, ambiguous, inversus)
+    Evaluate for cardiac septal defects
+    Evaluate for conotruncal anomalies
+    Evaluate for left-sided cardiac anomalies
+    Evaluate for normal and abnormal fluid collection (e.g., pericardial effusion, ascites, pleural effusion, skin edema)
+    Evaluate for pulmonary venous anomalies
+    Evaluate for right-sided cardiac anomalies
+    Evaluate for systemic venous anomalies
+    Evaluate for the presence of congenital cardiac masses
+    Evaluate for the presence of fetal cardiomyopathies
+    Evaluate for the presence of fetal dysrhythmias
+    Evaluate pulmonary veins and arteries
+    Evaluate septa (e.g., atrial, ventricular, and arterial septa)
+    Evaluate situs, axis, and position
+    Evaluate tissues composing the heart (e.g., pericardium, myocardium)
+    Explain procedure and educate patient on signs and symptoms of positional discomfort
+    Interview the patient to identify additional risk factors for fetal heart disease
+    Knowledge and recognition of abnormal fetal cardiac rhythm and rate
+    Knowledge and recognition of common fetal congenital cardiac masses and echocardiographic characteristics
+    Knowledge and recognition of conotruncal anomalies such as tetralogy of Fallot, truncus arteriosus, double outlet right ventricle, and dextro-transposition of the great arteries (d-TGA)
+    Knowledge and recognition of differences and key features associated with cardiac malposition, including atrial malposition, ventricular malposition, and great artery malposition
+    Knowledge and recognition of features of different types of fetal cardiomyopathies
+    Knowledge and recognition of normal and abnormal fetal atrioventricular junction, fetal atrial septum, and fetal ventricular septum
+    Knowledge and recognition of normal and abnormal fetal pulmonary veins
+    Knowledge and recognition of normal and abnormal fetal systemic veins
+    Knowledge and recognition of normal and abnormal left atrium, mitral valve, left ventricle, left ventricular outflow tract, aortic valve, and aortic arch
+    Knowledge and recognition of normal and abnormal right atrium, tricuspid valve, right ventricle, right ventricular outflow tract (RVOT), and pulmonary valve
+    Knowledge and recognition of the three-vessel view, the three-vessel trachea view, and the aortic arch long axis view
+    Knowledge of appropriate color and spectral Doppler techniques to assess fetal hemodynamics
+    Knowledge of appropriate measurements of cardiac structures
+    Knowledge of cardiac electrical conduction system
+    Knowledge of caval compression syndrome
+    Knowledge of congenital heart disease associated with various genetic syndromes
+    Knowledge of fetal position evaluation
+    Knowledge of M-mode evaluation
+    Knowledge of normal and abnormal fetal abdominal and thoracic anatomy
+    Knowledge of normal fetal abdominal and thoracic anatomy
+    Knowledge of normal fetal anatomic measurements
+    Knowledge of normal fetal anatomy of thoracic and abdominal cavities
+    Knowledge of normal fetal cardiac hemodynamics and normal fetal heart rate
+    Knowledge of normal fetal heart rate and rhythm, and recognition of abnormalities such as complete heart block, premature atrial and ventricular contractions, and tachyarrhythmias (e.g., fetal supraventricular tachycardia and atrial flutter)
+    Knowledge of normal fetal heart rhythm
+    Knowledge of normal, abnormal fetal and fetoplacental hemodynamics
+    Knowledge of universal precautions
+    Measure mechanical PR intervals
+    Obtain cardiac left ventricular outflow tract (LVOT) long axis view
+    Obtain cardiac right ventricular outflow tract (RVOT) long axis view
+    Obtain four-chamber view (e.g., apical, subcostal)
+    Obtain short axis views (e.g., ventricles, great vessels)
+    Obtain three-vessel-and-trachea view
+    Obtain various views of the arches (i.e.., aortic, ductal)
+    Obtain views of branch pulmonary arteries
+    Obtain views of pulmonary veins
+    Obtain views of systemic veins (e.g., bicaval view)
+    Perform Doppler measurements to assess pathology
+    Perform fetal biometric measurements (e.g., abdominal circumference (AC), biparietal diameter (BPD), femur length (FL), and head circumference (HC))
+    Perform measurement of cardiothoracic (CT) ratio
+    Perform measurements of chamber size using two-dimensional or M-mode techniques
+    Perform measurements of valves
+    Perform measurements of vessels
+    Perform two-dimensional measurements to assess pathology
+    Practice universal precautions
+    Prepare and monitor the patient
+    Recognition and knowledge of artifacts, e.g., 2-D, color, and Doppler
+    Recognition of abnormal fluid collections in the fetus
+    Recognize and inform the supervising physician of findings of an emergent nature
+    Review referral information and clarify pertinent data and indications for exam (e.g., review lab work and prior sonographic studies)
+    Select transducer and console settings appropriate for the exam
+    Understanding of indications for fetal echocardiogram exams, including patient history, lab tests, and previous imaging
+    Understanding of system settings to optimize two-dimensional and Doppler evaluation of fetal cardiac structure and function
+    Use color and spectral Doppler to assess for valvular regurgitation
+    Use color Doppler and power Doppler to assess cardiac blood flow
+    Use color Doppler to assess ductal arch and flow
+    Use Doppler to evaluate fetal heart rate
+    Use M-mode to evaluate fetal heart rate
+    Use spectral Doppler to assess blood flow across cardiac valves
+    Use spectral Doppler to assess blood flow in cardiac vessels
+    Use spectral Doppler to assess ductus arteriosus
+    Use spectral Doppler to assess ductus venosus
+    Use spectral Doppler to assess middle cerebral artery (MCA)
+    Use spectral Doppler to assess umbilical artery
+    Use spectral Doppler to assess umbilical vein

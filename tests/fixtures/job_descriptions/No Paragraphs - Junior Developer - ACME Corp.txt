@@ -1,0 +1,41 @@
+“The best software for the best price.”
+Junior Developer
+Department ITS - Division C
+123 Acme Way
+New York, NY 11223
+www.example.com
+SOC Code 15-1132.00
+Questions? Email info@example.com
+Posted on 4/2/2021 18:23:01
+Internal HRIS ID: #4567-363F
+ACME is an equal opportunity employer
+Share this posting 
+Position:  Junior Developer (ITS - Division C)
+Reporting Manager Marigold D. Flower
+Position Summary
+At ACME Corp. as a junior software developer you’ll have exciting opportunities to be a part of a small technical team of developers while directly impacting company success. The successful developer in this role will carry out software testing (BDD, JUnit, Spring, etc.) and develop software specified by a senior developer. This involves, but is not limited to, pair programming, working in a variety of programming languages, development tools as well as providing testing support. Provides Level 1+ & 2 support to production application environments. Must create code in conformance with ACME’s Development Standards and Guidelines.
+Key Responsibilities
+Writes, maintain application code, database queries, scripts. Maintains web pages. Develop, execute unit tests.
+Estimate work progress and time to completion on projects.
+Continuous learning on corporate application development trends, ACME strategies and standards.
+Maintains ITS operating procedures and deployment strategies. 
+Carry out code reviews, work in pair programming teams,  
+Provides planning and accurate time estimates for own assignments.
+Conducts system, unit and integration testing. Handle regression testing.
+Work across multiple teams, excellent collaborator.
+Minimum Experience & Education Requirements
+BS Computer Science or equivalent,
+OR Associate Degree & 1 years of related job experience
+OR a 2 year IT certificate from an accredited institution & 3 years of related job experience
+OR a high school diploma or GED & 4 years hands on application development experience
+Preferred
+A degree related to information technology or computer science
+Oracle, Java Framework experience and familiar with standard IDE’s (Eclipse)
+Other Requirements
+Excellent analytical, problem solving skills.
+Good organizational skills and good oral/written presentation skills.
+Knowledge of SDP and other ACME IT development processes
+In depth understanding of information technology industry, including emerging technologies, use cases, support services and the like. Expect to maintain and expand IT industry knowledge.
+Ability to be self directed.
+Disclaimer
+The selected employee may engage in some or all combinations of the activities and responsibilities while also utilizing some or all of the competencies described above depending upon the role and department they are under. This job description describes the general nature and level of work and is not intended to be an all inclusive, or exhaustive list of responsibilities and competencies required. This job description does not limit the right of supervisors or management to direct, assign or control the work of employees under their supervision.

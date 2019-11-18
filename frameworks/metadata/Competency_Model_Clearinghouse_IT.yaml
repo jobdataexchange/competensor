@@ -1,0 +1,1008 @@
+framework_id: "44a01b50-4628-51e0-b06a-aae3e669d5b8"
+framework_name: "Competency Model Clearinghouse IT Competency Model"
+framework_description: "The IT Competency Model identifies the knowledge, skills, and abilities needed for workers to perform successfully in the field of information technology (IT)."
+framework_uri: "https://www.careeronestop.org/CompetencyModel/competency-models/information-technology.aspx"
+source_path: "./frameworks/metadata/Competency_Model_Clearinghouse_IT.yaml"
+provider: "simple"
+text_block: |-
+    Demonstrating concern for others
+    Interpersonal Skills and Teamwork - Displaying skills to work with others from diverse backgrounds.
+    Show sincere interest in others and their concerns
+    Demonstrate sensitivity to the needs and feelings of others
+    Look for ways to help others and deliver assistance
+    Demonstrating insight into behavior
+    Recognize and accurately interpret the verbal and nonverbal behavior of others
+    Show insight into the actions and motives of others
+    Recognize when relationships with others are strained
+    Maintaining open communication
+    Maintain open lines of communication with others
+    Encourage others to share problems and successes
+    Establish a high degree of trust and credibility with others
+    Respecting diversity
+    Demonstrate sensitivity and respect for the opinions, perspectives, customs, and individual differences of others
+    Value diversity of people and ideas
+    Deal with a wide range of people with flexibility and open-mindedness
+    Listen to and consider others’ viewpoints
+    Work well and develop effective relationships with diverse personalities
+    Integrity - Displaying accepted social and work behaviors.
+    Behaving ethically
+    Abide by a strict code of ethics and behavior
+    Choose an ethical course of action and do the right thing, even in the face of opposition
+    Encourage others to behave accordingly
+    Acting fairly
+    Treat others with honesty, fairness, and respect
+    Make decisions that are objective and reflect the just treatment of others
+    Taking responsibility
+    Take responsibility for accomplishing work goals within accepted timeframes, or for not accomplishing those goals
+    Accept responsibility/accountability for one’s decisions and actions and for those of one’s group, team, or department
+    Understand that past behavior may affect one’s ability to obtain occupation or meet occupational requirements
+    Attempt to learn from mistakes
+    Professionalism - Maintaining a professional demeanor at work.
+    Demonstrating self-control
+    Demonstrate self-control by maintaining composure and keeping emotions in check
+    Deal calmly and effectively with stressful situations
+    Maintaining a professional appearance    Maintain a professional demeanor
+    Dress appropriately for occupation and its requirements
+    Maintain appropriate personal hygiene
+    Wear appropriate identification, as required
+    Refrain from lifestyle choices which negatively impact the workplace and individual performance
+    Be prepared to represent your organization and effort
+    Maintaining a positive attitude
+    Project a positive image of oneself and the organization
+    Demonstrate a positive attitude towards work
+    Take pride in one’s work and the work of the organization
+    Initiative - Demonstrating a willingness to work.
+    Persisting
+    Pursue work with energy, drive, and a strong accomplishment orientation
+    Persist and expend extra effort to accomplish tasks even when conditions are difficult or deadlines tight
+    Persist at a task or problem despite interruptions, obstacles, or setbacks
+    Taking initiative
+    Go beyond the routine demands of the job
+    Take initiative in seeking out new work challenges and increasing the variety and scope of one’s job
+    Seek opportunities to influence events and originate action
+    Assist others who have less experience or have heavy workloads
+    Seek the information and assistance needed to be successful
+    Setting challenging goals
+    Establish and maintain personally challenging but realistic work goals
+    Exert effort toward task mastery
+    Bring issues to closure by pushing forward until a resolution is achieved
+    Working independently
+    Develop and use effective and efficient ways of performing tasks
+    Perform effectively, even with minimal direction, support, approval, or direct supervision
+    Strive to exceed standards and expectations
+    Exhibit confidence in capabilities and an expectation to succeed in future activities
+    Adaptability and Flexibility - Displaying the capability to adapt to new, different, or changing requirements.
+    Employing unique analyses
+    Employ unique analyses and generate valuable, innovative ideas
+    Integrate related and seemingly unrelated information to develop creative solutions
+    Develop innovative methods of obtaining or using information or resources when needed
+    Entertaining new ideas
+    Remain open to considering new ways of doing things
+    Actively seek out and carefully consider the merits of new approaches to work
+    Embrace new approaches when appropriate and discard approaches that are no longer working
+    Dealing with ambiguity
+    Take appropriate action without having all facts or permissions, when necessary
+    Change plans, goals, action, or priorities in response to changing, unpredictable, or unexpected events, pressures, situations, and job demands
+    Dependability and Reliability - Displaying responsible behaviors at work.
+    Fulfilling obligations
+    Behave consistently and predictably
+    Fulfill obligations reliably, responsibly, and dependably
+    Diligently follow through on commitments and consistently meet deadlines
+    Demonstrate regular and punctual attendance
+    Attending to details
+    Understand team or organizational goals, efforts, and requirements sufficiently to be able to assess and understand the purpose and appropriateness of detail work
+    Check work to ensure that all essential details have been considered
+    Notice errors or inconsistencies that others have missed, and take prompt, thorough action to correct errors
+    Complying with policies and procedures
+    Follow written and verbal directions
+    Comply with organizational rules, policies, and procedures
+    Resolve uncertainties with rules, policies, and procedures to assure compliance
+    Lifelong Learning - Displaying a willingness to learn and apply new knowledge and skills.
+    Demonstrating an interest in learning
+    Demonstrate an interest in personal learning and development
+    Seek feedback from multiple sources about how to improve, develop, and modify behavior based on feedback and/or self-analysis of past mistakes
+    Use newly learned knowledge and skills to complete specific tasks
+    Participating in training
+    Take steps to develop and maintain the knowledge, skills, and expertise necessary to perform one’s role successfully
+    Participate fully in relevant training and professional development programs
+    Broaden knowledge and skills through technical expositions, seminars, professional groups, reading publications, job shadowing, and continuing education
+    Anticipating changes in work
+    Anticipate changes in work demands and search for and participate in assignments or training that address these changing demands
+    Treat unexpected circumstances as opportunities to learn
+    Identifying career interests
+    Take charge of personal career development by identifying occupational interests, strengths, options, and opportunities
+    Make insightful career planning decisions based on integration and consideration of others’ feedback, and seek out additional training to pursue career goals
+    Reading - Understanding written sentences and paragraphs in work-related documents.
+    Comprehension
+    Locate, understand, and interpret written information in prose and in documents such as manuals, reports, memos, letters, forms, graphs, charts, tables, calendars, schedules, signs, notices, applications, and directions
+    Understand the purpose of written materials
+    Attain meaning and comprehend core ideas
+    Learn definitions of unfamiliar terms
+    Critically evaluate and analyze information in written materials
+    Integrate and synthesize information from multiple written materials
+    Attention to detail
+    Identify main ideas, implied meaning and details, missing information, biases, differing perspectives, sources, and reliability of written materials
+    Note details, facts, and inconsistencies
+    Application
+    Integrate what is learned from written materials with prior knowledge
+    Apply what is learned from written material to follow instructions and complete specific tasks
+    Apply what is learned from written material to future situations
+    Writing - Using standard English to compile information and prepare written reports.
+    Organization and development
+    Prepare reports that are easy to understand using proper terminology
+    Communicate thoughts, ideas, information, messages, and other written information which may contain technical material, in a logical, organized, efficient, and coherent manner
+    Present ideas that are well developed with supporting information and examples
+    Mechanics
+    Use standard syntax and sentence structure
+    Use correct spelling, punctuation, and capitalization
+    Use appropriate grammar (e.g., correct tense, subject-verb agreement, no missing words)
+    Write legibly
+    Proof read finished documents for errors
+    Distribute written materials appropriately for intended audiences and purposes
+    Tone
+    Write in a manner appropriate for the industry and organization
+    Use language appropriate for the target audience
+    Use appropriate tone and word choice (e.g., writing is professional and courteous)
+    Mathematics - Using mathematics to express ideas and solve problems.
+    Quantification
+    Read and write numbers
+    Count and place numbers in sequence
+    Understand relationships between numbers
+    Computation
+    Add, subtract, multiply, and divide with whole numbers, fractions, decimals, and percentages
+    Calculate averages, ratios, proportions, and rates
+    Convert decimals to fractions and fractions to decimals
+    Convert fractions to percentages and percentages to fractions
+    Measurement and estimation
+    Take and understand measurements of time, temperature, distances, length, width, height, perimeter, area, volume, weight, velocity, and speed
+    Use and report measurements correctly, including units of measurement
+    Convert from one measurement to another (e.g., from English to metric or International System of Units (SI), or Fahrenheit to Celsius)
+    Application
+    Perform basic math computations accurately
+    Translate practical problems into useful mathematical expressions
+    Use appropriate mathematical formulas and techniques
+    Science - Using scientific rules and methods to solve problems.
+    Scientific Method
+    Understand the scientific method (identify problems, collect information, form and validate hypotheses, draw conclusions) and apply basic scientific research
+    Apply the scientific method to IT testing, debugging, and troubleshooting
+    Scientific Investigation
+    Formulate scientifically investigable questions, construct investigations, collect and evaluate data, and develop scientific recommendations based on findings
+    Evaluate scientific constructs including - conclusions, conflicting data, controls, data, inferences, limitations, questions, sources of errors, and variables.
+    Application
+    Apply basic scientific principles to work-related problems
+    Apply basic scientific principles to work-related problems, such as Physical, Environmental, Technological, Compliance and Quality Assurance
+    Communication - Giving full attention to what others are saying, and communicating in English well enough to be understood by others.
+    Listening
+    Receive, attend to, interpret, understand, and respond to verbal messages and other cues
+    Pick out important information in communications
+    Understand complex instructions
+    Acknowledge feelings and concerns of communications
+    Communication
+    Express relevant information appropriately to individuals or groups taking into account the audience and the nature of the information (e.g., technical or controversial)
+    Communicate clearly and confidently
+    Communicate using common English conventions including proper grammar, tone, and pace
+    Track listener responses and react appropriately to those responses
+    When possible, effectively use eye contact and non-verbal expression
+    Two-way communication
+    Practice meaningful two-way communication (i.e., communicate clearly, pay close attention and seek to understand others, and clarify information)
+    Be able to demonstrate good listening by summarizing or repeating communication back to other speakers
+    As appropriate, effectively use eye contact, posture, and other nonverbal cues
+    Be able to effectively answer questions of others or communicate an inability to do so and suggest other sources of answers
+    Persuasion/influence
+    Persuasively present thoughts and ideas
+    Gain commitment and ensure support for proposed ideas
+    Critical and Analytical Thinking - Using logic, reasoning, and analysis to address problems.
+    Reasoning
+    Possess sufficient logic, inductive, and deductive reasoning ability to perform job successfully
+    Critically review, analyze, synthesize, compare, and interpret information
+    Draw conclusions from relevant and/or missing information
+    Understand the principles underlying the relationship among facts and apply this understanding when solving problems
+    Be able to differentiate between fact and opinion
+    Be able to effectively and efficiently present logic, reasoning, and analysis to others
+    Mental agility
+    Identify connections between issues
+    Quickly understand, orient to, and learn new assignments
+    Shift gears and change direction when working on multiple projects or issues
+    Be a willing, effective, and efficient learner
+    Fundamental IT User Skills - Using a computer, communication devices, and related applications to input, retrieve, and communicate information.
+    General Computer, Software, Information and Communication Technology Knowledge and Skills
+    Demonstrate familiarity with the fundamental capabilities of computers, software, information systems, and communications systems
+    Demonstrate familiarity with the fundamental principles of accessible technology, including universal design, as they relate to users of computerized content who have disabilities, sensory and/or functional limitations
+    Understand terminology and function of common computer, software, information and communication technology devices, components, and concepts
+    Understand common terminology related to the use of technology by people with disabilities and/or sensory and functional limitations, including accessible IT, assistive technology, and universal design
+    Understand and efficiently use common computer hardware (e.g., desktops, laptops, tablets, PC components, , cabling), software (e.g., operating systems, applications, communication, collaboration and productivity software) and communication devices (e.g.,
+    Be able to connect common User devices to networks and secure them appropriately
+    Understand and be able to use with appropriate etiquette common communications media, including wired and wireless telephones, audio conferences, videoconferences and online collaboration tools
+    Use a computer to search for online information and interact with websites and web applications (enterprise solutions, online stores, blogs, social networks, wikis)
+    Understand how to critically evaluate online information and be aware of relevant copyright and data protection issues
+    Digital Media Literacy
+    Demonstrate ability to create authentic meaningful written and artwork by reproducing and manipulating preexisting digital text, visuals, and audio pieces
+    Demonstrate ability to construct knowledge by a nonlinear navigation through knowledge domains, such as in the Internet and other hypermedia environments
+    Demonstrate ability to critically evaluate the textual characteristics of digital media alongside their social, economic and cultural implications
+    Visualize graphic representation of concepts or data
+    Common IT Applications Use
+    Use word processing applications to compose, organize, and edit simple documents and other business communications, and produce accurate outputs to print or share electronically
+    Use standard formulas and functions, format and modify content, and demonstrate competence in creating and formatting spreadsheets, graphs, or charts
+    Use spatial software to locate places and interpret spatial data
+    Use and manage electronic mail to communicate with appropriate etiquette
+    Use Internet applications to search for information
+    Use presentation software to effectively share information and ideas
+    Understand and be able to use simple databases
+    Use spreadsheet, database, and presentation software both independently and in an integrated fashion
+    Use audio and video recording equipment and software to produce digital audio and video records and communications
+    Manage file storage - use functions to store, retrieve, and sort documents
+    Understand social media and their appropriate workplace uses
+    Double check work carefully and identify/correct typographical, grammatical and other errors
+    Cyber Safety
+    Understand the importance of privacy and potential abuses of private information
+    Be able to stay safe in an online, networked environment
+    Understand the importance of updating and using the most recent security software, web browser, and operating system to protect against malware, and other online threats
+    Recognize and respond appropriately to suspicious vulnerabilities and threats - web sites, web links, emails, posts, online advertisements, phishing, virus infections, etc.
+    Recognize secure web addresses, e.g., “https://” or “shttp://”
+    Protect and manage your personally identifiable information
+    Understand and use privacy and security settings on social networking applications to share only appropriate personal information
+    Review the privacy policy and understand what data (location, access to social networks) an application can access prior to downloading and installing
+    Understand the risk of connecting to an unsecured or unprotected network
+    Use strong passwords, passphrases and basic encryption
+    Information and Research Literacy
+    Define -  Be able to define a problem that needs information in order to be solved
+    Access -  Search, find and retrieve appropriate information relative to the task
+    Manage -  Apply an organizational or classification system to organize retrieved information
+    Evaluate -  Be able to judge the quality, relevance, usefulness, efficiency, and adequacy of information and information sources for the defined purpose (including the authority, bias and timelines of information)
+    Integrate -  Interpret and represent data and information gathered, using quality management tools to organize, compare, contrast, summarize and synthesize information from multiple sources
+    Create -  Adapt, apply, design or author information resulting from the research that describes the research and its analysis and findings, facilitates decision-making, and develops conclusions and recommendations
+    Communicate -  Communicate that research and its findings effectively and efficiently in person and through written, visual, and digital media in a way that is appropriate for the intended audience
+    Hardware
+    Central processing unit (CPU)
+    Memory - random-access memory (RAM) and read-only memory (ROM)
+    Storage media, e.g., internal hard disk, external hard disk, network drive, CD, DVD, USB, flash drive, memory card
+    Input/output ports, e.g., USB, serial, parallel, network port, FireWire
+    Input devices, e.g., mouse, keyboard, trackball, scanner, touchpad, stylus, joystick, web camera, digital camera, microphone, voice recognition, remote control, and head, mouth, and eye operated controllers
+    Output devices, e.g., screens/monitors, printers, speakers, headphones
+    Assistive technology devices, e.g., voice recognition software, screen reader, screen magnifier, on-screen keyboard, closed captioning, text-to-speech
+    Teamwork - Working cooperatively with others to complete work assignments.
+    Acknowledging team membership and role
+    Accept membership in the team
+    Identify the roles of each team member
+    Show loyalty to the team
+    Determine when to be a leader and when to be a follower depending on what is needed to achieve the team’s goals and objectives
+    Encourage others to express their ideas and opinions
+    Identify and draw upon team members’ strengths and weaknesses to achieve results
+    Learn from other team members
+    Establishing productive relationships
+    Develop constructive and cooperative working relationships with others
+    Exhibit tact and diplomacy and strive to build consensus
+    Show sensitivity to the thoughts and opinions of other team members
+    Deliver constructive criticism and voice objections to others’ ideas and opinions in a supportive, non-accusatory manner
+    Cooperate with others and contribute to the group’s effort
+    Respond appropriately to positive and negative feedback
+    Identifying with the team and its goals
+    Identify the goals, norms, values, and customs of the team
+    Use a group approach to identify problems and develop solutions based on group consensus
+    Effectively communicate with all members of the group or team to achieve goals and objectives
+    Participate on virtual teams and use tools for virtual collaboration
+    Resolving conflicts
+    Bring others together to reconcile differences
+    Handle conflicts maturely by exercising “give and take” to achieve positive results for all parties
+    Reach formal or informal agreements that promote mutual goals and interests, and obtain commitment to those agreements from individuals or groups
+    Planning and Organizing - Planning and prioritizing work to manage time effectively and accomplish assigned tasks.
+    Planning
+    Approach work in a methodical manner
+    Plan and schedule tasks so that work is completed on time
+    Keep track of details to ensure work is performed accurately and completely
+    Work concurrently on several tasks
+    Anticipate obstacles to project completion and develop contingency plans to address them
+    Takes necessary corrective action when projects go off-track
+    Apply lessons learned from previous tasks to more efficiently execute current tasks
+    Prioritizing
+    Prioritize various competing tasks and perform them quickly and efficiently according to their urgency
+    Find new ways of organizing work area or planning work to accomplish work more efficiently
+    Allocating resources
+    Determine personnel and other resources required for achieving project deliverables
+    Allocate time and resources effectively and coordinate efforts with all affected parties
+    Project Management
+    Develop, communicate, and implement a plan for a project
+    Develop a timeline for sequencing the activities of a project
+    Keep track of time, resources, assignments, and deliverables
+    Anticipate obstacles and develop contingency plans
+    Document plans, assignments, changes, and deliverables
+    Understand and plan for dependencies (step A must be completed before step B)
+    Manage activities to meet plans and adjust plans and communicate changes as needed
+    Keep all parties informed of progress and all relevant changes to project timelines
+    Engage in parallel-processing to keep multiple tasks moving forward
+    Innovative Thinking - Generating innovative and creative solutions.
+    Employ unique analyses and generate new, innovative ideas in complex areas
+    Reframe problems in a different light to find fresh approaches
+    Entertain wide-ranging possibilities to develop unique approaches and useful solutions
+    Seek out and entertain diverse perspectives, including those from other fields and roles
+    Understand the pieces of a system as a whole and possess a big picture view of the situation
+    Integrate seemingly unrelated information to develop creative solutions
+    Develop innovative methods of obtaining or using resources when insufficient resources are available
+    Demonstrate innovative thinking by using new and existing technology in new ways
+    Find new ways to add value to the efforts of a team and organization
+    Problem Solving and Decision Making - Applying critical-thinking skills to solve problems by generating, evaluating, and implementing solutions.
+    Identifying the Problem
+    Anticipate or recognize the existence of a problem
+    Identify the true nature of the problem by analyzing its component parts
+    Evaluate the importance of the problem
+    Use all available reference systems to locate and obtain information relevant to the problem
+    Recall previously learned information that is relevant to the problem
+    Document the problem and any corrective actions already taken and their outcomes
+    Locating, gathering, and organizing relevant information
+    Effectively use both internal resources (e.g., internal computer networks, manuals, policy or procedure guidelines) and external resources (e.g., internet search engines) to locate and gather information relevant to the problem
+    Examine information obtained for relevance and completeness
+    Recognize important gaps in existing information and take steps to eliminate those gaps
+    Organize/reorganize information as appropriate to gain a better understanding of the problem
+    Refer the problem to appropriate personnel when necessary
+    Generating alternatives
+    Integrate previously learned and externally obtained information to generate a variety of high-quality alternative approaches to the problem
+    Use logic and analysis to identify the strengths and weaknesses, the costs and benefits, and the short- and long-term consequences of different approaches
+    Choosing a Solution
+    Choose the best solution after contemplating available approaches to the problem, environmental factors, and conducting cost/benefit analyses
+    Make difficult decisions even in highly ambiguous or ill-defined situations
+    Implementing the solution
+    Commit to a solution in a timely manner, and develop a realistic approach for implementing the chosen solution
+    Observe and evaluate the outcomes of implementing the solution to assess the need for alternative approaches and to identify lessons learned
+    Document issues, plans, and solutions; get appropriate permissions; and communicate appropriately to impacted stakeholders
+    Working with Tools and Technology - Selecting, using, and maintaining tools and technology to facilitate work activity.
+    Selection and Application
+    Identify, evaluate, select, and apply hardware or software tools or technological solutions appropriate to the task at hand (e.g., use statistical tools to show reliability of data)
+    Identify potential hazards or risks related to the use of tools and equipment
+    Present and obtain approval from decision-makers for acquiring tools and solutions
+    Negotiate with and manage relationships with vendors of tools and technologies
+    Operate tools and equipment in accordance with established operating procedures and safety standards
+    Document tools and technologies and how they are used in the organization
+    Keeping Current
+    Seek out and continue learning about new and emerging tools, technologies, and methodologies that may assist in streamlining work and improving productivity
+    Take charge of your own personal and professional growth
+    Business Fundamentals - Knowledge of basic business principles, trends, and economics.
+    Situational Awareness
+    Understand business mission and goals - impact, profit, market share, and/or reputation
+    Understand the industry, trends in the industry, and the company’s position in the industry and market
+    Recognize one’s role in the functioning of the company and understand the potential impact one’s own performance can have on the success of the organization
+    Stay current on organizational strategies to maintain competitiveness
+    Understand relevant legal and regulatory requirements of the operation
+    Business Practices
+    Apply effective people and project management skills
+    Understand fundamental and relevant business customer and supplier relationships
+    Use product improvement techniques
+    Comply with the norms of conventional business etiquette
+    Protect intellectual property and proprietary information
+    Demonstrate understanding of the importance of adding value to the enterprise
+    Business Ethics
+    Act in the best interest of the company, the community, and the environment
+    Comply with applicable laws and rules governing work and report loss, waste, or theft of company property to appropriate personnel
+    Demonstrate professional ethics to protect the privacy of the client, the integrity of the profession, and the privacy and integrity of you as an individual
+    Global Awareness
+    Understand how IT supports globalization
+    Understand the impact of globalization on the business model
+    Interpret and adhere to global standards and standardization
+    Principles of Information Technology - Knowledge of Information Technologies (fundamental concepts, systems, platforms, tools, and technologies), IT industries (hardware, software, and services), the widespread application of IT in other industries.
+    Fundamental IT Concepts
+    Differentiate between information and data
+    Understand the role of number systems
+    Identify the elements of the system development life cycle
+    Describe the role of technology in converting data and information into organizational knowledge
+    Understand concepts of server, desktop, application, and virtualization
+    Understand the purpose and function of fundamental communication system hardware, including end user devices, switches, routers, cabling, wireless access points, and radio towers
+    Demonstrate fundamental understanding of, and skills with, common operating systems, software applications, and programming languages
+    Differentiate between systems software and application software
+    Identify and explain characteristics of the common types of application software
+    Understand the potential for integration of system and software components
+    Understand IT’s role in globalization, and globalization’s role in IT
+    Understand different types of information processing (real-time, event-driven, batch, etc.)
+    Keep abreast of IT trends and new technologies
+    Demonstrate knowledge of IT procurement processes (services and equipment)
+    Demonstrate knowledge of IT equipment disposal processes
+    Demonstrate knowledge of user centered design principles and practices, including universal design as it relates to users with disabilities
+    Demonstrate fundamental understanding of principles of accessible technology as they relate to users of computerized content who have disabilities and individuals with sensory, and/or functional limitations
+    Understand major IT specialization roles and functions
+    Explain the importance of good recordkeeping, documentation, and institutional knowledge preservation
+    Explain the importance of information security, assurance, and privacy to individuals, organizations, industries, and societies
+    The Role of IT in Business
+    Demonstrate behavior that reflects professional business ethics (e.g., honesty, integrity, responsibility)
+    Understand the concept of business analytics and the importance of ensuring that data and information systems support business goals and processes
+    Explain the importance of IT service level agreements (SLA) and their relationship to service provision
+    Demonstrate knowledge of the data requirements of business activities and their relationship to processing functions
+    Explain the need for business impact assessments and the importance of minimizing system down times and user impacts
+    Explain the importance of IT systems that are easy for IT Users to use and the importance of User support
+    Understand the fundamentals of insourcing (internally acquired and managed) versus outsourcing (externally managed “cloud-based”) IT solutions
+    Understand how a Request for Proposals (RFP) process works
+    Explain the importance of coordinating a business group’s need/desire to use personal devices with IT's requirements to protect infrastructure and critical data
+    Understand how an IT department in an organization is typically organized, its mission, function, decision-making processes, and internal and external roles
+    Demonstrate knowledge of laws and regulations which require compliance reporting, including laws and regulations which require accessibility of information technology for employees, customers, and members of the public with disabilities
+    Demonstrate knowledge of business resiliency and resumption concepts
+    Explain the importance of user accessibility in achieving business goals, communicating with the public, and meeting federal equal employment opportunity requirements
+    Explain the importance of developing thorough, realistic IT solutions that support organizational objectives
+    Be able to interact with hardware vendors and manage vendor relationships
+    Understand common hardware purchasing, licensing, and maintenance agreements
+    Understand common business processes for installing, managing, and maintaining enterprise hardware and software
+    Computers
+    Distributed processing (hadoop)
+    Laptop
+    Mainframe computer
+    Massively Parallel computer (e.g., HITACHI SR2201, IBM Deep Blue)
+    Mobile Phones
+    Netbooks
+    Network computer/server
+    Personal computer
+    Super Computer (e.g., Cray)
+    Tablet
+    Thin Client/Cloud Computing
+    Virtual Machines
+    Wearable computers
+    Information processing Cycle
+    Input
+    Process
+    Output
+    Storage
+    Archive
+    Types of information processing
+    Batch
+    Interactive
+    Event-driven
+    Object-oriented
+    Realtime
+    Platform Technologies
+    Architecture and organization
+    Client vs. Server
+    Cloud computing
+    Computing infrastructures
+    Connected platform technologies
+    Customization and extensions
+    Enterprise deployment software
+    Firmware
+    Hardware
+    Interoperability with assistive technology devices
+    Open source
+    Operating systems
+    IT Organizational Structure
+    The IT firm/organization
+    IT management and decision-making
+    IT support within a company
+    Support for business solutions
+    Systems Sourcing and Installation
+    Requirements development
+    Internal Solution Design
+    External Solution Evaluation
+    Managing and evaluating external Requests for Proposals (RFPs)
+    Analyzing, evaluating, communicating, and selecting appropriate solutions
+    Developing and executing installation, transition, and cutover plans
+    Activation of user accessibility features
+    Documenting solutions and their implementations
+    Training ongoing maintenance operations and Users on new systems
+    Systems Administration and Maintenance
+    Administrative activities
+    Administrative domains
+    Applications Installation and Updating
+    Systems Integration and Architecture
+    Acquisition and sourcing
+    Architecture
+    Interfacing techniques between modules, systems, and components
+    Compatibility between interfaces and assistive technologies
+    Organizational context
+    Requirements
+    Testing and quality assurance
+    Databases and Applications - The use of technology to control and safeguard the collection, organization, structure, processing and delivery of data.
+    Understand fundamental concepts of database design and the need for database architectural strategies to fit business or industry requirements
+    Differentiate between databases and flat files
+    Differentiate between hierarchal and relational databases
+    Understand metrics used to characterize data and different kinds of data (structures, unstructured, text-based, character limits)
+    Understand importance of very large, unstructured data sets that have to be managed and queried in new ways to find meaning and value (“Big Data”)
+    Demonstrate ability to analyze data requirements
+    Demonstrate familiarity with common database administration and maintenance tasks
+    Follow information management standards and guidelines
+    Understand purpose and process of coding and tagging information
+    Demonstrate ability to find and select the information, appropriate tools, and processing techniques needed for a task
+    Understand logical and physical components of an information storage infrastructure
+    Explain the role and relationships of data, information, and databases in organizations, specifically their role in in business intelligence
+    Describe mechanisms for data collection and management, e.g., automated data collection, input forms, source documents, external devices, interfaces, relational characteristics, and dependencies
+    Assess the quality, accuracy, and timeliness of given data
+    Demonstrate knowledge of managing data as official records
+    Demonstrate knowledge of identifying and protecting privacy data and sensitive information
+    Be able to create and query a basic database
+    Understand how other applications interact with databases to create and retrieve data
+    Data Administration
+    Concepts and fundamentals of data management
+    Data integration
+    Data modeling
+    Database Management
+    Data architecture
+    Data storage (online, near-line, archive)
+    Database query languages
+    Managing the database environment
+    Metadata
+    Semantic Web
+    Special-purpose databases
+    Use of graphical vs. textual representations of database structures
+    Data models
+    Dimensional models
+    Flat files
+    Hierarchical model
+    Logical databases
+    Network model
+    Object databases
+    Object-relational databases
+    Relational model
+    Semantic models
+    Business Intelligence
+    Competitive intelligence
+    Data analytics
+    Data mining
+    Data warehousing
+    Predictive data modeling
+    Web analytics
+    Data Protection
+    Archiving
+    Data encryption
+    Data masking
+    Networks, Telecommunication, Wireless, and Mobility - The processes, hardware, and software employed to facilitate communication between people, computer systems and devices.
+    Fundamentals of Networking and Telecommunication
+    Identify and describe differences between Local Area Networks (LAN), Wide Area Networks (WAN), Virtual Private Networks (VPN), Internet, intranets, extranets, telephony, Voice over IP (VoIP), and other networks
+    Describe common network topologies
+    Differentiate between common networking protocols
+    Explain the purpose and properties of IP addressing
+    Explain the purpose and properties of routing and switching
+    Explain DNS concepts
+    Explain the purpose and properties of DHCP
+    Recognize common network media and connector types
+    Identify and explain the need for common network monitoring resources
+    Understand basic telephony (e.g., analog vs. digital signals) and how it is integrated into IP networks
+    Describe the purpose of network configuration documentation
+    Recognize methods of network optimization
+    Explain the functionality, integrity, accessibility, and security of internet services
+    Explain different server roles, their purpose, and how they interact in a network context
+    Differentiate between Cloud-based applications, local server-based applications, and applications installed on a local computer, and know when to choose between them
+    Understand key tasks performed during the maintenance, administration, and securing of Local Area Networks
+    Identify common network infrastructure troubleshooting techniques
+    Wireless and Mobility
+    Identify characteristics of wireless communication standards
+    Identify and describe common mobile devices and mobile communications technologies
+    Understand basic radio frequency concepts, including signal, signal strength, antenna, receiver, interference, and common frequency bands
+    Identify and describe various operating systems used in common mobile devices and discuss their advantages and disadvantages
+    Identify and describe basic accessibility features of mobile and wireless devices
+    Understand principles of wireless network security
+    Explain the benefits and drawbacks of mobile computing, including its effect on business
+    Understand concepts of mobile social-networking services - Location-related services (e.g., check-in), Visualization mechanisms (e.g., augmented reality showing where friends are)
+    Location-related services (e.g., check-in)
+    Visualization mechanisms (e.g., augmented reality showing where friends are)
+    Network Security
+    Recognize and describe threats to networked computer systems, including malware  (viruses, spyware, adware)
+    Understand the purpose and basic features of a firewall, Intrusion Detection System (IDS), and Intrusion Protection System (IPS)
+    Recognize methods of network access security
+    Explain the importance of user authentication and recognize examples
+    Describe malware protection procedures
+    Virtualization and Cloud Computing
+    Understand virtualization concepts, features, benefits, and considerations
+    Differentiate types of “cloud services”, including Infrastructure as a service (IaaS), Platform as a service (PaaS), Software as a service (SaaS)
+    Infrastructure as a service (IaaS)
+    Platform as a service (PaaS)
+    Software as a service (SaaS)
+    Differentiate between public, hybrid, and private clouds
+    Understand the following characteristics of clouds and clouds services from a business perspective - Distribution over the Internet, Environmental impact, Hardware and independence, Operating costs, Scalability, Security, Time to market, Variable costs
+    Distribution over the Internet
+    Environmental impact
+    Hardware and independence
+    Operating costs
+    Scalability
+    Security
+    Time to market
+    Variable costs
+    Understand and explain the decision making process when choosing between internally built and managed services and externally sourced services
+    Describe the impact of cloud computing on application architecture and the application-development process
+    Explain the legal, compliance, accessibility, and privacy issues associated with cloud computing
+    Data Storage Systems
+    Explain the importance of reliable and efficient data backup and restoration
+    Understand the rapid expansion of data and the challenge that places on IT systems
+    Explain the concepts of data backup, disaster recovery, data mirroring, and off-site storage
+    Describe different types of data storage solutions (e.g., RAID)
+    Describe common data backup and storage networking solutions (e.g., SAN, NAS, iSCSI)
+    Foundations of networking
+    Architectures, such as TCP/IP, SNA, Netware
+    TCP/IP
+    SNA
+    Netware
+    Network Models
+    Network Models - OSI model (7-layer), TCP/IP model (4-layer)
+    OSI model (7-layer)
+    TCP/IP model (4-layer)
+    Network components
+    Network components - Hubs, Switches, Routers, Firewalls, Access points, Thin Client Access points, WLAN (Wireless LAN) Controller, Transmission media (e.g., coaxial cable, wireless, fiber, unshielded twisted pair-UTP)
+    Hubs
+    Switches
+    Routers
+    Firewalls
+    Access points
+    Thin Client Access points
+    WLAN (Wireless LAN) Controller
+    Transmission media (e.g., coaxial cable, wireless, fiber, unshielded twisted pair-UTP)
+    Network capacity and performance metrics
+    Network mapping
+    Network servers and server operating systems
+    Integration of desktops into network systems
+    LANS, WANS, WLANs, VLANs, virtual networks, intranets, extranets
+    Routing and routing protocols
+    Ethernet
+    IPv4 and IPv6
+    Network Storage SAN, NAS
+    SAN
+    NAS
+    Internet Services
+    Protocols, such as TCP FTP UDP TCP/IP suite DHCP
+    TCP
+    FTP
+    UDP
+    TCP/IP suite
+    DHCP
+    Internet Connection testing tools , such as Ping Trace route Net stat Host Dig Nslookup
+    Web Management
+    Analytics
+    Key performance indicators
+    Optimization
+    Utilization
+    Internal vs. external web hosting
+    Human usability, including accessibility and usability by people with disabilities and individuals with sensory and/or functional limitations
+    Common mobile technologies, such as Laptop and netbook computers Mobile phones and 'smart phones' Global positioning system (GPS) devices Wireless debit/credit card payment terminals RFID
+    Laptop and netbook computers
+    Mobile phones and 'smart phones'
+    Global positioning system (GPS) devices
+    Wireless debit/credit card payment terminals
+    RFID
+    Mobile communication technologies
+    Mobile communication technologies, such as 4G mobile data systems Bluetooth Dial-up services GPS GSM GPRS Virtual private networks Wireless fidelity (Wi-Fi)
+    4G mobile data systems
+    Bluetooth
+    Dial-up services
+    GPS
+    Third generation' (3G), global system for mobile communications (GSM) and general packet radio service (GPRS) data services
+    Virtual private networks
+    Wireless fidelity (Wi-Fi)
+    Mobile Operating Systems
+    Mobile Operating Systems, such as Android, Bada, iOS, Microsoft Windows, Research in Motion (RIM), Symbian
+    Android
+    Bada
+    iOS
+    Microsoft Windows
+    Research in Motion (RIM)
+    Symbian
+    Data Storage Systems concepts, such as Data Mirroring Fiber-Channel Network Attached Storage (NAS) RAID Storage Area Network (SAN) Tape Backup Systems
+    Data Mirroring
+    Fiber-Channel
+    Network Attached Storage (NAS)
+    RAID
+    Storage Area Network (SAN)
+    Tape Backup Systems
+    Software Development and Management - The process of designing, writing, testing, debugging/troubleshooting, and maintaining the source code of computer programs and of managing and maintaining software in an organization.
+    Software Development
+    Recognize steps in common Software Development Life Cycle (SDLC) models
+    Analyze user needs and software requirements, including security and accessibility functions
+    Design a secure software solution that fits within time and cost constraints
+    Implement (develop) software based on design
+    Test software, make necessary modifications and assure its quality, accessibility, and usability
+    Deploy and integrate software
+    Maintain and administer software
+    Explain the importance of integrating security requirements into SDLC
+    Understand and explain the importance of integrating user accessibility concepts and standards into the software development life cycle
+    Understand common software architectures, including layered and distributed architecture models
+    Describe modern tools for modeling software
+    Recognize the existence of platform-specific developmental requirements, e.g., embedded systems, mobile computing, specialized devices, augmented reality, wearable computing
+    Understand basic Web development functions and processes
+    Recognize the importance of successful collaboration between software developers and designers, i.e., a developer’s ability to translate an “artistic” design into a functioning piece of software
+    Describe the principles of user-centered design and universal design to increase usability
+    Understand how software developers document their work
+    Be able to interact effectively with a software development team
+    Programming
+    Understand the importance of creating and understanding flowcharts, logic models, and other models that depict software logic and function
+    Know what an algorithm is and how it works
+    Understand relationships between software programs and the hardware and operating systems they run on
+    Understand the difference between machine languages and higher level languages and how compilers translate between them
+    Recognize common programming and scripting languages and what they are used for
+    Understand what object-oriented programming is
+    Describe secure coding practices and defensive programming techniques
+    Understand and explain the relationships between databases and programming
+    Describe common business processes for collecting information and feedback on software functionality
+    Understand how software can include built-in accessibility features for people with disabilities and also can be designed in a way that is compatible with assistive technology devices
+    Recognize the importance of maintenance and testing to the continued functioning of software
+    Recognize major software security concerns (buffer overflow, X-site scripting, SQL Injection, etc.) and coding and management techniques to mitigate them
+    Understand how programmers document their work
+    Be able to interact effectively with programmers
+    Software Acquisition, Management and Maintenance
+    Recognize and have familiarity with common operating systems, e.g., Windows, Mac, Linux, Unix, iOS, Android
+    Recognize and have familiarity with accessibility features of all common operating systems
+    Recognize and have familiarity with common enterprise software applications, e.g., Office Productivity Suites, Customer Relationship Management, Enterprise Resource Planning, Accounting/Finance, Database, Human Resource Management, Email, Online Collabora
+    Understand and be able to evaluate systems requirements for software
+    Understand differences between enterprise hosted and outsourced software solutions, e.g., cloud
+    Be able to evaluate business needs, software solutions and justify decisions for software solution acquisition, including build versus buy options
+    Understand how 3rd party software is augmented with other solutions
+    Be able to interact with software vendors and manage vendor relationships
+    Understand common software purchasing, licensing, and maintenance agreements
+    Understand common business processes for installing, managing and maintaining enterprise software
+    Explain the process of software evolution
+    Understand the purpose of, and differences between, updates, patches, and third-party modifications
+    Recognize the impacts changes in software and interruptions to systems will have on end users and know how to minimize negative impacts, e.g., use of maintenance windows
+    Be able to develop and maintain high quality software documentation (e.g., installation and update history, compatibility issues, license assignments) and communicate this information effectively to stakeholders
+    Recognize the security risks and accessibility implications inherent in updating or modifying software
+    Application Architecture
+    Configuration and adaptation
+    Deployment
+    Design Patterns
+    Risk management
+    Scalability
+    Standards
+    Strategies
+    Development/Programming Fundamentals
+    Algorithms (sorting, searching, automating and improving efficiency)
+    Application Program Interface (API)
+    Basic programming constructs (assignment, arithmetic expressions, loops, conditions, input/output, error handling)
+    Data structures (list, vector, array, stack, queue, tree, graph, maps)
+    Event-driven programming
+    Object oriented programming
+    Programming concurrent processes
+    Secure coding standards
+    Testing/Quality Assurance
+    User interface/user experience (UIUX)
+    Development/Programming Technologies
+    Database
+    Integrative coding
+    Inter-systems communications
+    Machines languages and compilers
+    Parallel systems development/programming
+    Programming and scripting languages
+    Software security practices
+    Software Development Life Cycle Models, such as
+    Agile model
+    Evolutionary model
+    Incremental model
+    Spiral model
+    Waterfall model
+    Web Development
+    Quality assurance
+    Technical content
+    Web site accessibility
+    Web site design and usability
+    Web site development/programming and maintenance
+    Web site/Internet security
+    User and Customer Support - The range of services providing assistance and technical support to help users implement and solve problems related to information technology.
+    Describe the importance of understanding different user groups and their perspectives, concerns, and technology uses
+    Demonstrate ability to communicate with users/customers for the purpose of assessing their needs and helping them solve problems
+    Understand the design and structure of an IT business or product plan
+    Assess the user implications of new IT solutions, including the business benefits
+    Explain the importance of maintaining business and process continuity throughout IT changes such as software or hardware modifications
+    Provide customer service and support for common software/hardware issues
+    Provide customer services and support for common accessibility issues, including activating built-in software accessibility features and facilitating compatibility and interoperability with assistive technology devices
+    Provide training on new hardware/software
+    Demonstrate ability to troubleshoot problems in person or remotely
+    Analyze symptoms to identify broad area of user error or technical failure
+    Identify measurement techniques for increased productivity due to information support implementation
+    Identify and describe quality assurance concepts
+    Implements and provides guidance for the evolution of an IT solution (upgrades)
+    Understands the importance of identifying and classifying incident types and service interruptions
+    Describe the importance of good documentation and recordkeeping in customer service operations
+    Describe how call centers typically operate
+    Engagement
+    Applications (Apps)
+    Communicating with the user
+    Community architecture
+    Content development and categorization
+    Engagement success metrics
+    Familiarity with alternative methods of  communicating with users (both in person and remotely) who have disabilities and/or sensory or functional limitations
+    Inventory and audit of content assets
+    Helpdesk Functions
+    Administrative activities
+    Application support
+    Asset management
+    Build-in accessibility features of products
+    Computing infrastructures and networks
+    Configuration management
+    Incident and problem management
+    Operating systems
+    Release management
+    Strategies for engaging the community
+    Strategies for supporting the interoperability of operating systems and software with assistive technology devices
+    Systems administration, monitoring, and maintenance
+    User participation guidelines/ground rules
+    Digital Media and Visualization - Conveyance of ideas and information in forms such audio, text, pictures, diagrams, video, photos, maps, 3D models, et cetera.
+    Demonstrate awareness of common audio, video, graphic, mapping, and animations software
+    Demonstrate ability to work effectively with digital environments, such as user interfaces, that employ graphical communication to effectively find, interpret, evaluate, use and create images and visual media
+    Understand how to organize different media together for effective communication (design) and how that needs to work together with technical functionality (development)
+    Demonstrate awareness of advanced digital presentation media technology
+    Understand the general requirements and impacts on IT systems of different kinds of digital media (e.g., bandwidth, server and storage requirements, network quality of service, processing power)
+    Understand the basics of audio- and video-conferencing solutions, their basic components and how they work
+    Understand basics of digital printing and common digital printing devices
+    Understand the reasons, constraints, and sacrifices that lead to compression technologies and recognize major compression technologies and their uses
+    Understand the business importance of different kinds of digital media (e.g., website downtime implications, loss of productivity with loss of media access, etc.)
+    Understand the implications to business of digital media as data
+    Demonstrate awareness of potential accessibility issues and solutions related to multimedia presentations, including creation of text equivalents of non-text elements and captioning of audio material
+    Describe how bandwidth affects data transmission and on-screen image
+    Be able to work effectively with both technical and creative users of digital media technologies
+    Alternate text presentations and audio descriptions
+    Digital media application test and implementation
+    Digital media design
+    Digital media production and acquisition
+    Gaming
+    Graphics
+    Maps
+    Multi-media technology
+    Multi-user applications
+    Streaming technologies
+    Utilization and optimization
+    Videos and dialogues
+    Visual and functional design
+    Compliance - The standards, processes, and procedures in place to ensure products, services, and practices comply with legal and regulatory requirements.
+    Abide by a Code of Ethics for professional conduct
+    Explain the difference between international, national, state, and local laws, regulations, and technical standards
+    Follow governance, risk management, and compliance procedures
+    Identify the main data protection rights for a data subject in your country
+    Understand measures to ensure that data and information systems comply with federal, state, local laws and regulations, and third party guidelines
+    Understand the importance of  IT hardware and software accessibility to users with disabilities or sensory and/or functional limitations
+    Understand Federal laws and international guidance related to accessibility of technology for people with disabilities
+    Explain software licensing agreements and the importance of ensuring that software is properly licensed prior to performing installation
+    Understand the concept of an End User License Agreement (EULA)
+    Differentiate between open source and proprietary licenses
+    Understand creative commons licenses
+    Compliance Standards
+    Accessibility standards including the U.S. Electronic and Information Technology Accessibility Standards (Section 508) and the Web Content Accessibility Guidelines (WCAG) 2.0
+    Global standards
+    Internet standards
+    Privacy protection standards
+    Security standards
+    eDiscovery
+    Intellectual property
+    Professional ethics
+    Safeguarding confidential data
+    Public Policy
+    Accessibility requirements, including those in Section 508 of the Rehabilitation Act, Section 255 of the Telecommunications Act, the 21st Century Communications and Video Accessibility Act, and the Web Consortium Accessibility Guidelines (WCAG) 2.0
+    Client program management operations (PMO)
+    Code of Federal Regulations (CFR)
+    Federal, state and local laws
+    ISO requirements
+    Risk Management, Security, and Information Assurance - The standards, issues, and applications used to protect the confidentiality, integrity and availability of information and information systems.
+    Risk Management
+    Explain the concepts and use of risk management frameworks and how to determine threat levels using concepts of vulnerabilities, threat source, motivation, likelihood, and impact
+    Explain concepts of risk-avoidance, transference, acceptance, mitigation, and deterrence in the context of an organization’s risk threshold
+    Understand the importance and use of personnel security and background investigations
+    Understand the concept of inherent risk in end user behavior
+    Understand “insider threat”
+    Understand the importance of organization-wide awareness of risk management policies
+    Security and Information Assurance Fundamentals
+    Explain the concepts of Governance, Risk and Compliance (GRC)
+    Explain the need for an organization security program and the use and importance of organizational security policies
+    Explain the importance of ensuring accurate data and keeping information systems available to authorized uses
+    Explain concepts of Confidentiality, Integrity, and Availability (CIA)
+    Understand legal and regulatory requirements and justifications for maintaining information security including the importance of maintaining working knowledge of laws, regulations, directives, and standards for information security
+    Understand the importance of protecting data and information systems from accidental disclosure or destruction, unauthorized access or modification, and inappropriate use or malicious compromise
+    Describe methods for secure use of social media
+    Explain the use and importance of security awareness programs
+    Explain importance of configuration management to security operations
+    Understand the need for separation of duties and other business controls
+    Understand the need for controls and privileges based on an individual’s job duties
+    Security Operations
+    Describe major access control systems and their function
+    Explain concepts involved in IT security technologies, including cyber terrorism and its countermeasures, and various auditing and monitoring tools and techniques
+    Recognize potential IT security threats and risks, including common attacks, vulnerabilities, and methods used to compromise systems
+    Understand value and limitations of user education
+    Identify common measures used to protect privacy and confidential data
+    Explain the need for regular backup procedures
+    Demonstrate knowledge of vulnerability identification techniques and tools
+    Explain the importance and application of physical security measures
+    Demonstrate knowledge of system protection services like intrusion detection/prevention, communications filtering, firewall management, malware detection
+    Explain common communications protocols and how to apply security to them, e.g., IPSEC, SSL, TLS
+    Demonstrate knowledge of methods to protect web services
+    Demonstrate knowledge of security concepts for cloud services
+    Explain use of encryption technology, e.g., PKI, hard drive encryption, data encryption, encryption-at-rest, and secure communications protocols
+    Describe issues with unsecured User devices on secured systems
+    Business Resiliency
+    Explain the concept of business continuity
+    Understand the difference and use of types of contingency plans (e.g., Business Continuity Plan, Continuity of Operations Plan, Crisis Communications Plan, Disaster Recovery Plan, and Information Systems Contingency Plans
+    Identify the types of IT/technology disaster scenarios that may impact an organization
+    Recognize opportunities for strategic improvement or mitigation of business interruption and other risks caused by business, regulatory, or industry-specific initiatives
+    Explain business impact assessments and their use
+    Identify concepts and techniques for disaster recovery and business restoration
+    Identify typical roles  and responsibilities in disaster recovery planning activities and scenarios
+    Incident Management
+    Describe incident identification, reporting, management, and investigation
+    Describe the use of computer forensics to prevent and solve information technology crimes and security breaches
+    Describe the impact of existing legislation on the practice of digital forensics
+    Explain the concept of electronic discovery (e-discovery)
+    Explain the importance of maintaining evidence integrity  and chain of custody during the forensic examination process
+    Identify criminal activity in relationship to cybercrime, the Internet, and Internet trafficking
+    Secure Information System Development
+    Explain Secure Development Life Cycle
+    Explain concepts of Secure Architecture and design
+    Explain concepts and techniques for secure software coding and defensive programming
+    Explain concepts of module, unit and system security testing
+    Understand concepts of system and human interaction that could affect security
+    Program Management
+    Auditing
+    Business impact assessment
+    Business recovery and continuity
+    Capital planning and investment
+    Configuration management
+    Governance
+    Incident management and privacy breach reporting
+    Performance management
+    Policy development
+    Policy enforcement
+    Risk management
+    Security awareness program
+    Security planning
+    System accreditation
+    System acquisition
+    Data Accessibility
+    Access controls (physical and logical)
+    Fundamentals of data security
+    Mandatory access control (MAC) vs. Discretionary access control (DAC) vs. Role based access control (RBAC)
+    Operational issues
+    Protecting private, proprietary, or confidential data
+    Remote access controls
+    User and customer support
+    Data Integrity
+    Data Input Validation Intrusion Detection Encryption
+    ID management
+    Information states
+    Interconnection agreements
+    Redundancy
+    Data Protection
+    Data encryption, “encryption at rest”
+    Data loss prevention techniques and tools
+    Data masking
+    Privacy impact assessments
+    System security controls
+    Test data management
+    Development
+    Configuration/change management
+    Insure Business analysis/Use cases address business process security
+    Secure coding and defensive programming
+    Security architecture design
+    Security development life cycle
+    Security testing
+    Operations
+    Incident reporting
+    Log management
+    Penetration testing
+    Security Information and Event Management (SIEM)
+    Security monitoring
+    System and security documentation
+    Testing and Application of software patches/errata/updates
+    Vulnerability assessments
+    Legal, Regulations, Investigations and Compliance, such as
+    Federal Laws (FISMA, GLBA, Telecommunications)
+    HIPAA
+    ISO standards
+    Payment Card Industry Standard
+    Sarbanes-Oxley
+    Security Classification
+    Government Classified, Controlled but Unclassified (CUI)Unclassified, Secret, Top Secret, Unclassified, Unclassified For Official Use Only (UNCLASSIFIED/FOUO)
+    Familiarity with Industry Confidential, Do Not Forward, Need-to-know, Proprietary, Restricted, Sensitive
+    Networking and Communications
+    Bluetooth
+    Firewalls
+    Intrusion detection/protection
+    IPSEC
+    PKI (Public Key Infrastructure)
+    Secure protocols (SSL, TLS,  HTTPS, WPA
+    VOIP
+    Wireless
+    Physical Security
+    Access Barriers
+    Biometrics
+    Climate control
+    Fire protection
+    Key card technologies
+    Power protection
+    Threats
+    Application
+    Attacks
+    Attacks, such as Malware,  Denial of Service, Social engineering
+    Malware
+    Denial of Service
+    Social engineering
+    Insider Threat
+    Social Media
+    Threat analysis model
+    Wireless
+    Forensics - Chain of custody, E-discovery, Investigation techniques, Investigation tools
+    Chain of custody
+    E-discovery
+    Investigation techniques
+    Investigation tools

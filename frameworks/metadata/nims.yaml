@@ -1,0 +1,87 @@
+framework_id: "50d622c0-478f-5220-b5d2-1c93c0e4ff38"
+framework_name: "NIMS DUTIES AND STANDARDS FOR INDUSTRIAL MAINTENANCE TECHNICIANS"
+framework_description: "nim duties standards for industrial maintenance technician"
+framework_uri: "https://docs.google.com/document/d/1WUB4JHJybErWdIK1xjpT1NLpYgoU2fU4Xpj2XjreYdQ/edit"
+source_path: "./frameworks/metadata/nims.yaml"
+provider: "simple"
+text_block: |-
+    Measurement Sensors
+    Measurement Sensors Sensor technologies applicable to general measurement (e.g., flow, pressure, level, temperature, counters, motion)
+    Measurement Sensors Sensor technologies applicable to general analytical instruments and sampling systems (e.g., pH, ORP, density, O2, conductivity, effects of sampling systems, GC)
+    Measurement Sensors Sensor technologies applicable to fire and gas detection
+    Measurement Sensors Sensor technologies applicable to machinery monitoring and protection (e.g., vibration, bearing temperature, lube oil pressures, thrust, speed)
+    Measurement Sensors Sensor characteristics (e.g., rangeability, accuracy and precision, temperature effects, response times, reliability, repeatability, maintenance, calibration)
+    Measurement Sensors Sensor selection (e.g., plugging service, process severity, environmental effects and constraints, costs)
+    Measurement Sensors Material compatibility
+    Measurement Sensors Installation details (e.g., process, pneumatic, electrical, location, maintenance, calibration)
+    Measurement Flow, Level, and Pressure Calculations
+    Measurement Flow, Level, and Pressure Calculations Flow (e.g., element sizing, pressure-temperature compensation, mass/volume)
+    Measurement Flow, Level, and Pressure Calculations Level
+    Measurement Flow, Level, and Pressure Calculations Pressure drop
+    Measurement General Calculations
+    Measurement General Calculations Unit conversions
+    Measurement General Calculations Velocity
+    Measurement General Calculations Square root extraction and interpolation
+    Measurement General Calculations Variables involved in wake frequency calculations (e.g.,thermowell length/diameter, velocity, natural frequency, wake frequency)
+    Control Systems Drawings (e.g., process flow diagrams, P&IDs, loop diagrams, ladder diagrams, logic drawings, cause and effects drawings, electrical drawings, schematics, wiring diagrams) 
+    Control Systems Theory Basic control of processes (e.g., pumps, compression, combustion, evaporation, distillation, hydraulics, reaction, dehydration, heat exchangers, crystallization,filtration, refrigeration, fluidization)
+    Control Systems Theory Process dynamics (e.g., loop response, pressure-volume-temperature relationships, simulations)
+    Control Systems Theory Basic control (e.g., regulatory control, feedback, feedforward, cascade, ratio, PID, split-range, gap control)
+    Control Systems Theory Discrete control (e.g., relay logic, Boolean algebra, aliasing)
+    Control Systems Theory Sequential control (e.g., batch, assembly, conveying, CNC, state machine,sequential function chart)
+    Control Systems Implementation HMI (e.g., graphics, alarm management, trending, historical data, operatorpanels)
+    Control Systems Implementation Equipment layout (e.g., human factors engineering, physical control room arrangement, panel layout)
+    Control Systems Implementation Limited variability programming languages for DCS and PLC  (e.g., IEC languages/ladder diagrams, function blocks, sequential function charts, structured text, instruction list)
+    Control Systems Implementation System design comparisons and compatibilities (e.g., advantages anddisadvantages of system architecture, distributed architecture, remote I/O, buses, wireless)
+    Control Systems Implementation Installation requirements (e.g., shielding, constructability, I/O termination, environmental, heat load calculations, power load requirements, purging, lighting, maintainability)
+    Control Systems Implementation System testing (e.g., factory acceptance test, integrated system test, site acceptance test)
+    Control Systems Implementation Commissioning (e.g., performance tuning, loop checkout)
+    Control Systems Implementation Performance evaluation (e.g., troubleshooting, root cause failure analysisand correction)
+    Control Systems Security of Industrial Automation and Control Systems Security (e.g., physical, cyber, network, firewalls, routers, switches, protocols, hubs, segregation, access controls)
+    Control Systems Security of Industrial Automation and Control Systems Security lifecycle (e.g., assessment, controls, audit, management of change)
+    Control Systems Security of Industrial Automation and Control Systems Requirements for asecurity management system
+    Control Systems Security of Industrial Automation and Control Systems Security risk assessment and system design
+    Control Systems Security of Industrial Automation and Control Systems Product development and requirements
+    Control Systems Security of Industrial Automation and Control Systems Verification of security levels (e.g.,level 1, level 2)
+    Final Control Elements Valves
+    Final Control Elements Valves Types (e.g., globe, ball, butterfly)
+    Final Control Elements Valves Trim characteristics (e.g., linear, low noise, equal percentage, seat leakage class)
+    Final Control Elements Valves Calculation (e.g., sizing, split range, noise, actuator, response time, pressure drop, air/gas consumption)
+    Final Control Elements Valves Selection of motive power and failure mode (e.g., hydraulic, pneumatic, electric, spring)
+    Final Control Elements Valves Applications of fluid dynamics (e.g., cavitation, flashing, choked flow, Joule-Thompson effects, two-phase)
+    Final Control Elements Valves Material selection based on process characteristics (e.g., erosion, corrosion,plug, extreme pressure, temperature, material compatibility)
+    Final Control Elements Valves Accessories (e.g., limit switches, solenoid valves, positioners, transducers, air regulators, servo amp, boosters, quick exhaust)
+    Final Control Elements Valves Environmental constraints (e.g., fugitive emissions, packing, special sealing, fire rating)
+    Final Control Elements Valves Installation practices (e.g., vertical, horizontal, bypasses, location, flow direction)
+    Final Control Elements Pressure Relieving Devices Pressure relieving valve types (e.g., conventional spring, balanced bellows, pilot operated)
+    Final Control Elements Pressure Relieving Devices Pressure relieving valve characteristics (e.g., modulating, pop action)
+    Final Control Elements Pressure Relieving Devices Pressure relieving valve calculations (e.g., sizing considering inlet pressure drop, back pressure, multiple valves)
+    Final Control Elements Pressure Relieving Devices Material selection based on process characteristics
+    Final Control Elements Pressure Relieving Devices Pressure relieving valve installation practices (e.g., linking valves, sparing the valves, accessibility for testing, car sealing inlet valves, piping installation, combination devices)
+    Final Control Elements Pressure Relieving Devices Rupture discs and buckling pin valves (e.g., types, characteristics, application, calculations)
+    Final Control Elements Motor Controls Types (e.g., motor starters, variable-speed drives)
+    Final Control Elements Motor Controls Applications (e.g., speed control, soft starters, motor-operated valve actuators)
+    Final Control Elements Motor Controls Calculations (e.g., sizing, tuning, location)
+    Final Control Elements Motor Controls Accessories (e.g., encoders, positioners, relays, limit switches)
+    Final Control Elements Other Final Control Elements Motion (e.g., damper controls, types, orientation, actuators, servos, encoders)
+    Final Control Elements Other Final Control Elements Solenoid valves (e.g., types, sizing)
+    Final Control Elements Other Final Control Elements On-off devices/relays (e.g., types, applications, energize and de-energize to trip)
+    Final Control Elements Other Final Control Elements Self-regulating devices (e.g., types, sizing, pressure, temperature, level, and flow regulators)
+    Signals, Transmission, and Networking Signals Pneumatic, electronic, optical, hydraulic, digital, analog, buses, wireless,thermocouple
+    Signals, Transmission, and Networking Signals Transducers (e.g., analog/digital [A/D], digital/analog[D/A], current/pneumatic[I/P] conversion, current/current [I/I], splitters, filters)
+    Signals, Transmission, and Networking Signals Hazardous area classification and instrument installation techniques (e.g.,intrinsically safe [IS]barriers, cabinet purges, non-incendive)
+    Signals, Transmission, and Networking Signals Grounding, shielding, segregation, electromagnetic interference
+    Signals, Transmission, and Networking Signals Basic signal circuit design (e.g., two-wire, four-wire, isolated outputs, loop powering, buses)
+    Signals, Transmission, and Networking Signals Circuitcalculations (voltage, current, impedance, power)
+    Signals, Transmission, and Networking Signals Unit conversioncalculations
+    Signals, Transmission, and Networking Transmission Different communication systems architecture and protocols (e.g., fiberoptics, coaxial cable, wireless, paired conductors, buses, transmission control protocol/internet protocol [TCP/IP], OPC)
+    Signals, Transmission, and Networking Transmission Distance considerations versus transmission medium (e.g., data rates, sample rates)
+    Signals, Transmission, and Networking Networking Routers, bridges, switches, firewalls, gateways, network loading, error checking, bandwidth, crosstalk, parity, hubs
+    Safety Systems Documentation Basic documentation required (e.g., process hazards analysis, safety requirements specification [SRS], logic diagrams/narratives, test procedures, SIL selectionreport, SIL verification report, safety lifecycle plan)
+    Safety Systems Theory Reliability and availability (e.g., bathtub curve, failure rates types, voting, prooftest intervals, common cause and diversity)
+    Safety Systems Theory SIL selection (e.g., safety layer matrix, risk graph, LOPA)
+    Safety Systems Implementation Safety system design (e.g., SRS, I/O assignments, redundancy, segregation, logic design, failure direction)
+    Safety Systems Implementation SIL verification calculations (e.g., failure rates types, voting, proof test intervals, common cause and diversity)
+    Safety Systems Implementation Installation, commissioning, and validation (e.g., methods, procedures, test records)
+    Safety Systems Safety Lifecycle Management Modifications (e.g., management of change, scope of change, impact of change, documentation)
+    Safety Systems Safety Lifecycle Management Operations and maintenance (e.g., methods, procedures, test records, partial stroke testing, demand tracking, bypass and override management, failure analysis, validation of design assumpti

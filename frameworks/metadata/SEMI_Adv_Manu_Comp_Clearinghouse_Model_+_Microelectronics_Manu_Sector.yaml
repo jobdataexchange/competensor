@@ -1,0 +1,904 @@
+framework_id: "cd546b16-f5c1-55a4-ab02-d210d1f2bb45"
+framework_name: "SEMI Adv Manu Comp Clearinghouse Model + Microelectronics Manu Sector"
+framework_description: "Contains a modified version of the Competency Clearinghouse Advanced Manufacturing Model (Tiers 1-4) plus Tier 5 that SEMI has added for the Microelectronics Manufacturing Sector."
+framework_uri: ""
+source_path: "./frameworks/metadata/SEMI_Adv_Manu_Comp_Clearinghouse_Model_+_Microelectronics_Manu_Sector.yaml"
+provider: "simple"
+text_block: |-
+    Interpersonal Skills: 
+    Demonstrating the ability to work effectively with others.
+    Interacting and working with others/Respecting diversity
+    Interact respectfully and cooperatively with others who are of a different race, culture, or age, or have different abilities, gender, or sexual orientation.
+    Demonstrate sensitivity, flexibility, and open-mindedness when dealing with different values, beliefs, perspectives, customs, or opinions.
+    Use appropriate strategies and solutions for dealing with conflicts and differences to maintain a smooth workflow.
+    Value an environment that supports and accommodates a diversity of people and ideas.
+    Demonstrating sensitivity/empathy
+    Look for ways to help people and deliver assistance.
+    Show sincere interest in others and their concerns.
+    Demonstrate sensitivity to the needs and feelings of others.
+    Demonstrating insight into behavior
+    Demonstrate flexibility for change based on the ideas and actions of others.
+    Recognize and accurately interpret the verbal and nonverbal behavior of others.
+    Recognize when relationships with others are strained.
+    Show understanding of others’ behaviors and motives by demonstrating appropriate responses.
+    Maintaining open relationships
+    Maintain open lines of communication with others.
+    Establish a high degree of trust and credibility with others.
+    Encourage others to share problems and successes.
+    Integrity - Displaying accepted social and work behaviors.
+    Behaving ethically
+    Choose an ethical course of action and do the right thing, even in the face of opposition.
+    Encourage others to behave ethically.
+    Understand that behaving ethically goes beyond what the law requires.
+    Use company time and property responsibly.
+    Perform work-related duties according to laws, regulations, contract provisions, and company policies.
+    Comply with ethical standards for your field.
+    Accept responsibility for one’s decisions and actions.
+    Acting fairly
+    Treat others with honesty, fairness, and respect.
+    Make decisions that are objective and reflect the just treatment of others.
+    Taking responsibility
+    Take responsibility for accomplishing work goals within accepted timeframes.
+    Accept responsibility for one's decisions and actions and for those of one's group, team, or department.
+    Professionalism - Maintaining a professional presence
+    Demonstrating self-control
+    Maintain composure and keep emotions in check.
+    Deal calmly and effectively with stressful or difficult situations.
+    Accept criticism and attempt to learn from mistakes.
+    Professional appearance
+    Maintain a professional demeanor.
+    Dress appropriately for occupational and worksite requirements.
+    Maintain appropriate personal hygiene.
+    Project a professional image of oneself and the organization.
+    Social responsibility
+    Refrain from lifestyle choices which negatively impact the workplace and individual performance.
+    Remain free from substance abuse.
+    Maintaining a positive attitude
+    Demonstrate a positive attitude towards work.
+    Take pride in one’s work and the work of the organization.
+    Initiative - Demonstrating a commitment to effective job performance by acting on one’s own and following through to get the job done.
+    Taking initiative
+    Provide suggestions and/or take actions that result in improved work processes, communications, or task performance.
+    Take initiative in seeking out new responsibilities and work challenges, influence events, or originate action.
+    Go beyond the routine demands of the job to increase its variety and scope.
+    Persisting
+    Pursue work with drive and a strong accomplishment orientation.
+    Persist and expend extra effort to accomplish tasks despite difficult conditions, tight deadlines, or obstacles and setbacks
+    Setting challenging goals
+    Establish and maintain personally challenging but realistic work goals.
+    Exert effort toward task mastery.
+    Bring issues to closure by pushing forward until a resolution is achieved.
+    Working independently
+    Develop own ways of working effectively and efficiently.
+    Perform effectively even with minimal direction, support, or approval.
+    Take responsibility for completing one’s own work assignments.
+    Achievement motivation
+    Strive to exceed standards and expectations.
+    Exhibit confidence in capabilities and an expectation to succeed in future activities.
+    Dependability and Reliability - Displaying responsible behaviors at work.
+    Fulfilling obligations
+    Behave consistently and predictably.
+    Is reliable, responsible, and dependable in fulfilling obligations.
+    Diligently follow through on commitments and consistently complete assignments by deadlines.
+    Attendance and punctuality
+    Come to work on time and as scheduled.
+    Arrive on time for meetings or appointments.
+    Dial in to phone calls and web conferences on time.
+    Attending to details
+    Diligently check work to ensure that all essential details have been considered.
+    Notice errors or inconsistencies and take prompt, thorough action to correct them.
+    Following directions
+    Follow directions as communicated in a variety of ways such as writing, speech, American Sign Language, computers, or other format
+    Comply with organizational rules, policies, and procedures.
+    Ask appropriate questions to clarify any instructional ambiguities.
+    Adaptability and Flexibility - Displaying the capability to adapt to new, different or changing requirements.
+    Entertaining new ideas
+    Is open to considering new ways of doing things.
+    Actively seek out and carefully consider the merits of new approaches to work.
+    Embrace new approaches when appropriate and discard approaches that are no longer working.
+    Dealing with change
+    Take proper and effective action when necessary without having all the necessary facts in hand.
+    Easily adapt plans, goals, actions, or priorities in response to unpredictable or unexpected events, pressures, situations, and job demands
+    Easily shift gears and change direction when working on multiple projects or issues.
+    Lifelong Learning - Displaying a willingness to learn and apply new knowledge and skills.
+    Demonstrate an interest in learning
+    Take actions showing an interest in personal and professional lifelong learning and developmentg
+    Seek feedback and modify behavior for improvementg
+    Modify behavior based on feedback or self-analysis of past mistakes.
+    Learn and accept help from supervisors and coworkers.
+    Use newly learned knowledge and skills to complete specific tasks.
+    Participating in learning activities
+    Identify when it is necessary to acquire new knowledge and skills.
+    Take steps to develop and maintain knowledge, skills, and expertise necessary to perform one’s role successfully by participating in relevant training and professional development programs.
+    Actively pursue opportunities to broaden knowledge and skills through seminars, conferences, professional groups, reading publications, job shadowing, and/or continuing education.
+    Maintain certifications and continuing education credits.
+    Using change as a learning opportunity
+    Anticipate changes in work demands and search for and participate in assignments or training that addresses these changing demandsy
+    Treat unexpected circumstances as opportunities to learn and adopt new techniques.
+    Identifying career interests
+    Take charge of personal career development by identifying personal interests and career pathways.
+    Make insightful career planning decisions that integrate others’ feedback.
+    Integrating and applying learning
+    Integrate newly learned knowledge and skills with existing knowledge and skills.
+    Academic Competencies
+    Reading - Understanding written sentences, paragraphs, and figures in work-related documents on paper, on computers, or adaptive devices.
+    Comprehension
+    Locate, understand, and interpret written technical and non-technical information in documents such as manuals, reports, memos, letters, forms, graphs, charts, tables, calendars, schedules, signs, notices, applications, contracts, regulations and directions.
+    Understand the purpose of written materials.
+    Comprehend the author’s meaning and identify the main ideas expressed in the written material.
+    Infer or locate meaning of unknown or technical vocabulary.
+    Attention to detail
+    Note details and facts.
+    Detect inconsistencies.
+    Identify implied meaning and details.
+    Recognize missing information.
+    Information integration
+    Integrate what is learned from written materials with prior knowledge.
+    Use what is learned from written material to follow instructions and complete tasks.
+    Apply what is learned from written material to new situations.
+    Information analysis
+    Critically evaluate and analyze information in written materials.
+    Review written information for completeness and relevance.
+    Distinguish fact from opinion.
+    Identify trends.
+    Synthesize information from multiple written materials.
+    Writing - Using standard business English to compile information and prepare written documents on paper, on computers, or adaptive devices
+    Organization and development
+    Create documents such as letters, directions, manuals, reports, graphs, and flow charts.
+    Communicate thoughts, ideas, information, messages, and other written information, which may contain technical material, in a logical, organized, coherent, and persuasive manner.
+    Present well-developed ideas supported by information and examples.
+    Proofread finished documents for errors.
+    Tailor content to appropriate audience and purpose.
+    Distribute written materials appropriately for intended audiences and purposes.
+    Mechanics
+    Use standard syntax and sentence structure.
+    Use correct spelling, punctuation, and capitalization.
+    Use appropriate grammar (e.g., correct tense, subject-verb agreement, no missing words).
+    Write in a manner appropriate for business; use language appropriate for the target audience; use appropriate tone and word choice (e.g., writing is professional and courteous).
+    Write legibly when using handwriting to communicate.
+    Tone
+    Use language appropriate for the target audience.
+    Use a tone and word choice appropriate for the industry and organization (e.g., writing is professional and courteous).
+    Show insight, perception, and depth in writing.
+    Mathematics - Using principles of mathematics such as algebra, geometry, and trigonometry to solve problems.
+    Mathematical principles
+    Number systems and relationships – whole numbers, decimals, fractions, and alternate base systems (e.g., binary, octal, and hexadecimal numbers)
+    Arithmetic – arithmetic operations on numbers, percentages, square root, exponentiation, and logarithmic functions
+    Plane and solid geometry – distance, perimeter, area and volume, spatial coordinates, visualization, spatial reasoning, and geometric modeling
+    Measurement – measurement of length, mass, time, systems of measurement, units, and conversion between systems (e.g., from English to metric)
+    Mathematical notation – the language of mathematics to express mathematical ideas
+    Mathematical reasoning and problem solving – inductive and deductive reasoning, conjectures, arguments, strategies, and interpretation of results
+    Elementary statistics and laws of probability – mean, median, and standard deviation
+    Algebra and functions – equations, patterns, and functions
+    Estimation – estimate sizes, distances, and quantities; or determine time, costs, resources, or materials needed to perform a work activity
+    Elementary trigonometry – triangles and trigonometric functions
+    Elementary calculus – exponential, logarithmic and trigonometric functions, vectors, complex numbers, conic sections, and analytic geometry
+    Computation
+    Add, subtract, multiply, and divide with whole numbers, fractions, decimals, and percents.
+    Calculate averages, ratios, proportions, and rates.
+    Convert decimals to fractions and fractions to decimals.
+    Convert fractions to percents and percents to fractions.
+    Convert decimals to percents and percents to decimals.
+    Understand relationships between numbers and identify and understand patterns.
+    Measurement and estimation
+    Take measurements of time, temperature, distances, length, width, height, perimeter, area, volume, weight, velocity, and speed.
+    Use and report measurements correctly.
+    Correctly convert from one measurement to another (e.g., from English to metric or International System of Units [SI], or Fahrenheit to Celsius).
+    Application
+    Translate practical problems into useful mathematical expressions.
+    Use appropriate mathematical formulas and techniques to solve problems.
+    Science - Using scientific rules and methods to solve problems.
+    Know and apply scientific principles
+    Scientific method – the systematic pursuit of knowledge involving the recognition and formulation of a problem, the collection of data through observation and experiment and the formulation and testing of a hypothesis.
+    Chemistry – the composition, structure, properties, and reactions of matter, especially of atomic and molecular systems.
+    Physics – matter and energy and physical interactions.
+    Comprehension
+    Understand overall intent and proper procedures for set up and operation of equipment.
+    Application
+    Apply basic scientific principles to work-related problems and production processes.
+    Apply scientific methods in qualitative and quantitative analysis, data gathering, direct and indirect observation, predictions, and problem identification.
+    Evaluate scientific constructs including conclusions, conflicting data, controls, data, inferences, limitations, questions,sources of errors, and variables.
+    Communication – Listening and Speaking - Giving full attention to what others are saying and speaking in English well enough to be understood by others.
+    Communicating
+    Express relevant information appropriately to individuals or groups considering the audience and the nature of the information (e.g., explain technical concepts to non-technical audiences).
+    Convey information clearly, correctly, and succinctly.
+    Use common English conventions including proper grammar, tone, and pace.
+    Effectively establish interpersonal contact with one or more individuals using eye contact, body language, and non-verbal expression as appropriate to the person’s culture.
+    Ask questions or report problems or concerns to people in authority when information or procedures are unclear or need improvement, or when feeling unsafe or threatened in the workplace.
+    Receiving information
+    Attend to, understand, interpret, and respond to messages received in a variety of ways, including hearing, American Sign Language, instant messaging, text-to-speech devices, and other methods.
+    Apply active interpersonal communication skills using reflection, restatement, questioning, and clarification.
+    Identify feelings and concerns communicated in various formats, such as writing, speech, American Sign Language, computers,etc. and respond appropriately.
+    Comprehend complex instructions.
+    Consider other viewpoints and alter opinion when it is appropriate to do so.
+    Effectively answer questions of others or communicate an inability to do so and suggest other sources of answers.
+    Persuasion/Influence
+    Persuasively present thoughts and ideas.
+    Gain commitment and ensure support for proposed ideas.
+    Influence others.
+    Critical and Analytical Thinking - Using logical thought processes to analyze information and draw conclusions.
+    Reasoning
+    Use logic and reasoning to identify strengths and weaknesses of alternative solutions, conclusions, or approaches to problems.
+    Possess enough inductive and deductive reasoning ability to perform job successfully.
+    Critically review, analyze, synthesize, compare, and interpret information.
+    Draw conclusions from relevant or missing information.
+    Understand the principles underlying the relationship among facts and apply this understanding when solving problems
+    Mental agility
+    Organize problems into manageable parts and identify connections between issues.
+    Quickly understand, orient to, and learn new assignments
+    Basic Computer Skills - Using information technology and related applications, including adaptive devices and software, to convey and retrieve information.
+    Computer basics
+    Use basic computer software, hardware, and communication devices to perform tasks.
+    Understand the basic functions and terminology related to computer hardware, software, information systems, and communication devices.
+    Using software
+    Use word processing software to compose, organize, edit, and print documents and other business communications.
+    Use spreadsheet software to enter, manipulate, edit and format text and numerical data.
+    Use presentation software to create, manipulate, edit, and present digital representations of information to an audience.
+    Use database software to manage data.
+    Create and maintain a well-organized electronic file storage system.
+    Using the Internet and email
+    Use the Internet to search for online information and interact with Web sites.
+    Use the Internet and web-based tools to manage basic workplace tasks (e.g., calendar management, contacts management, and timekeeping).
+    Use electronic mail to communicate in the workplace.
+    Understand the different types of social media and their appropriate workplace and non-workplace uses, and the impact that various social media activities can have on one’s personal and professional life.
+    Employ collaborative/groupware applications to facilitate group work.
+    Ensuring computer security
+    Understand and comply with the organization’s privacy policy and information security guidelines.
+    Defend against potential abuses of private information.
+    Recognize and respond appropriately to suspicious vulnerabilities and threats.
+    Use the most recent security software, web browser, and operating system to protect against online threats.
+    Utilize strong passwords, passphrases, and basic encryption.
+    Recognize secure Web addresses.
+    Workplace Competencies
+    Business Fundamentals - Using information on basic business principles, trends, and economics.
+    Situational awareness
+    Understand the mission, structure, and functions of the organization.
+    Recognize one's role in the functioning of the organization and understand the potential impact one's own performance can have on the success of the organization.
+    Grasp the potential impact of the company's well-being on employees.
+    Business ethics
+    Demonstrate respect for coworkers, colleagues, and customers.
+    Act in the best interest of the company, the community, and the environment.
+    Comply with the applicable laws and rules governing work and report loss, waste, or theft of company property to appropriate personnel.
+    Market knowledge
+    Understand market trends in the industry and the company's position in the market.
+    Know who the company's primary competitors are and stay current on organizational strategies to maintain competitiveness.
+    Uphold the organization through building and maintaining customer relations.
+    Recognize major challenges faced by the organization and industry and identify key strategies to address challenges.
+    Teamwork - Working cooperatively with others to complete work assignments.
+    Identifying team membership and role  
+    Accept membership in and commit to the goals of a team.
+    Identify roles of team members and effectively communicate with all members of the team.
+    Serve as a leader or a follower, depending on what is needed to achieve the team’s goals and objectives.
+    Identify and draw upon team members’ strengths and weaknesses to achieve results.
+    Instruct others in learning new skills and learn from other team members.
+    Assist others who have less experience or have heavy workloads.
+    Encourage others to express their ideas and opinions.
+    Establishing productive relationships
+    Develop constructive and cooperative working relationships with others.
+    Exhibit tact and diplomacy and strive to build consensus.
+    Deliver constructive criticism and voice objections to others’ ideas and opinions in a supportive, non-accusatory manner.
+    Respond appropriately to positive and negative feedback.
+    Effectively communicate with all members of the group or team to achieve team goals and objectives.
+    Meeting team objectives
+    Work as part of a team, contributing to the group’s effort to achieve goals.
+    Identify and commit to the goals, norms, values, and customs of the team.
+    Choose behaviors and actions that best support the team and accomplishment of work tasks.
+    Use a group approach to identify problems and develop solutions based on group consensus.
+    Resolving conflicts
+    Bring others together to reconcile differences.
+    Handle conflicts maturely by exercising “give and take” to achieve positive results for all parties.
+    Reach formal or informal agreements that promote mutual goals and interests and obtain commitment to those agreements from individuals or groups.
+    Customer Focus - Efficiently and effectively addressing the needs of clients/customers.
+    Understand customer needs
+    Identify internal and external customers.
+    Attend to what customers are saying and ask questions to identify customer needs, interests, and goals.
+    Anticipate the future needs of the customer.
+    Demonstrate awareness of the impact of the project’s carbon footprint.
+    Provide personalized service
+    Provide prompt, efficient, and personalize assistance to meet the requirements, requests, and concerns of customers.
+    Provide thorough, accurate information to answer customers’ questions and inform them of commitment times or performance guarantees.
+    Address customer comments, questions, concerns, and objections with direct, accurate, and timely responses.
+    Identify and propose appropriate solutions and/or services.
+    Establish boundaries as appropriate for unreasonable customer demands.
+    Acting professionally
+    Is pleasant, courteous, and professional when dealing with internal or external customers.
+    Develop constructive and cooperative working relationships with customers.
+    Remain calm and empathetic when dealing with hostile customers.
+    Uphold the company and product brand in interactions with others.
+    Keeping customers informed
+    Follow up with customers during projects and following project completion.
+    Keep clients up to date about decisions that affect them.
+    Seek the comments, criticisms, and involvement of customers.
+    Adjust services based on customer feedback.
+    Planning and Coordinating - Planning and prioritizing work to manage time effectively and accomplish assigned tasks as efficiently as possible.
+    Plan
+    Approach work in a methodical manner.
+    Plan and schedule tasks so that work is completed on time.
+    Keep track of details to ensure work is performed accurately and completely.
+    Prioritize
+    Prioritize various competing tasks.
+    Perform tasks quickly and efficiently according to their urgency.
+    Find new ways of organizing work area or planning work to accomplish work more efficiently.
+    Allocate resources
+    Estimate resources needed for project completion.
+    Allocate time and resources effectively.
+    Coordinate efforts with all affected parties.
+    Keep all parties informed of progress and all relevant changes to project timelines.
+    Anticipate obstacles
+    Anticipate obstacles to project completion.
+    Develop contingency plans to address them.
+    Take necessary corrective action when projects go off track.
+    Arranging and informing
+    Make arrangements (e.g., for meetings or travel) that fulfill all requirements as efficiently and economically as possible.
+    Inform others of arrangements, giving them complete, accurate, and timely information.
+    Ensure that others receive needed materials in time.
+    Handle all aspects of arrangements thoroughly and completely.
+    Respond to the schedules of others affected by arrangements, resolve schedule conflicts or travel issues, and take corrective action.
+    Coordinating in distributed environments
+    Coordinate schedules of colleagues, co-workers, and clients in regional locations (e.g., across time zones) to ensure that in convenience is minimized, and productivity is enhanced.
+    Leverage technology (e.g., internet, teleconference) to facilitate information sharing in distributed work environments.
+    Take advantage of team member availability throughout business hours in multiple time zones to enhance productivity.
+    Shiftwork
+    Effectively coordinate the transition of staff at the beginning and end of each work shift.
+    Disseminate crucial information in an organized manner to rapidly bring staff up to speed at the start of their shifts.
+    Ensure that staff is updated on work completed on past shifts and work that still needs to be completed.
+    Creative Thinking and Problem Solving - Applying creative-thinking skills to solve problems by generating, evaluating, and implementing solutions.
+    Identify the problem
+    Anticipate or recognize the existence of a problem.
+    Identify the true nature of the problem and define critical issues.
+    Evaluate the importance and criticality of the problem.
+    Use all available reference systems to locate and obtain information relevant to understanding the problem.
+    Recall previously learned information that is relevant to the problem.
+    Seeing the big picture
+    Understand the pieces of a system as a whole and appreciate the consequences of actions on other parts of the system.
+    Monitor patterns and trends to see a bigger picture.
+    Modify or design systems to improve performance.
+    Generate innovative solutions
+    Integrate seemingly unrelated information to develop creative processes or solutions.
+    Reframe problems in a different light to find fresh approaches.
+    Entertain wide-ranging possibilities and perspectives to develop new solutions.
+    Find new ways to add value to the efforts of a team and organization.
+    Choose a solution
+    Decisively choose the best solution after evaluating the relative merits of each possible solution.
+    Make difficult decisions even in highly ambiguous or ill-defined situations.
+    Implement the solution
+    Commit to a solution in a timely manner.
+    Develop a realistic approach for implementing the chosen solution.
+    Use strategies, tools, resources, and equipment to implement the solution.
+    Document the problem and corrective actions taken and their outcomes and communicate these to the appropriate parties.
+    Observe and evaluate the outcomes of implementing the solution to assess the need for alternative approaches and to identify lessons learned.
+    Checking, Examining, and Recording - Entering, transcribing, recording, storing, or maintaining information in written or electronic/digital format, including adaptive devices and software.
+    Obtaining data and information
+    Apply systematic techniques for observing and gathering data and information.
+    Obtain appropriate information, signatures, and approvals promptly.
+    Verify that all information is present and accurate before forwarding materials.
+    Compile, categorize, and verify information for data.
+    Detecting errors
+    Detect and correct errors or inconsistencies, even under time pressure.
+    Identify vague or ambiguous documentation.
+    Route errors to appropriate person to correct documentation.
+    Completing forms
+    Select and complete appropriate forms quickly and completely.
+    Forward or process forms in a timely and accurate manner.
+    Expedite forms, orders, or advances that require immediate attention.
+    Attend to and follow through on important items requiring action.
+    Maintaining logs, records, and files
+    Organize records and files to maintain data.
+    Keep logs, records, and files that are up-to-date and readily accessible (e.g., driver logs, flight records, repair records)in accordance with organization’s requirements.
+    Update logs, records, and files, noting important changes.
+    Working with Tools and Technology - Selecting, using, and maintaining tools and technology, including adaptive tools and technology, to facilitate work activity (with accommodation when necessary).
+    Using tools
+    Operate tools, technology, and equipment in accordance with established operating procedures and safety standards.
+    Demonstrate appropriate use of tools and technology to complete work functions.
+    Selecting tools
+    Select and apply appropriate tools or technological solutions to the problem at hand.
+    Identify potential hazards related to the use of tools and equipment.
+    Use information technology and computer applications as it supports the gathering, storage, manipulation, and transfer of data and information.
+    Keeping current on tools and technology
+    Demonstrate an interest in learning about new and emerging tools and technologies.
+    Adapt quickly to changes in process or technology.
+    Seek out opportunities to improve knowledge of tools and technologies that may assist in streamlining work and improving productivity
+    Identify sources of information concerning state-of-the-art tools, equipment, materials, technologies, and methodologies
+    Troubleshooting and maintenance
+    Develop alternatives to complete a task if desired tool or technology is not available.
+    Perform routine maintenance on tools, technology, and equipment.
+    Determine causes of errors and take the appropriate corrective action.
+    Learn how to maintain and troubleshoot tools and technologies.
+    Personal Health and Safety - Supporting a safe and healthy workplace.
+    Maintaining a healthy and safe environment
+    Take actions to ensure the safety of self and others in accordance with established personal and jobsite safety practices.
+    Anticipate and prevent work-related injuries and illnesses.
+    Comply with federal, state, and local regulations and company health and safety policies.
+    Recognize common hazards and unsafe conditions that occur at work, their risks, and appropriate controls to address them.
+    Follow organizational procedures and protocols for workplace emergencies, including safe evacuation and emergency response.
+    Maintain a sanitary and clutter-free work environment.
+    Administer first aid or CPR, if trained, and summon assistance as needed.
+    Properly handle and dispose of hazardous materials.
+    Safeguarding one’s person
+    Engage in safety training.
+    Use equipment and tools safely.
+    Use appropriate personal protective equipment.
+    Recognize how workplace risks can affect one’s life and one’s family.
+    Understand the legal rights of workers regarding workplace safety and protections from hazards.
+    Report injuries, incidents, and workplace hazards to a supervisor as soon as safely possible.
+    Contribute to discussions of safety concerns in the workplace, making suggestions as appropriate.
+    Preventive health, safety or environmental inspections
+    Understand the elements and procedures related to inspections.
+    Audit of records and documentation
+    Documentation of inspection findings
+    Inspection of emergency response protocols
+    Inspection of fire protection and control
+    Sustainable Practices - Meeting the needs of the present without compromising the ability of future generations to meet their own needs.
+    Minimizing environmental impact
+    Use equipment, processes, and systems that minimize waste, improve efficiency, and reduce resource use, (e.g., reuse and recycle).
+    Operate with a triple bottom line, emphasizing financial profitability, environmental integrity, and corporate social responsibility.
+    Understand life cycle analysis - the environmental and economic effects of a product at every stage of its existence, from extraction of materials through production to disposal and beyond.
+    Suggest and/or implement continuous improvement actions.
+    Safeguard the public interest.
+    Ensure equipment and systems are designed to minimize environmental impact.
+    Seek to upgrade processes beyond pollution control to pollution prevention.
+    Utilize advances in science and technology to upgrade levels of efficiency and environmental protection.
+    Complying with standards, laws, and regulations
+    Comply with federal, state, and local laws, regulations, and policies related to environmental impact.
+    Use sustainable business practices consistent with ISO 14001 International Environmental Management Guidance.
+    Industry Wide - Advanced Manufacturing Competencies
+    Manufacturing Process Design/Development - Research design, implement, and continuously improve the manufacturing process to ensure product meets customer needs.
+    Critical Work Functions
+    Support manufacturing process design and development.
+    Design production and production support systems.
+    Create and apply technology to control production and process functions.
+    Develop functional specifications for the design and development of control
+    Communicate about and respond to requirements of internal and external cust
+    Interpret and clarify customer expectations and product specifications.
+    Technical drawings and schematics
+    Computer-aided Design (CAD) drawing fundamentals
+    Geometric dimensions and tolerances
+    Interpretation of drawings and schematics
+    Print reading
+    Engineering Concepts
+    Chemical Engineering
+    Computer Engineering
+    Electrical Engineering
+    Mechanical Engineering
+    Technology Applications
+    Integrated Graphics Technologies
+    Machining and Forming Technologies
+    Micro and Nano Technologies
+    Alternative Energies Technologies
+    Design lifecycle and Concepts
+    Design for "X” (design within constraints)
+    Development of prototype processes and products
+    Support systems design and development
+    System design, development, testing, and costing
+    Utilization and Support
+    Development lifecycle
+    Commissioning
+    Field and Input/Output (IO) installation checks
+    Loop checks
+    Calibration
+    Validation
+    Punchlist
+    Maintenance Management System updates
+    Testing/Troubleshooting
+    Advanced Fault Finding Skills on Actual Equipment
+    Data analysis and verification
+    Data interpretation and corrective action implementation
+    Statistical process control
+    Research and development fundamentals
+    Product R&D
+    Process R&D
+    Production System Design and Development
+    Equipment/Tool Design and Development
+    Product Realization
+    Intellectual property protection
+    Human subject protection
+    Market/sales/life cycle analysis
+    Research and design procedures
+    Workflow Assessment
+    Documentation of fault-finding
+    Ergonomic simulation and assessment of tasks
+    Manufacturing/processing concept planning
+    Mixed model line balancing
+    Plant layout planning and analysis
+    Plant design optimization
+    Walk-path assembly planning
+    Work flow simulation
+    Procedure analysis and verification
+    Resource planning
+    Workloads on multiple stations
+    Configuration functionality
+    Process Simulation Tools e.g. Die Press Lines, Manufacturing Lines
+    Operations Management - Set up, operate, monitor, control, and improve manufacturing processes and schedules to meet customer requirements.
+    Critical Work Functions
+    Name the various manufacturing types, processes, and products.
+    Describe the manufacturing business as a system that integrates multiple disciplines, processes, and stakeholders.
+    Manage raw materials/consumables.
+    Operate and control production/lab equipment.
+    Perform manufacturing process applications and operations.
+    Develop industrial production/process plans and documentation.
+    Support the operation and control of production/process equipment
+    Monitor industrial processes and systems.
+    Manage continuous improvement process.
+    Manage raw materials/consumables/outputs.
+    Perform industrial process applications and operations.
+    Systems
+    Linkages among mechanical, hydraulic/pneumatic, electrical, control, computer, and other types of processes and components
+    Linkages among project, technical, and business objectives
+    Interdependence of teams, work units, departments, organizations, interorganizational systems, and the larger environment
+    Production Materials - Sources and Types
+    Precision measurement
+    Manual tool and equipment operations
+    Basic automated systems and control operations
+    Automated equipment
+    Automated systems
+    Computer control
+    Hydraulics and pneumatics
+    Robotics
+    Process control
+    Analytical Testing
+    Basic manufacturing process applications and operations
+    Assembly Processes
+    Fabrication Processes
+    Electrical/electronics manufacturing processes
+    Bulk/continuous flow/line balancing processes
+    Finishing Processes
+    Clean room processes
+    Experiment design/implementation processes
+    Implementation of approved protocols
+    Material removal processes
+    Hot and cold forming processes
+    Casting, molding, and stamping processes
+    Heat treatment processes
+    Joining, welding, and assembly processes
+    Direct digital and additive manufacturing
+    Industrial Productions and Process Basics
+    Industrial Process (continuous or batch) – processing, transporting or conveying liquids, gases, or goods in pipes or on conveyers (e.g., chemicals, refining, brewing, smelting, utilities, pharmaceutical manufacturing).
+    Balancing
+    Continuous flow
+    Fermentation
+    Filtration
+    Mixing
+    Reaction
+    Recovery
+    Separation – Distillation, etc.
+    Basic discrete, sequencing, and manufacturing control
+    Motor and drive control
+    Motion control
+    Advanced control
+    Manufacturing Types
+    Process (e.g. chemicals, refining, brewing, smelting, utilities, pharmaceutical manufacturing)
+    Process Overview Knowledge
+    Discrete Manufacturing – the manufacture, assembly, or handling of individual parts (e.g., automotive, heavy equipment, aircraft, aerospace, consumer goods).
+    Assembly
+    Fabrication
+    Finishing
+    Hybrid manufacturing – the packaging or bottling of manufactured goods (e.g., food, beverage packaging, printing, consumer packaging, pharmaceutical packaging).
+    Bottling
+    Packaging
+    Finished goods handling and storage
+    Electrical/Electronics Manufacturing Processes
+    Production/process monitoring
+    Calibration
+    Process troubleshooting
+    Controlling process flow
+    Documentation and reporting
+    Environmental parameters
+    Instrumentation
+    Performance of analytical tests
+    Time, materials, and costs
+    Industrywide standards
+    Documentation of Measurement and Control Instruments and Systems (ISA 5)
+    Enterprise/Control Integration (ISA 95)
+    Manufacturing and Control Systems Security (ISA 99)
+    Project management and execution
+    Contracts
+    Material and resource management
+    Operation training
+    Personnel management methods
+    Project lifecycle
+    Project management tools and techniques
+    Write/Execute Protocols
+    Organizational Design and Management
+    Human Behavior/Motivation/Leadership
+    Maintenance, Installation, and Repair - Maintain and optimize manufacturing equipment and systems.
+    Critical Work Functions
+    Support the installation, customization, or upgrading of equipment.
+    Coordinate preventive maintenance to ensure production or industrial process runs smoothly.
+    Identify, diagnose, and/or repair equipment problems.
+    Communicate with others to ensure maintenance and repairs meet operational needs.
+    Demonstrate hands-on knowledge of equipment operations.
+    Maintain equipment, tools, and workstations.
+    Utilize predictive maintenance techniques
+    Explain maintenance impact on critical operations.
+    General Skills
+    Basic disassembly/assembly skills
+    Installation of parts for industrial equipment
+    Equipment/system/defect management
+    Installation and calibration of instrumentation
+    Schematic drawings and control documents
+    Use of hand tools
+    Design and document equipment/system/process improvements
+    Use of hardware and software tools
+    Machining skills
+    Drilling
+    Cutting
+    Milling
+    Lathing
+    Welding
+    Plating
+    Maintenance, installation, and repair skills
+    Electrical/electronic systems
+    Hydraulic/pneumatic systems
+    Mechanical systems
+    Mechanical power transmission systems
+    Piping operations
+    Networking and communications systems
+    Programmable/configurable systems
+    High vacuum systems
+    Laser systems
+    Machine automation systems
+    Lubrication processes
+    Bearings and couplings
+    Belt drives and chain drives
+    Computer Systems
+    Process Controls
+    Pump Systems
+    Thermal Systems (HVAC)
+    Refrigeration Systems
+    Separation/Heat Exchange Systems
+    Water Treatment/Destruction Systems
+    High Voltage/Utility Systems
+    Programmable Logic Controlled Industrial Equipment
+    Reliability and maintainability
+    Analysis of failure data
+    Root cause analysis
+    Basic reliability models
+    Documentation requirements
+    Investigative techniques
+    Alarm and event analysis
+    Clean room protocol for maintenance - Cleanroom protocol,  techniques and workmanship when performing equipment maintenance
+    Hand tools clean room protocol
+    Electrical clean room protocol
+    Pneumatic clean room protocol
+    Hydraulic clean room protocol
+    Mechanical clean room protocol
+    Quality Assurance and Continuous Improvement - Ensure product and process meets quality system requirements as defined by customer specifications.
+    Critical Work Functions
+    Confirm materials, processes, and final product meet quality specifications.
+    Support and maintain quality systems.
+    Monitor production for product and process quality.
+    Employ audits and inspections to maintain the quality and continuous improvement process
+    Correct the product and process to meet quality standards.
+    Suggest and/or implement continuous improvement actions.
+    Apply and analyze basic concepts associated with measuring quality.
+    Implement controls to support quality management.
+    Use quality management to ensure quality levels.
+    Seek new approaches and techniques to improve quality levels.
+    Quality Assurance
+    Industry standards
+    Meeting customer needs
+    Quality management systems and tools
+    Improving quality
+    Statistical process control
+    Sampling and charting
+    Problem solving tools
+    Pareto
+    Fishbone
+    Cause-effect
+    Control chart
+    Force field diagram
+    Trend chart
+    Flow Diagram
+    Histogram
+    5 Whys
+    Inspecting for quality
+    Inventory
+    Raw/incoming materials
+    In-process product
+    Final products
+    Principles of lean manufacturing
+    Quality Assurance Audits
+    Audit procedures
+    ISO 9000
+    Continuous improvement
+    Business process reengineering
+    System analysis
+    Data analysis
+    Performance improvement strategies
+    Corrective and preventive actions
+    Documentation creation
+    Eliminating Non-conformities
+    Verification and documentation
+    Benchmarking and best practice
+    Probability & statistics /Statistical process control methods
+    Acceptance sampling
+    Capability analysis
+    Factor analysis
+    Inspection/test/validation
+    Reliability analysis
+    Measurement uncertainty and dead time
+    Data analysis and presentation
+    Facilitation and data visualization
+    Query-based  computer skills
+    Process and Equipment Health, Safety, and Environment - Equipment, practices, and procedures which promote a healthy, safe, and secure work environment.
+    Critical Work Functions -
+    Conduct health, safety, and/or environmental incident and hazard investigations.
+    Conduct preventive health, safety, and/or environmental incident and hazard inspections.
+    Confirm that equipment is being used safely.
+    Comply with local, federal, and company health, safety, and environmental regulations.
+    Identify unsafe or insecure conditions and take corrective action.
+    Implement continuous improvement in health, safety, security, and/or environmental practices.
+    Continuous improvement in health, safety, security, and environment
+    Health/safety/security/environmental data
+    Projects and priorities
+    Root cause analysis
+    Environmental protection/waste management
+    Chemical hazard assessment
+    Design to minimize environmental impact
+    Investigations for health, safety, security, or environmental incidences/hazards
+    Developing corrective actions
+    Documentation of findings
+    Follow-up investigation
+    Insurance (property)
+    Violations reports to proper authorities
+    Workers compensation
+    Preventive health, safety, or environmental inspections
+    Records and documentation audits
+    Inspections
+    Clean room protocol
+    Inspection findings documentation
+    Emergency response preparedness
+    Fire protection and control
+    Regulations
+    Hazardous Material Communication (HAZCOM)
+    Hazardous Material Handling and Disposal (HAZMAT)
+    Hazardous Material Information System Labeling and Storage (HMIS)
+    Office of Homeland Security System and Physical Security Regulations (US only)
+    Regulations governing safe use of equipment
+    Role of the Occupational Safety and Health Administration (OSHA), the Environmental Protection Administration (EPA), or other appropriate regulatory bodies in the workplace (US only)
+    Trade Compliance Department of Commerce (US only)
+    Standards
+    International Environmental Management Guidance (ISO14001)
+    International Information Security Management Guidance (ISO27001)
+    Safety procedures
+    Confined spaces
+    Open spaces - raised tile floor
+    Ladder safety - working with heights
+    First aid or first response procedures
+    Hazard assessment in material, equipment, and fixtures
+    Lock/tag out practices
+    Material Safety Data Sheets (MSDS)
+    Shop emergencies response
+    Safe facility evacuation
+    Safe material movement
+    Safe, prescribed equipment and tools operation
+    Use, maintenance, and inspection of machine safeguards
+    Use of safety equipment
+    Additional knowledge
+    Life safety code/National Fire Protection Association 101
+    Engineering principles for safety
+    Production in the Supply Chain/Supply Chain Logistics - Plan and monitor the movement and storage of materials and products in coordination with suppliers, internal systems, and customers.
+    Critical Work Functions
+    Express promotion and selling strategies.
+    Identify and pursue prospective customers and appropriate customer groups.
+    Monitor customer preferences to determine focus of sales efforts and services that satisfy customer needs.
+    Emphasize and promote features in marketing or sales.
+    Assist in the selection of services based on the match between customer needs and product or service specifications.
+    Inform customers regarding service contracts, offered services, estimated cost, delivery of services, and any other information regarding the purchase of services.
+    Resolve customer complaints regarding sales or services promptly and to the satisfaction of the customer.
+    Manage purchasing and just-in-time materials flow, shipping and receiving, packaging and transportation.
+    Control inventory of materials and products.
+    Develop and maintain production/delivery schedules and supplier networks.
+    Automated material handling
+    Automated material handling and distributed systems
+    Integrated supply chain information technology
+    Awareness of global impacts
+    Global supply chain logistics life cycle
+    Intellectual property
+    Taxes and duties
+    Shipping, receiving, and freight
+    Customs and export control (legal aspects)
+    Detailed scheduling and planning
+    Techniques of inventory management
+    Detailed material planning
+    Executing Operations
+    Procurement and external source of supply
+    Prioritizing and sequencing work
+    Executing plans and implementing controls
+    Evaluating performance of operations
+    Ergonomics
+    Sharing and collaboration across the supply chain
+    Managing Inventory
+    Inventory forecasting
+    Ordering materials and supplies
+    Inventory monitoring and audits
+    Stock rotation requirements
+    Expediting
+    Packaging and distributing product
+    Packaging product
+    Labeling product - Inventory tags and Bar codes
+    Warehouse management systems
+    Transportation methods
+    Customs and export control (basic paperwork)
+    Production Systems
+    Change orders, bills of material, work orders, etc.
+    Lead and cycle time
+    Resources planning
+    Demand management
+    Sales and operations planning
+    Master scheduling
+    Measuring business performance
+    Basics of supply-chain management
+    Elements of the supply chain
+    Just-in-time/Lean manufacturing
+    Supply-Chain Management
+    Manufacturing resources planning, Duplicate - 4.4.16.8
+    Collaborative, planning, forecasting, and replenishment
+    Vendor managed inventory systems, Duplicate - 4.4.16.9
+    Centralized versus decentralized control
+    E-business and direct shipment
+    Cost of goods sold (COGS) real time
+    Value cost analysis
+    Work flow
+    Material handling
+    Plant facility and capacity
+    Production Scheduling
+    Lot control
+    QA release
+    Sector - Microelectrionics Manufacturing Competencies
+    Demonstrating Working Knowledge of Basic Electronic Principles
+    Given an equipment training device and a digital multi-meter, measure voltage, current and resistance
+    Given series and parallel circuits schematics, analyze series and parallel circuits containing resistors, inducters and capacitance
+    Given a digital circuit with schematic, frequency counter (or equivalent) and logic analyzer, analyze digital circuit
+    Given a circuit with semiconductor components (e.g., diodes, SCRs, triacs) and schematic, analyze semiconductor circuit
+    Given an analog circuit with schematic and an oscilloscope, analyze analog circuit
+    Given a list of major functional blocks (microprocessor, input, output and storage), analyze microprocessor system
+    Given a variety of sensors and transducers, analyze devices for proper operation and calibration
+    Given A/D and D/A converters, analyze devices for proper operation and calibration
+    Operating Equipment
+    Given ESD protection devices, observe ESD precautions for product and equipment components
+    Given appropriate instructions and minimal assistance, maintain chemical and gas delivery and disposal systems
+    Given a (semiconductor) equipment training device, specified parameters and minimal assistance, qualify manufacturing equipment (by adjusting, calibrating and testing)
+    Given an (semiconductor)equipment training device, specified parameters and minimal assistance, operate manufacturing equipment
+    Given a set of scenarios of equipment performance, identify (semiconductor) equipment inaccuracy
+    Given an (semiconductor)equipment training device in and out of control or malfunctioning mode and a troubleshooting procedure, troubleshoot manufacturing equipment
+    Processing Wafers
+    Given actual or simulated processing equipment, ergonomic constraints, instructional and minimal supervision, adhere to wafer handling and manufacturing procedures
+    Given a list of the major steps in the manufacturing process and a list of purposes of each, recognize the steps in the wafer manufacturing process
+    Given a list of the major process equipment and a list of functionality, recognize the function of process equipment
+    Given actual or simulated process equipment, measurement tools (e.g., nanospec, resistivity) and procedures, measure process metrics
+    Troubleshooting and Repairing Vacuum Systems
+    Given specific terminology used in vacuum technology, be able to define the vacuum terms
+    Given one list of vacuum pumps and gauges and another list of descriptions of roughing and ultrahigh vacuum operational uses, describe the operation of vacuum pumps and gauges
+    Given a vacuum training device, tools, materials, supplies, manual and minimal assistance, demonstrate cleanroom-approved workmanship skills when installing vacuum pumps and gauges according to manufacturer's specifications
+    Given a vacuum training device, PM procedure and minimal assistance, maintain vacuum system
+    Given a vacuum training device and list of vacuum components (e.g., valves, fittings, etc.), identify vacuum components
+    Given a list of materials and their specifications (including vapor pressure) and the specifications required of the vacuum system, identify material for use in vacuum systems
+    Given a vacuum training device, procedures, leak detector, residual gas analyzer and supervision, conduct vacuum diagnosis (using a vacuum diagnostic system) , according to procedure
+    Given vacuum equipment and the reference manual, follow specific safety practices when working around the vacuum system
+    Troubleshooting and Repairing RF Systems
+    Given a list of terms used in the semiconductor industry, e.g., RF match theory, impedance matching, RFI, and shielding, explain the purpose of each
+    Given a list of major subsystems of an RF generator and a list of functionality, recognize the functions of the following RF subsystems - Oscillators, amplifiers, filters and coupling circuits
+    Given a list of circuitry used in RF generators, explain the purpose of the following RF generator circuits - buffer, control driver, output power and auto match
+    Given a list of RF requirements, coaxial cables, AC ground and DC ground, identify for RF connections and cabling
+    Given a list of RF troubleshooting equipment including oscilloscopes, spectrum analyzer, frequency counter, power meter, dummy load and directional coupler, identify RF equipment purpose and proper use
+    Given a training RF system, demonstrate safety practices when working around the RF system
+    Operating Remote Systems
+    Given a block diagram of a liquid heat exchanger, describe the function of the heat exchanger
+    Without references, recall the reason to use DI water in semiconductor manufacturing
+    Given a list of major components (e.g., bulk storage, pumps, piping, gas interface box, controller, sensors, flow lines, mass flow controllers), identify cause and effects problems with the gas delivery system
+    Given a block diagram of a refrigeration system and a list of equipment functions, identify cause and effects of problems with gas delivery system
+    Given a list of components (e.g., bulk storage, pumps, piping, valves, sensors, regulators), identify cause and effects of problems withing the delivery system
+    Implementing Manufacturing Technology and Techniques
+    Given appropriate instructions and minimal assistance, maintain chemical and gas delivery and disposal systems
+    Adhering to Basic Safety Practices
+    Given actual or simulated wafer fab manufacturing equipment, manufacturing scenarios in electrical, chemical, RF, high voltage and gas environments and minimal assistance, identify potential hazards and follow specified safety practices
+    Given wafer fab manufacturing scenarios, OSHA standards and no assistance, apply appropriate OSHA standards to the scenario
+    Given a sample MSDS sheet for a common chemical used in the semiconductor industry, explain common terms found on MSDS forms, e.g., physical data, reactivity, storage, toxicity, health effects, first aid, etc.
+    Without references or assistance, describe the purpose and list common responsibilities of the emergency response team
+    Applying Scientific Fundamentals
+    Given a list of balanced chemical reactions and a list of descriptions of processes that may include the name of the chemical (but not the formula), match the reaction to a specific semiconductor process
+    Given a list of chemicals found in a wafer fab, explain fundamental behavior as that of an acid, base or solvent
+    Given a specific type of photolithography tool, describe the rationale for the choice of light source, identify the regions of the spectrum, and define the features that control resolution of the system
+    Given a semiconductor process (e.g., etch, deposition, sputtering), write descriptions of the chemical interactions that take place during the process
+    Given a transducer, sensor or measurement device used in semiconductor process equipment, write a description of the operation, troubleshooting and maintenance of the device

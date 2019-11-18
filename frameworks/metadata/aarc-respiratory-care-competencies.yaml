@@ -1,0 +1,232 @@
+framework_id: "24a46ca3-d9f0-5121-9f81-c2bcf9bd4311"
+framework_name: "AARC Respiratory Care"
+framework_description: "Competencies for Entry into Respiratory Therapy Practice \n \nExecutive Summary \n \nIn 2015, the Taskforce on Competencies for Entry into Respiratory Therapy Practice was charged with using data from the 2015 and Beyond conferences, and later sub-groups, to determine the competencies needed by respiratory care practitioners who are entering into respiratory care professional practice. Members of the taskforce included representatives from the American Association for Respiratory Care (AARC), Commission on Accreditation for Respiratory Care, and National Board for Respiratory Care, along with liaisons from the three entities that were non-voting members. The taskforce reported an analysis and evaluation of all competencies and when these competencies should be acquired, either before or after entry into professional practice, as determined by the taskforce. The AARC Board of Directors approved this report in October 2016.\n "
+framework_uri: "https://www.nbrc.org/wp-content/uploads/2019/02/Therapist-Multiple-Choice-DCO-NBRC-website-effective-1-2015.pdf"
+source_path: "./frameworks/respiratory-care-competencies.xls"
+provider: "aarc"
+text_block: |-
+    Area I: Collection of Diagnostic Information
+    A. Pulmonary Function Technology
+    1. Perform basic spirometry, including adequate coaching, recognition of improperly performed maneuvers, corrective actions, and interpretation of test results.
+    2. Compare and evaluate indications and contraindications for advanced pulmonary function tests (plethysmography, diffusion capacity, esophageal pressure, metabolic testing, and diaphragm stimulation) and be able to recognize normal/abnormal results.
+    B. Sleep
+    1. Compare and evaluate the indications and contraindications for sleep studies.
+    2. Explain results in relation to types of respiratory sleep disorders.
+    C. Invasive Diagnostic Procedures
+    1. Identify and distinguish the indications, contraindications, and general hazards, complications in preparation, performance, and post care of bronchoscopic procedures.
+    2. Describe the role of a respiratory therapist in diagnostic bronchoscopy procedures.
+    3. Monitor and evaluate the patient’s clinical condition with pulse oximetry, electrocardiogram, exhaled gas analysis, and other related diagnostic devices.
+    4. Perform arterial and venous sampling for blood analysis.
+    Area II: Disease Management
+    A. Management of Chronic Diseases
+    1. Understand the etiology, anatomy, pathophysiology, diagnosis, and treatment of cardiopulmonary diseases (e.g., asthma, chronic obstructive pulmonary disease) and comorbidities.
+    2. Communicate and educate to empower and engage patients.
+    Develop, administer, and re-evaluate patient care plans to establish specific desired goals and objectives.
+    Develop, administer, and re-evaluate patient care plans to assess level of patient understanding.
+    Develop, administer, and re-evaluate patient care plans to anticipate the effects of pharmacologic agents on organ systems within scope of respiratory care.
+    Develop, administer, and re-evaluate patient care plans to identify the patient/caregiver’s need for psychosocial, emotional, physical, or spiritual support.
+    Develop, administer, and re-evaluate patient care plans to educate about nutrition, exercise, wellness.
+    Develop, administer, and re-evaluate patient care plans to assess and modify the environment.
+    Develop, administer, and re-evaluate patient care plans to conduct monitoring and follow-up evaluation.
+    Develop, administer, and re-evaluate patient care plans to  develop action plans.
+    Develop, administer, and re-evaluate patient care plans to apply evidence-based medicine, protocols, and clinical practice guidelines.
+    Develop, administer, and re-evaluate patient care plans to monitor adherence through patient collaboration and empowerment, including proper and effective device and medication utilization.
+    Develop, administer, and re-evaluate patient care plans to. implement and integrate appropriate patient-education materials and tools.
+    Develop, administer, and re-evaluate patient care plans toutilize appropriate diagnostic and monitoring tools.
+    Develop, administer, and re-evaluate patient care plans to document and monitor outcomes (economic, quality, safety, patient satisfaction).
+    Develop, administer, and re-evaluate patient care plans to communicate, collaborate, and coordinate with physicians, nurses, and other clinicians.
+    Develop, administer, and re-evaluate patient care plans to assess, implement, and enable patient resources support system (family, services, equipment, personnel).
+    Develop, administer, and re-evaluate patient care plans to ensure financial/economic support of plan/program and related documentation.
+    Develop, administer, and re-evaluate patient care plans to educate on dyspnea management and energy conservation.
+    B. Management of Acute Diseases
+    1. Develop, administer, evaluate, and modify respiratory care plans in the acute-care setting, using evidence-based medicine, protocols, and clinical practice guidelines.
+    2. Communicate and educate to empower and engage patients.
+    Management of Acute Diseases
+    Develop, administer, evaluate, and modify respiratory care plans in the acute-care setting, using evidence-based medicine, protocols, and clinical practice guidelines.
+    Communicate and educate to empower and engage patients.
+    Area III: Evidence-Based Medicine and Respiratory Care Protocols
+    A. Evidence-Based Medicine
+    1. Retrieve credible sources of evidence.
+    2. Critique published research
+    3. Explain the meaning of general statistical tests.
+    4. Apply evidence-based medicine to clinical practice.
+    B. Respiratory Care Protocols
+    1. Explain the use of evidence-based medicine in the development and application of hospital- based respiratory care protocols.
+    2. Evaluate and treat patients in a variety of settings, using the appropriate respiratory care protocols.
+    Area IV: Patient Assessment
+    A. Patient Assessment
+    1. Complete the assessment through direct contact, chart review, and other means as appropriate and share the information with healthcare team members.
+    2. Obtain medical, surgical, and family history.
+    3. Obtain social, behavioral, and occupational history, and other historical information incident to the purpose of the current complaint.
+    B. Diagnostic Data
+    1. Review and interpret pulmonary function studies (spirometry) and pulse oximetry.
+    2. Review and interpret lung volumes and diffusion studies.
+    3. Review and interpret arterial blood gases, electrolytes, complete blood cell count, and related laboratory tests.
+    Physical Examination
+    1. Inspect the chest and extremities to detect deformation, cyanosis, edema, clubbing, and other anomalies.
+    2. Measure vital signs (blood pressure, heart rate, respiratory rate).
+    3. Evaluate patient breathing effort, ventilatory pattern, and use of accessory muscles.
+    4. Measure and document oxygen saturation with oximetry under all appropriate conditions (with or without oxygen at rest and during sleep, ambulation, and exercise).
+    V: Leadership
+    Team Member
+    1. Collaborate as a healthcare team member as it relates to planning, decision making and other team functions.
+    Healthcare Regulatory Systems
+    1. Identify regulatory requirements that impact the healthcare system.
+    Written and Verbal Communication
+    1. Demonstrate effective written and verbal communication with various members of the healthcare team, patients, families, and others (cultural competence and literacy).
+    Healthcare Finance
+    1. Demonstrate basic knowledge of healthcare and financial reimbursement systems and the need to reduce the cost of delivering respiratory care.
+    Team Leader
+    1. Identify the roles of a team leader.
+    VI: Emergency and Critical Care
+    Emergency Care
+    1. Perform basic life support (BLS), advanced cardiovascular life support (ACLS) according to American Heart Association (AHA) guidelines.
+    2. Perform pediatric advanced life support (PALS) according to American Heart Association (AHA) guidelines and neonatal resuscitation program (NRP) according to the American Academy of Pediatrics.
+    3. Maintain knowledge and skills necessary to retain certification as per associated guidelines as stated above.
+    4. Perform endotracheal intubation.
+    5. Perform as a member of the rapid response team (medical emergency team).
+    6. Participate in mass-casualty staffing to provide airway management, manual and mechanical ventilatory life support, medical gas administration, aerosol delivery of bronchodilators and other agents in the resuscitation of respiratory and cardiovascular failure.
+    7. Provide intra-hospital transport of critically and chronically ill patients.
+    8. Provide cardiopulmonary life support and airway control during transport.
+    9. Apply knowledge of emergency pharmacology.
+    10. Demonstrate ability to recommend use of pharmacotherapy.
+    B. Critical Care
+    1. Apply to practice knowledge and analysis of invasive and noninvasive mechanical ventilators.
+    2. Apply to practice all ventilation modes currently available on invasive and noninvasive mechanical ventilators, and as adjuncts to the operation of modes.
+    3. Interpret ventilator data and hemodynamic monitoring data.
+    4. Manage monitoring system.
+    5. Manage airway devices.
+    6. Make treatment recommendations based on waveform graphics, pulmonary mechanics, and imaging studies.
+    7. Apply knowledge, and analysis of use of therapeutic medical gases.
+    8. Identify indications for circulatory gas exchange devices.
+    9. Collaborate with other professionals in care management built upon evidence-based medicine and clinical protocols.
+    10. Deliver therapeutic interventions based on evidence-based medicine and clinical protocols.
+    Area VII: Assessment of Therapeutics
+    A. Assessment of Need for Therapy – Assesses the need for therapies in all patient settings.
+    1. Medical gas therapy
+    2. Humidity therapy
+    3. Aerosol therapy
+    4. Lung expansion therapy
+    5. Airway clearance therapy
+    6. Airway management
+    7. Mechanical ventilation
+    B. Assessment Prior to Therapy
+    1. Review order and/or implement protocol.
+    2. Review patient history, laboratory results, and imaging data.
+    3. Determine indications/contraindications for therapy.
+    4. Interview and conduct physical examination of patient.
+    5. Determine appropriateness of order.
+    6. Determine need for physician intervention.
+    C. Administration of Therapy
+    1. Select and assemble equipment.
+    2. Apply and administer therapy.
+    3. Monitor patient’s response to therapy.
+    4. Instruct patient on proper technique.
+    5. Recognize and rectify equipment malfunction (troubleshooting).
+    6. Follow Standard Precautions for infection control.
+    D. Evaluation of Therapy
+    1. Recognize complications and respond to adverse effects.
+    2. Recommend therapy modifications.
+    3. Assess therapy effectiveness.
+    4. Document therapy.
+    Area VIII: Application of Therapeutics to Respiratory Care Practice
+    A. Medical Gas Therapy – Apply knowledge, understanding, and troubleshooting
+    delivery systems in all patient settings
+    1. Evaluate compressed gas cylinders.
+    2. Evaluate regulators and flow meters.
+    3. Evaluate liquid-oxygen systems (stationary and portable).
+    4. Evaluate oxygen concentrators (stationary and portable).
+    5. Evaluate oxygen conserving devices.
+    6. Evaluate high-flow air-entrainment systems.
+    7. Evaluate oxygen and air-flow-meter mixing systems.
+    8. Evaluate air/oxygen blenders.
+    9. Evaluate hyperbaric oxygen systems.
+    10. Evaluate sub-ambient oxygen delivery systems (neonatal only).
+    11. Evaluate nasal cannulas.
+    12. Evaluate high-flow nasal cannulas.
+    13. Evaluate non-reservoir masks.
+    14. Evaluate reservoir masks.
+    15. Evaluate air-entrainment masks.
+    16. Evaluate hood/head-enclosures
+    17. Evaluate transtracheal oxygen
+    18. Evaluate nitric oxide therapy.
+    19. Evaluate helium/oxygen therapy.
+    B. Humidity Therapy – Apply knowledge,  understanding, and troubleshooting skills to humidity therapy systems in all patient settings
+    1. Evaluate unheated passive humidifiers.
+    2. Evaluate active and passive heat-and-moisture exchangers (HMEs).
+    3. Evaluate heated humidifiers for medical gas delivery systems via mask, tracheal catheter, and artificial airways
+    C. Aerosol Therapy – Apply knowledge,  understanding, and troubleshooting skills to aerosol systems in all patient settings.
+    1. Evaluate non-medicated, large-volume nebulizers, heated and unheated.
+    2. Evaluate for delivery of medication. a. small-volume nebulizers, intermittent, breath-actuated, nebulizers for bronchial testing
+    3. Evaluate nebulizers for continuous nebuization
+    4. Evaluate pressurized metered-dose inhalers.
+    5. Evaluate dry-powder inhalers.
+    6. Evaluate competency in pharmacology  nomenclature, physiologic action, adverse effects, and doses. Adrenergics anticholinergics, cholinergics decongestants mucolytics pulmonary vasodilators antimicrobials
+    7. Evaluate peak expiratory flow meters and inspiratory
+    8. Calculation and modification of drug dosing.
+    D. Therapy – Apply knowledge, understanding, and equipment in all patient settings.
+    1. Evaluate incentive spirometers (flow-based and  volume-based).
+    2. Evaluate continuous positive airway pressure (CPAP)
+    3. Evaluate expiratory positive airway pressure (EPAP)
+    4. Evaluate bi-level positive-pressure breathing.
+    5. Evaluate positive expiratory therapy (PEP).
+    6. Evaluate oscillatory positive expiratory therapy
+    7. Evaluate intermittent positive-breathing devices.
+    8. Evaluate bag-value-mask devices.
+    E. Airway Clearance Therapy
+    1. Evaluate proper positioning for bronchial drainage.
+    2. Evaluate chest percussion: manual and mechanical percussors.
+    3. Evaluate positive airway pressure adjuncts (vibratory and non-vibratory PEP).
+    4. Evaluate expiratory positive airway pressure (EPAP)
+    5. Evaluate external chest-wall-vibration devices.
+    6. Describe the role of a respiratory therapist in therapeutic  bronchoscopy.
+    7. Evaluate high frequency positive pressures devices.
+    8. Autogenic drainage.
+    9. Cough-assist device (insufflator-exsufflator).
+    F. Airway Management- Apply knowledge, understanding and troubleshooting skills using airway management in all patient settings.
+    management in all patient settings.
+    1. Perform the head-tilt chin-lift airway-opening maneuver.
+    2. Perform the jaw lift without head extension maneuver.
+    3. Evaluate the use for an oropharyngeal airway.
+    4. Evaluate the use for a nasopharyngeal airway.
+    5. Evaluate the use of a bag-valve-mask resuscitator.
+    6. Evaluate the use of a laryngeal mask airway (LMA).
+    7. Evaluate the need and use of oral and nasal endotracheal tubes.
+    8. Evaluate the need and use of a tracheostomy tube.
+    9. Evaluate the need and use of a tracheostomy “button” or valve.
+    10. Evaluate and advise for the discontinuance or change to alternative airway based assessment/protocols.
+    11. Evaluate the need and use of tracheostomy tubes (competency in advising decannulation to alternative airway based on assessment/protocols).
+    12. Evaluate the need and use of tracheostomy “button” or valve
+    13. Assist physician in placing surgical or percutaneous tracheostomy tube.
+    14. Suction via artificial airway, operate suction system, select suction catheter.
+    G. Mechanical Ventilation
+    1. Incorporate the mechanical ventilation principles listed in critical care.
+    2. Evaluate the need and use of CPAP devices.
+    3. Evaluate the need and use of bi-level positive airway pressure devices.
+    4. Evaluate the need and use of noninvasive-ventilation interfaces: nasal mask, mask, full-face mask, and helmet.
+    Area IX. Post-Acute Care
+    A. Patient Assessment
+    1. Assess physical-vital signs, functional capacity.
+    2. Assess cognitive-level of comprehension, reading level, language barriers.
+    3. Evaluate social support system-recognition of anxiety, depression, signs of abuse
+    of and ability to access community resources.
+    B. Environmental Assessment
+    1. Evaluate the home environment for appropriateness of prescribed therapy and  identify risk factors.
+    2. Educate on oxygen safety to include, but not limited to the presence of fire extinguishers, detectors, smoking cessation, evacuation routes, open flames.
+    3. Educate on fall safety to include clutter, proper floor surfaces, and adequate lighting.
+    4. Medication error identification.
+    5. Educate on infection prevention by disinfecting home medical equipment.
+    6. Identify and discuss electrical safety (e.g., use of power cords/strips, fuses).
+    7. Identify and discuss structural barriers (e.  lack of running water, weak floors, and stairs).
+    C. Therapeutic
+    1. Evaluate limitations that exist with equipment
+    2. Recommend care plan modifications by  recognizing additional needs that exist (e.g., bathroom safety, wheelchairs, electric beds, portable supplemental oxygen delivery systems).
+    D. Unique Equipment and Monitoring Software
+    1. Initiate patient monitoring equipment and monitors, pulse oximetry, ETC02).
+    2. Apply to practice ventilation modes currently  available on ventilators used in the post-acute care setting, invasively and non-invasively.
+    3. Interpret data available on post-acute care ventilators as well as CPAP/Bi-level devices.
+    4. Integrate compliance data monitoring respiratory  devices remotely
+    E. Health Policy
+    1. Adhere to regulatory requirements (e.g.,, FDA, Hazmat)
+    2. Demonstrate knowledge of reimbursement and supplies based on payer criteria.
+        
