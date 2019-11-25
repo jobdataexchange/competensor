@@ -5,7 +5,7 @@ Competensor is an open source efficient library for cross-level semantic matchin
 This is reference quality code. If you would like help getting this running please reach out to engineering@brighthive.io or open an issue here on github.
 
 # JDX
-This was developed and used in conjunction with JDX API which is a JobSchema+ creation API. Parts of competensor are currently tightly coupled and depend on JDX API to be running and making calls.
+This was developed and used in conjunction with JDX API which is a JobSchema+ creation API. Parts of competensor are currently tightly coupled and depend on JDX API to be running and making calls. https://github.com/jobdataexchange/jdx-api
 
 # Running competensor
 Currently competensor usage is coupled with JDX-API. Running competensor without running JDX-API will cause competensor to fail to start because it relies on JDX-API’s database to be running.
