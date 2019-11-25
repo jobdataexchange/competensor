@@ -12,15 +12,15 @@ Currently competensor usage is coupled with JDX-API. Running competensor without
 
 Competensor can be easily decoupled from JDX-API to suite your needs. Don’t hesitate to contact us (engineering@brighthive.io) for help.
 
-Currently JDX-API is not yet open source but we are working on doing so.
+JDX-API repo can be found here, https://github.com/jobdataexchange/jdx-api
 
 First `git clone` competensor to your local computer.
 `docker-compose up`
 
 Again, running these commands will start competensor but it will fail. In order to prevent it from failing first
 
-`git clone` JDX-API
-`docker-compose up`
+- `git clone` JDX-API repo
+- `docker-compose up`
 
 ## Running on older versions of Docker
 Docker has two flavors, virtual machine (VMs) versions and native versions. Older versions run VMs while the newer version run natively. VM versions of docker may have a set memory limit that is too low for competensor and cause a bash error `137` (out of memory).
